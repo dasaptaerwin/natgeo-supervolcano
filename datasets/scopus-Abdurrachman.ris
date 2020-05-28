@@ -1,0 +1,902 @@
+TY  - JOUR
+TI  - Mapping recent shoreline changes spanning the lateral collapse of Anak Krakatau Volcano, Indonesia
+T2  - Applied Sciences (Switzerland)
+J2  - Appl. Sci.
+VL  - 10
+IS  - 2
+PY  - 2020
+DO  - 10.3390/app10020536
+SN  - 20763417 (ISSN) 
+AU  - Novellino, A.
+AU  - Engwell, S.L.
+AU  - Grebby, S.
+AU  - Day, S.
+AU  - Cassidy, M.
+AU  - Madden-Nadeau, A.
+AU  - Watt, S.
+AU  - Pyle, D.
+AU  - Abdurrachman, M.
+AU  - Nurshal, M.E.M.
+AU  - Tappin, D.R.
+AU  - Kurniawan, I.A.
+AU  - Hunt, J.
+AD  - British Geological Survey, Environmental Science Centre, Keyworth, Nottingham, NG12 5GG, United Kingdom
+AD  - Nottingham Geospatial Institute, University of Nottingham, Nottingham, NG7 2TU, United Kingdom
+AD  - Department of Earth Sciences, University College London, Gower Street, London, WC1E 6BT, United Kingdom
+AD  - Department of Earth Sciences, University of Oxford, South Parks Road, Oxford, OX1 3AN, United Kingdom
+AD  - School of Geography, Earth and Environmental Sciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT, United Kingdom
+AD  - Petrology, Volcanology, and Geochemistry Research Group, Department of Geological Engineering, Bandung Institute of Technology, Bandung, 40132, Indonesia
+AD  - National Oceanography Centre, Waterfront Campus, University of Southampton, European Way, Southampton, SO14 3ZH, United Kingdom
+AB  - We use satellite imagery to investigate the shoreline changes associated with volcanic activity in 2018-2019 at Anak Krakatau, Indonesia, spanning a major lateral collapse and period of regrowth through explosive activity. The shoreline changes have been analyzed and validated through the adaptation of an existing methodology based on Sentinel-2 multispectral imagery and developed on Google Earth Engine. This work tests the results of this method in a highly dynamic volcanic environment and validates them with manually digitized shorelines. The analysis shows that the size of the Anak Krakatau Island increased from 2.84 km2 to 3.19 km2 during 15 May 2018-1 November 2019 despite the loss of area in the 22 December 2018 lateral collapse. The lateral collapse reduced the island area to ~1.5 km2 but this was followed by a rapid increase in area in the first two months of 2019, reaching up to 3.27 km2. This was followed by a period of little change as volcanic activity declined and then by a net decrease from May 2019 to 1 November 2019 that resulted from erosion on the SW side of the island. This history of post-collapse eruptive regrowth and coastal erosion derived from the shoreline changes illuminates the potential for satellite-based automated shoreline mapping to provide databases for monitoring remote island volcanoes. © 2020 by the authors.
+KW  - Anak Krakatau
+KW  - Cloud computing
+KW  - Explosive volcanism
+KW  - Google Earth Engine
+KW  - Sentinel-2
+KW  - Shoreline
+KW  - Tsunami hazards
+PB  - MDPI AG
+N1  - Cited By :1
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+C7  - 536
+LA  - English
+N1  - Correspondence Address: Novellino, A.; British Geological Survey, Environmental Science CentreUnited Kingdom; email: alessn@bgs.ac.uk
+N1  - Funding details: British Geological Survey, BGS
+N1  - Funding details: European Space Agency, ESA
+N1  - Funding details: British Geological Survey, BGS
+N1  - Funding details: Natural Environment Research Council, NERC, NE/T002026/1, NE/S003509/1
+N1  - Funding text 1: Support from the UK Natural Environment Research Council, Grant NE/S003509/1 is acknowledged by D.R.T., S.L.E., S.W. and Grant NE/T002026/1 by S.W. and S.L.E.; A.N., D.R.T. and S.L.E. publish with permission of the CEO, British Geological Survey. Support from Bandung Institute of Technology, Grant P3MI is acknowledged by M.A., M.E.M.N., I.A.K. The methodology has been developed and supported as part of the BGS's GeoCoast product development program of work. Andres Payo and Ekbal Hussain from BGS are gratefully acknowledged for fruitful discussions. The authors also appreciate the efforts of the European Space Agency in providing high-quality open-access data to the scientific community and Google Earth Engine for facilitating the access to and the processing of the archive of publicly available satellite imagery.
+N1  - References: Siebert, L., Simkin, T., Kimberly, P., (2011) Volcanoes of the World, , University of California Press: Berkeley, CA, USA; 
+Ewert, J.W., Guffanti, M., Murray, T.L., (2005) An Assessment of Volcanic Threat and Monitoring Capabilities in the United States: Framework for a National Volcano Early Warning System, , Open-File Report 2005-1164; United States Geological Survey: Reston, VA, USA; 
+Loughlin, S.C., Sparks, R.S., Sparks, S., Brown, S.K., Jenkins, S.F., Vye-Brown, C., (2015) Global Volcanic Hazards and Risk, , Cambridge University Press: Cambridge, UK; 
+Valade, S., Ley, A., Massimetti, F., D'Hondt, O., Laiolo, M., Coppola, D., Loibl, D., Walter, T.R., Towards Global Volcano Monitoring Using Multisensor Sentinel Missions and Artificial Intelligence: The MOUNTS Monitoring System (2019) Remote Sens., 11, p. 1528; 
+Siebert, L., Hazards of Large Volcanic Debris Avalanches and Associated Eruptive Phenomena (1996) Monitoring and Mitigation of Volcano Hazards, pp. 541-572. , Springer: Berlin/Heidelberg, Germany; 
+Day, S.J., Volcanic Tsunamis (2015) The Encyclopedia of Volcanoes, pp. 993-1009. , Academic Press: Amsterdam, The Netherlands; 
+Taylor, G.A., The 1951 eruption of Mount Lamington, Papua (1958) Aust. Bur. Min. Resour. Geol. Geophys. Bull., 38, pp. 1-117; 
+Johnson, R.W., (2013) Fire Mountains of the Islands: A History of Volcanic Eruptions and Disaster Management in Papua New Guinea and the Solomon Islands, , ANU E Press: Canberra, ACT, Australia; 
+Tilling, R.I., The 1982 eruption of El Chichón volcano, southeastern Mexico (1982) Earthq. Inf. Bull. U. S. Geol. Surv., 14, pp. 164-172; 
+Tilling, R.I., El Chichón's "surprise" eruption in 1982: Lessons for reducing volcano risk (2009) Geofís. Int., 48, pp. 3-19; 
+Goitom, B., Oppenheimer, C., Hammond, J.O., Grandin, R., Barnie, T., Donovan, A., Ogubazghi, G., Kendall, J.M., First recorded eruption of Nabro Volcano, Eritrea, 2011 (2015) Bull. Volcanol., 77, p. 85; 
+Van Eaton, A.R., Amigo, Á., Bertin, D., Mastin, L.G., Giacosa, R.E., González, J., Valderrama, O., Behnke, S.A., Volcanic lightning and plume behavior reveal evolving hazards during the April 2015 eruption of Calbuco volcano, Chile (2016) Geophys. Res. Lett., 43, pp. 3563-3571; 
+Naismith, A.K., Watson, I.M., Escobar-Wolf, R., Chigna, G., Thomas, H., Coppola, D., Chun, C., Quinillo, C.C., Eruption frequency patterns through time for the current (1999-2018) activity cycle at Volcán de Fuego derived from remote sensing data: Evidence for an accelerating cycle of explosive paroxysms and potential implications of eruptive activity (2019) J. Volcanol. Geotherm. Res., 371, pp. 206-219; 
+Williams, R., Rowley, P., Garthwaite, M.C., Reconstructing the Anak Krakatau flank collapse that caused the December 2018 Indonesian tsunami (2019) Geology, 47, pp. 973-976; 
+Indonesia, Tsunami in Sunda Strait, , http://adinet.ahacentre.org/reports/view/1383, (accessed on 29 November 2019); 
+Pyle, D.M., Mather, T.A., Biggs, J., Remote sensing of volcanoes and volcanic processes: Integrating observation and modelling-Introduction (2013) Geol. Soc. Lond. Spec. Publ., 380, pp. 1-13; 
+Kerr, R., Volcanologists ponder a spate of deaths in the line of duty (1993) Science, 260, pp. 289-290; 
+Baxter, P.J., Gresham, A., Deaths and injuries in the eruption of Galeras Volcano, Colombia, 14 January 1993 (1997) J. Volcanol. Geotherm. Res., 77, pp. 325-338; 
+Dolan, R., Hayden, B.P., May, P., May, S.K., The reliability of shoreline change measurements from aerial photo-graphs (1980) Shore Beach, 48, pp. 22-29; 
+Ramalho, R.S., Quartau, R., Trenhaile, A.S., Mitchell, N.C., Woodroffe, C.D., Ávila, S.P., Coastal evolution on volcanic oceanic islands: A complex interplay between volcanism, erosion, sedimentation, sea-level change and biogenic production (2013) Earth-Sci. Rev., 127, pp. 140-170; 
+Symons, G.J., Judd, J.W., Strachey, S.R., Wharton, W.J.L., Evans, F.J., Russell, F.A.R., Archibald, D., Whipple, G.M., (1888) The Eruption of Krakatoa, and Subsequent Phenomena, , Trübner & Company: London, UK; 
+Verbeek, R.D.M., (1886) Krakatau, , Imprimerie de l'état: Batavia, Dutch East Indies, (In French); 
+Simkin, T., Fiske, R.S., Krakatau 1883 (1983) The Volcanic Eruption and Its Effects, p. 464. , Smithsonian Institution Press: Washington, DC, USA; 
+Krakatau Eruptive History, , http://volcano.si.edu/volcano.cfm?vn=262000, (accessed on 13 November 2019); 
+Stehn, C.E., The geology and volcanism of the Krakatau Group (1929) Proceedings of the Fourth Pacific Science Congress, pp. 1-55. , Batavia-Bandoeng, Java, May-June 1929; Martinus Nijhoff: Hague, The Netherlands; 
+Giachetti, T., Paris, R., Kelfoun, K., Ontowirjo, B., Tsunami hazard related to a flank collapse of Anak Krakatau Volcano, Sunda Strait, Indonesia (2012) Geol. Soc. Lond. Spec. Publ., 361, pp. 79-90; 
+Abdurrachman, M., Widiyantoro, S., Priadi, B., Ismail, T., Geochemistry and Structure of Krakatoa Volcano in the Sunda Strait, Indonesia (2018) Geosciences, 8, p. 111; 
+Escher, B.G., Rapport sur les phénomènes volcanologiques dans l'Archipel Indien pendant les années 1933, 1934 et 1935 et sur les ouvrages de volcanologique publiés durant ces années, concernant le volcans des Indes Néerlandaises (1937) Bull. Volcanol., 1, pp. 127-177. , (In French); 
+Sudradjat, A., The Morphological Development of Anak Krakatau Volcano, Sunda Strait (1982) Geol. Indones., 9, pp. 1-11; 
+Decker, R.W., Hadikusumo, D., Results of the 1960 expedition to Krakatau (1961) J. Geophys. Res., 66, pp. 3497-3511; 
+Sutawidjaja, I.S., The Activities of Anak Krakatau Volcano during the Years of 1992-1996 (1997) Disaster Prev. Res. Inst. Annu., 40, pp. 13-22; 
+Walter, T.R., Haghighi, M.H., Schneider, F.M., Coppola, D., Motagh, M., Saul, J., Babeyko, A., Tilmann, F., Complex hazard cascade culminating in the Anak Krakatau sector collapse (2019) Nat. Commun., 10, p. 4339; 
+Grilli, S.T., Tappin, D.R., Carey, S., Watt, S.F.L., Ward, S.N., Grilli, A.R., Engwell, S.L., Schambach, L., Modelling of the tsunami from the December 22, 2018 lateral collapse of Anak Krakatau volcano in the Sunda Straits, Indonesia (2019) Sci. Rep., 9, p. 11946; 
+Vos, K., Harley, M.D., Splinter, K.D., Simmons, J.A., Turner, I.L., Sub-annual to multi-decadal shoreline variability from publicly available satellite imagery (2019) Coast. Eng., 150, pp. 160-174; 
+Luijendijk, A., Hagenaars, G., Ranasinghe, R., Baart, F., Donchyts, G., Aarninkhof, S., Author Correction: The State of the World's Beaches (2018) Sci. Rep., 8, p. 6641; 
+Vos, K., Splinter, K.D., Harley, M.D., Simmons, J.A., Turner, I.L., CoastSat: A Google Earth Engine-enabled Python toolkit to extract shorelines from publicly available satellite imagery (2019) Environ. Model. Softw., 122, p. 104528; 
+McFeeters, S.K., The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features (1996) Int. J. Remote Sens., 17, pp. 1425-1432; 
+Otsu, N., A threshold selection method from grey scale histogram (1979) IEEE Trans. Syst. Man Cybern., 9, pp. 62-66; 
+Blackett, M., An Overview of Infrared Remote Sensing of Volcanic Activity (2017) J. Imaging, 3, p. 13; 
+Gouhier, M., Paris, R., SO2 and tephra emissions during the December 22, 2018 Anak Krakatau flank-collapse eruption (2019) Volcanica, 2, pp. 91-103; 
+Deplus, C., Bonvalot, S., Dahrin, D., Diament, M., Harjono, H., Dubois, J., Inner structure of the Krakatau volcanic complex (Indonesia) from gravity and bathymetry data (1995) J. Volcanol. Geotherm. Res., 64, pp. 23-52
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081280169&doi=10.3390%2fapp10020536&partnerID=40&md5=7a5ce4fce197c2f17b99f9b028b5e381
+ER  - 
+
+TY  - JOUR
+TI  - Petrology and geochemistry dataset of lava from the Ijen Crater and Mount Blau, Banyuwangi, East Java, Indonesia
+T2  - Data in Brief
+J2  - Data Brief
+VL  - 27
+PY  - 2019
+DO  - 10.1016/j.dib.2019.104765
+SN  - 23523409 (ISSN) 
+AU  - Pratama, A.
+AU  - Hadiyat, H.
+AU  - Atarita, F.R.
+AU  - Bijaksana, S.
+AU  - Santoso, D.
+AU  - Abdurrachman, M.
+AU  - Fajar, S.J.
+AD  - Faculty of Mining and Petroleum Engineering, Institut Teknologi Bandung, Bandung, 40132, Indonesia
+AD  - Faculty of Earth Sciences and Technology, Institut Teknologi Bandung, Bandung, 40132, Indonesia
+AB  - This article presents rock texture and mineralogy, as well as major and trace elements of lava from Ijen Crater and Mount Blau, Ijen Volcanic Complex (IVC), East Java, Indonesia related to article entitled “Rock Magnetic, Petrography, and Geochemistry Studies of Lava at the Ijen Volcanic Complex (IVC), Banyuwangi, East Java, Indonesia” [1]. Six lava samples were taken from three lava flows that are the product of the eruption of the Ijen Crater and three lava samples from a lava flow that is the product of the eruption of Mount Blau. The samples were crushed and used for measuring major and trace elements using XRF method. Meanwhile, the thin sections of all samples were used to analyze rock texture and mineralogy. These data are invaluable in identifying the lithology, tectonic setting, and magmatism process through the analysis of total silica alkaline and Harker diagram. Other researchers can analyze the other diagrams and graphs to know in more detailed information as intended. On the other hand, the data can be used as a comparison for other lava products from different eruption sources. © 2019 The Authors
+KW  - Ijen crater
+KW  - Indonesia
+KW  - Lava
+KW  - Mount blau
+KW  - Rock texture
+KW  - Whole rock geochemistry
+PB  - Elsevier Inc.
+N1  - Export Date: 28 May 2020
+M3  - Data Paper
+DB  - Scopus
+C7  - 104765
+LA  - English
+N1  - Correspondence Address: Bijaksana, S.; Faculty of Mining and Petroleum Engineering, Institut Teknologi BandungIndonesia; email: satria@fi.itb.ac.id
+N1  - Funding text 1: This study is supported financially by research grant from the Ministry of Research, Technology, and Higher Education of the Republic of Indonesia through the PMDSU scheme to SB and AP. Thanks are also due to the governments of Banyuwangi Regency for their permission to conduct research in the Ijen Crater and Mount Blau.
+N1  - References: Pratama, A., Bijaksana, S., Abdurrachman, M., Santoso, N.A., Rock magnetic, petrography, and geochemistry studies of lava at the Ijen volcanic complex (IVC), Banyuwangi, East Java, Indonesia (2018) Geosciences, 8, pp. 1-14; 
+Sujanto, M.Z., Syarifuddin, K., Sitorus, Geological Map of the Ijen Caldera Complex, East Java, Volcanology Survey of Indonesia (1988), Bandung Indonesia; Handley, H.K., Macpherson, C.G., Davidson, J.P., Berlo, K., Lowry, D., Constraining fluid and sediment contributions to subduction-related magmatism in Indonesia: Ijen Volcanic Complex (2007) J. Petrol., 48, pp. 1155-1183; 
+Metcalf, R.V., Shervais, J.W., Suprasubduction-zone ophiolites: is there really an ophiolite conundrum? (2008) Spec. Pap. Geol. Soc. Am., 438, pp. 191-222; 
+Le Bas, M.J., Le Maitre, R.W., Streckeisen, A., Zanettin, B.A., A chemical classification of volcanic rocks based on the total alkali-silica diagram (1986) J. Petrol., 27, pp. 745-750; 
+Cox, K.G., Bell, J.D., Pankhurst, R.J., The Interpretation of Igneous Rocks (1979), Springer-Science+Business Media, B.V. UK; Peccerillo, A., Taylor, S.R., Geochemistry of Eocene calc-alkaline volcanic rocks from the Kastamonu area, northern Turkey (1976) Contrib. Mineral. Petrol., 58, pp. 63-81; 
+Best, M.G., Igneous and Metamorphic Petrology (2003), second ed. Blackwell Publishing Italy; Gill, R., Igneous Rocks and Processes: A Practical Guide (2010), Wiley Blackwell Malaysia; Atarita, F.R., Bijaksana, S., Ndari, N.R.D.W., Pratama, A., Taqwantara, R.F., Fajar, S.J., Latief, F.D.E., Anisotropy of magnetic susceptibility and preferred pore orientation in lava flow from the Ijen volcanic complex, East Java, Indonesia (2019) Geosciences, 9, p. 304; 
+Pratama, A., Hafidz, A., Bijaksana, S., Abdurrachman, M., Basaltic lava characterization using magnetic susceptibility identification and presence of opaque minerals in Ijen volcanic complex, Banyuwangi, East Java (2017) AIP Conf. Proc., 1861, pp. 1-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074967649&doi=10.1016%2fj.dib.2019.104765&partnerID=40&md5=4b60aa040c554f0b0565c493b4237af4
+ER  - 
+
+TY  - CONF
+TI  - Crystal size distribution (CSD) of plagioclase phenocryst-microphenocryst and the calculation of crystal resident times in the continuous central eruption sequences of Mount Lasem, Central Java, Indonesia
+C3  - Journal of Physics: Conference Series
+J2  - J. Phys. Conf. Ser.
+VL  - 1363
+IS  - 1
+PY  - 2019
+DO  - 10.1088/1742-6596/1363/1/012041
+SN  - 17426588 (ISSN) 
+AU  - Nugroho, R.P.
+AU  - Disando, T.
+AU  - Kurniawan, I.A.
+AU  - Abdurrachman, M.
+AD  - Geological Engineering Study Program, Universitas Pertamina, Indonesia
+AD  - Petrology Laboratory, Geological Engineering Study Program, Institut Teknologi Bandung, Indonesia
+AB  - Mount Lasem is an extinct volcano in Central Java. Based on field work, five continuous central lava eruption sequences were identified. The rocks sampled from those lava units were classified as andesite which exhibit sign of magma mixing based on textural features from optical microscopy observation. With consideration of the importance of plagioclase in magma cooling reconstruction, a quantitative approach using crystal size distribution (CSD) of plagioclase phenocryst (long axis >=0.5 mm) and microphenocryst (long axis 0.1 - <0.5 mm) from five lava units was conducted. This method, which has never been applied to the eruption products of this volcano, revealed variation of magma resident time during the continuous central eruption phase of Mount Lasem. By using G=10-10 mm/s (growth rate) for plagioclase phenocryst and microphenocryst, residence times of the magma for both populations were predicted at 63 - 120 years and 8 - 18 years respectively. This results show that there are different time and mechanism constrains in the crystallization of the two populations prior to eruption events. © Published under licence by IOP Publishing Ltd.
+KW  - Environmental technology
+KW  - Feldspar
+KW  - Grain size and shape
+KW  - Population statistics
+KW  - Residence time distribution
+KW  - Size distribution
+KW  - Volcanoes
+KW  - Crystal size distributions
+KW  - Field works
+KW  - Magma mixing
+KW  - Plagioclase phenocrysts
+KW  - Quantitative approach
+KW  - Residence time
+KW  - Resident time
+KW  - Textural feature
+KW  - Growth rate
+PB  - Institute of Physics Publishing
+T2  - 1st Workshop on Environmental Science, Society, and Technology, WESTECH 2018
+Y2  - 8 December 2018
+N1  - Conference code: 155437
+N1  - Export Date: 28 May 2020
+M3  - Conference Paper
+DB  - Scopus
+C7  - 012041
+LA  - English
+N1  - References: Wölbern, I., Rümpker, G., Crustal thickness beneath Central and East Java (Indonesia) inferred from P receiver functions (2016) J. Asian Earth Sci., 115, pp. 69-79; 
+Hall, R., Sevastjanova, I., Australian crust in Indonesia (2012) Aust. J. Earth Sci., 59 (6), pp. 827-844; 
+Disando, T., Abdurrachman, M., Distinct Geochemical Features in a Magmatic Arc System: A Comparison between Lasem and Muria Volcano (2017) Proceeding of Joint Convention Malang 2017, HAGI - IAGI - IAFMI-IATMI (JCM 2017), p. 6; 
+Clements, B., Hall, R., Smyth, H.R., Cottam, M.A., Thrusting of a volcanic arc: A new structural model for Java (2009) Pet. Geosci., 15 (2), pp. 159-174; 
+Schneider, C.A., Rasband, W.S., Eliceiri, K.W., NIH Image to ImageJ: 25 years of image analysis (2012) Nat. Methods, 9 (7), pp. 671-675; 
+Morgan, D.J., Jerram, D.A., On estimating crystal shape for crystal size distribution analysis (2006) J. Volcanol. Geotherm. Res., 154 (1-2), pp. 1-7; 
+Higgins, M.D., Measurement of crystal size distributions (2000) Am. Mineral., 85 (9), pp. 1105-1116; 
+Cashman, K.V., Relationship between plagioclase crystallization and cooling rate in basaltic melts (1993) Contrib. to Mineral. Petrol., 113 (1), pp. 126-142; 
+Bergantz, G.W., Breidenthal, R.E., Non-stationary entrainment and tunneling eruptions: A dynamic link between eruption processes and magma mixing (2001) Geophys. Res. Lett., 28 (16), pp. 3075-3078; 
+Snyder, D., Tait, S., Magma mixing by convective entrainment (1996) Nature, 379 (6565), p. 529; 
+Vinet, N., Higgins, M.D., Magma Solidification Processes beneath Kilauea Volcano, Hawaii: A Quantitative Textural and Geochemical Study of the 1969-1974 Mauna Ulu Lavas (2010) J. Petrol., 51 (6), pp. 1297-1332; 
+Higgins, M.D., Magma dynamics beneath Kameni volcano, Thera, Greece, as revealed by crystal size and shape measurements (1996) J. Volcanol. Geotherm. Res., 70 (1-2), pp. 37-48; 
+Depaolo, D.J., Trace element and isotopic effects of combined wallrock assimilation and fractional crystallization (1981) Earth Planet. Sci. Lett., 53 (2), pp. 189-202; 
+Hort, M., Abrupt Change in Magma Liquidus Temperature because of Volatile Loss or Magma Mixing: Effects on Nucleation, Crystal Growth and Thermal History of the Magma (1998) J. Petrol., 39 (5), pp. 1063-1076
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076456150&doi=10.1088%2f1742-6596%2f1363%2f1%2f012041&partnerID=40&md5=e2b019c02af65b8e58c198bdd3082837
+ER  - 
+
+TY  - JOUR
+TI  - Insights into eruption dynamics from the 2014 pyroclastic deposits of Kelut volcano, Java, Indonesia, and implications for future hazards
+T2  - Journal of Volcanology and Geothermal Research
+J2  - J. Volcanol. Geotherm. Res.
+VL  - 382
+SP  - 6
+EP  - 23
+PY  - 2019
+DO  - 10.1016/j.jvolgeores.2018.02.005
+SN  - 03770273 (ISSN) 
+AU  - Goode, L.R.
+AU  - Handley, H.K.
+AU  - Cronin, S.J.
+AU  - Abdurrachman, M.
+AD  - Department of Earth and Planetary Sciences, Macquarie University, Sydney, NSW  2109, Australia
+AD  - School of Environment, University of Auckland, Private Bag 92019, Auckland, 1142, New Zealand
+AD  - Department of Geological Engineering, Bandung Institute of Technology, Bandung, 40132, Indonesia
+AB  - On 13 to 14 February 2014 a ~4 h long, VEI 4 eruption occurred at Kelut volcano (Java, Indonesia). Pyroclastic density currents (PDCs) and extensive ash fall led to 7 fatalities and disruption to flights across the Asia-Pacific region. New sedimentological descriptions of the pyroclastic deposits from the 2014 eruption were compared with eyewitness and satellite reports to elucidate temporal variations in eruptive dynamics. The stratigraphy of the deposits is presented in 3 stages, associated with two eruptions that occurred approximately ~15–30 min apart. Stage 1 PDC deposits originate from the smaller onset eruption. The PDC deposits from Stage 2, and tephra fall deposits from Stage 3 originate from the second, plinian eruption. During the onset eruption (Stage 1), low energy PDCs were produced that ran out to <2.6 km. Basal layers show characteristics of deposits similar to ash-cloud surges that carried dominantly fine ash and crystal fragments. These are capped by deposits typical of high-particle concentrated pyroclastic flows. All Stage 1 deposits have high contents of dense lithic fragments (up to 44% by vol.), sourced from the 2007–2008 lava dome and conduit walls, indicating that the eruption onset was driven by an explosive release of gas-overpressure below the vent-capping dome. Increases in the magma flux and transition to a more constant eruption led to a growing eruption column during the ~2-hour long Stage 2 plinian eruption. Pumice rich (>70% by vol.) PDC deposits ran out to 4.7 km from the vent. The deposits reflect an increased output of fresh fragmented magma, and some conduit widening evidenced by dense lithic fragments. Vent instabilities and incorporation of dense material into basal margins of the plume led to the marginal collapse and formation of these PDCs. Stage 3 occurred in the final hour at the peak of the plinian eruption, around 01:00 to 02:00, and produced reversely graded lapilli fall deposits with ≤90 vol% pumice from a 26 km-high plume. This indicates that there was a sustained flux of juvenile magma to the now open vent system, and expansion and fragmentation of the gas-rich magma was at its most efficient. Our study of the eruptive sequence of Kelut provides some constraints on predicted patterns for future explosive activity, critical for further hazard assessment of the volcano. Since 1901 Kelut has erupted on intervals of 1 to 23 years, and the 2014 event characterises a typical “explosive” style of eruption that alternates regularly with effusive dome-formation and collapse events. This pattern depends on the dynamics of magma renewal to the system, and degassing conditions in the shallow magma reservoir and upper conduit. If this pattern holds, and the next eruption occurs within the next two decades, a return of prolonged dome growth could be anticipated. © 2018 The Authors
+KW  - Kelud
+KW  - Lava dome
+KW  - Plinian
+KW  - Pyroclastic density current
+KW  - Pyroclastic flow
+KW  - Pyroclastic surge
+KW  - Tephra fall
+KW  - Domes
+KW  - Dynamics
+KW  - Explosives
+KW  - Hazards
+KW  - Stratigraphy
+KW  - Volcanoes
+KW  - Kelud
+KW  - Lava dome
+KW  - Plinian
+KW  - Pyroclastic density currents
+KW  - Pyroclastic flows
+KW  - Pyroclastic surge
+KW  - Tephra fall
+KW  - Deposits
+KW  - future prospect
+KW  - hazard assessment
+KW  - lava dome
+KW  - magma chamber
+KW  - plinian eruption
+KW  - pumice
+KW  - pyroclastic flow
+KW  - tephra
+KW  - volcanic eruption
+KW  - East Java
+KW  - Greater Sunda Islands
+KW  - Java
+KW  - Mount Kelud
+KW  - Pacific Ocean
+KW  - Pacific Rim
+KW  - Sunda Isles
+PB  - Elsevier B.V.
+N1  - Cited By :2
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Goode, L.R.; Department of Earth and Planetary Sciences, Macquarie UniversityAustralia; email: louise.goode@mq.edu.au
+N1  - Funding details: 2012196
+N1  - Funding details: FT120100440
+N1  - Funding text 1: Reza Firmansyah and Dermadi Madi from Bandung Institute of Technology are acknowledged for their assistance during fieldwork. Lucy McGee is thanked for many supportive conversations. We would also like to thank the two anonymous reviewers for their thought provoking comments that improved the manuscript. The Guest Editor Wendy McClausland is also thanked for handling the manuscript. L. Goode is funded by an International Macquarie University Research Excellence Scholarship (iMQRES) ( 2012196 ) associated with an Australian Research Council Future Fellowship awarded to H. Handley ( FT120100440 ). S. Cronin is funded by the New Zealand Natural Hazard Research Platform “Quantifying exposure to volcanic hazards” project.
+N1  - References: Andreastuti, S.D., Alloway, B.V., Smith, I.E.M., A detailed tephrostratigraphic framework at Merapi Volcano, Central Java, Indonesia: implications for eruption predicitions and hazard assessment (2000) J. Volcanol. Geotherm. Res., 100, pp. 51-67; 
+Andreastuti, S., Paripurno, E., Gunawan, H., Budianto, A., Syahbana, D., Pallister, J., Character of community response to volcanic crises at Sinabung and Kelud volcanoes (2019) J. Volcanol. Geotherm. Res., 382, pp. 298-310; 
+Arámbula-Mendoza, R., Lesage, R., Valdés-González, C., Varley, N.R., Reyes-Dávila, G., Navarro, C., Seismic activity that accompanied the effusive and explosive eruptions during the 2004-2005 period at Volcán de Colima, Mexico (2011) J. Volcanol. Geotherm. Res., 205, pp. 30-46; 
+Arce, J.L., Macias, J.L., Vazquez-Selem, L., The 10.5 km plinian eruption of Nevado de Toluca volcano, Mexico: stratigraphy and hazard implications (2003) Geol. Soc. Am. Bull., 115, pp. 230-248; 
+Bakosurtanal (in Indonesian). Topographical Map of Kelut Volcano (2013); Bernard, A., Mazot, A., Geochemical evolution of the young crater lake of Kelud volcano in Indonesia (2004) Water-rock Interaction, (WRI-11), pp. 87-90. , R.B. Wanty R.B. Seal II London Taylor and Francis Group Plc; 
+Bonadonna, C., Philips, J., Sedimentation from strong volcanic plumes (2003) J. Geophys. Res., 108, pp. 1-28; 
+Bourdier, J.-L., Pratomo, I., Thouret, J.-C., Boudon, G., Vincent, P.M., Observations, stratigraphy and the eruptive processes of the 1990 eruption of Kelut volcano, Indonesia (1997) J. Volcanol. Geotherm. Res., 79, pp. 181-203; 
+Bourdier, J.-L., Thouret, J.-C., Pratomo, I., Vincent, P.M., Boudon, G., Volcanic hazards at Kelut volcano (Java island, Indonesia): lessons learned from the 1990 eruption (1997) Geomaterials, 324, pp. 961-968; 
+Branney, M.J., Kokelaar, P., Pyroclastic density currents and the sedimentation of ignimbrites (2002) Geol. Soc. Lond. Mem., 27; 
+Brown, R.J., Bonadonna, C., Durant, A.J., A review of volcanic ash aggregation (2012) Phys. Chem. Earth, 45-46, pp. 65-78; 
+Bursik, M.I., Sparks, R.S.J., Gilbert, J.S., Carey, S.N., Sedimentation of tephra by volcanic plumes, I, theory and its comparison with a study of the Fogo A plinian deposit, Sao Miguel (Azores) (1992) Bull. Volcanol., 54, pp. 329-344; 
+Calder, E.S., Cole, P.D., Dade, W.B., Druitt, T.H., Hoblitt, R.P., Huppert, H.E., Richie, L., Young, S.R., Mobility of pyroclastic flows and surges at the Soufriere Hills Volcano, Montserrat (1999) Geophys. Res. Lett., 26, pp. 537-540; 
+Calder, E.S., Sparks, R.S.J., Gardeweg, M.C., Erosion, transport and segregation of pumice and lithic clasts in pyroclastic flows inferred from ignimbrite at Lascar Volcano, Chile (2000) J. Volcanol. Geotherm. Res., 104, pp. 201-235; 
+Carey, S.N., Sigurdsson, H., The intensity of plinian eruptions (1989) Bull. Volcanol., 51, pp. 28-40; 
+Carey, R.J., Houghton, B.F., Sable, J.E., Wilson, C.J.N., Contrasting grain size and componentry in complex proximal deposits of the 1886 Tarawera basaltic Plinian eruption (2007) Bull. Volcanol., 69, pp. 903-926; 
+Caudron, C., Mazot, A., Bernard, A., Carbon dioxide dynamics in Kelud volcanic lake (2012) J. Geophys. Res., 117, pp. 1-11; 
+Caudron, C., Taisne, B., Garces, M., Alexis, L.P., Mialle, P., On the use of remote infrasound and seismic stations to constrain the eruptive sequence and intensity for the 2014 Kelud eruption (2015) Geophys. Res. Lett., pp. 6614-6621; 
+Cioni, R., Marianelli, P., Santacroce, R., Sbrana, A., Plinian and subplinian eruptions (2000) Encyclopedia of Volcanoes, pp. 477-494. , H. Sigurdsson B. Houghton H. Rymer S. McNutt J. Stix Academic Press; 
+Cioni, R., Gurioli, L., Lanza, R., Zanella, E., Temperatures of A.D. 79 pyroclastic density currents deposits (Vesuvius, Italy) (2004) J. Geophys. Res., 109; 
+Cronin, S.J., Lube, G., Dayudi, D.S., Sumarti, S., Subrandiyo, S., Surono, Insights into the October–November 2010 Gunung Merapi eruption (Central Java, Indonesia) from the stratigraphy, volume and characteristics of its pyroclastic deposits (2013) J. Volcanol. Geotherm. Res., 261, pp. 244-259; 
+Dare, R.A., Smith, D.H., Naughton, M.J., Ensemble predicition of the dispersion of volcanic ash from the 13 February 2014 eruption of Kelut, Indonesia (2016) J. Appl. Meteorol. Climatol., 55, pp. 61-80; 
+De Bélizal, E., Lavigne, F., Gaillard, J.C., Grancher, D., Pratomo, I., Komorowski, J.C., The 2007 eruption of Kelut volcano (East Java, Indonesia): phenomenology, crisis management and social response (2012) Geomorphology, 136, pp. 165-175; 
+Dibyosaputro, S., Dipayana, G.A., Nugraha, H., Pratiwi, K., Valeda, H.P., Lahar at Kali Konto after the 2014 eruption of Kelud volcano, East Java: impacts and risk (2015) Forum Geografi., 29, pp. 59-72; 
+Dirksen, O., Humphreys, M.C.S., Pletchov, P., Melnik, O., Demyanchuk, Y., Sparks, R.S.J., Mahony, S., The 2001–2004 dome-forming eruption of Shiveluch volcano (2006) Kamchatka: Observation, Petrological Investigation and Numerical Modelling, 155, pp. 201-226; 
+Druitt, T.H., Kokelaar, B.P., (2002) The Eruption of Soufriere Hills Volcano, Montserrat, from 1995 to 1999, , Geological Society of London; 
+Edmonds, M., Herd, R.A., A volcanic degassing event at the explosive-effusive transition (2007) Geophys. Res. Lett., 34; 
+Edmonds, M., Herd, R.A., Strutt, M.H., Tephra deposits associated with a large lava dome collapse, Soufriere Hills Volcano, Montserrat, 12–15 July 2003 (2006) J. Volcanol. Geotherm. Res., 153, pp. 313-330; 
+Fink, J.H., The emplacement of silicic domes and lava flows (1987) Geol. Soc. Am. Bull., 212, p. 37; 
+Folk, R.L., Ward, W.C., Brazos river bar: a study in the significance of grain size parameters (1957) J. Sediment. Petrol., 27, pp. 3-26; 
+Gardner, J.E., Thomas, R.M.E., Jaupart, C., Tait, S., Fragmentation of magma during plinian volcanic eruptions (1996) Bull. Volcanol., 58, pp. 144-162; 
+Gertisser, R., Charbonnier, S.J., Keller, J., Quidelleur, X., The geological evolution of Merapi volcano, Central Java, Indonesia (2012) Bull. Volcanol., 74, pp. 1213-1233; 
+Girona, T., Costa, F., Schubert, G., Degassing during quiescence as a trigger of magma ascent and volcanic eruptions (2015) Sci. Rep., 5 (18212); 
+Report on Kelut (Indonesia) (1990) Bulletin of the Global Volcanism Network, 15:1. Smithsonian Institution, , L. McClelland Available at:; 
+Report on Kelut (Indonesia) (1990) Bulletin of the Global Volcanism Network, 15, p. 9. , L. McClelland Smithsonian Institution Available at:; 
+Report on Kelut (Indonesia) (2008) Bulletin of the Global Volcanism Network, 33, p. 3. , R. Wunderman Smithsonian Institution Available at:; 
+Report on Kelut (Indonesia) (2012) Bulletin of the Global Volcanism Network, 37, p. 3. , R. Wunderman Smithsonian Institution Available at:; 
+Report on Kelut (Indonesia) (2014) Bulletin of the Global Volcanism Network, 39, p. 2. , R. Wunderman Smithsonian Institution Available at:; 
+http://www.volcano.si.edu/volcano.cfm?vn=263280, Global Volcanism Program (GVP). (2014a). Eruptive History. In: Kelut Eruption Page. Smithsonian Institution. Accessed March 2015. Available at:; Smithsonian Institution, Kelut Eruption page (2014), http://www.volcano.si.edu/volcano.cfm?vn=263280, Available at:; Kelut and Surrounding Areas. 7°56′55.11″S, 112°18′30.00″E, Elevation 1335 m, Eye Alt 16.26 km (2015), Google Earth Pro 7.1.1.1580, World View, DigitalGlobe Inc. Viewed 23/08/2015; Gorshkov, G.S., Dubik, Y.M., Gigantic directed blast at Shiveluch volcano (Kamchatka) (1970) Bull. Volcanol., 34, pp. 261-288; 
+Hadikusumo, D., The rise and drop of Mt. Kelut crater bottom after paroxysmal eruptions (1974) Tectonophysics, 23, pp. 341-347; 
+Hall, R., Cenozoic geological and plate tectonic evolution of SE Asia and the SW Pacific: computer-based reconstructions, model and animations (2002) J. Asia Earth Sci., 20, pp. 353-431; 
+Hall, R., Australia-SE Asia collision: plate tectonics and crustal flow (2011) The SE Asian Gateway: History and Tectonics of Australia-Asia Collision, pp. 75-109. , R. Hall M.A. Cottam M.E.J. Wilson Geological Society of London Special Publication; 
+Hamilton, W., Tectonics of the Indonesian Region (1979) US Geological Survey Professional Paper, 1078, pp. 1-50; 
+Hidayat, M., Infrasound Monitoring in Indonesia (2014) Paper Presented at Infrasound Technology Workshop, 2014, Vienna, Austria, October; 
+Hidayati, S.H., Basuki, A., Kristianto, Mulyana, I., Emergence of lava dome from the crater lake of Kelud volcano, East Java (2009) J. Geol. Indones., 4, pp. 229-238; 
+Humaida, H., Brotopuspito, K.S., Pranowo, H.D., Narsito, D., Modelling of magma density and viscosity changes and their influences towards the characteristic of Kelud Volcano Eruption (in Indonesian) (2011) J. Geol. Indones., 6, pp. 227-237; 
+Jácome Paz, M.P., Taran, Y., Inguaggiato, S., Collard, N., CO2 flux and chemistry of El Chichón crater lake (Mexico) in the period of 2013–2015: evidence for enhanced volcano activity (2015) Geophys. Res. Lett., pp. 127-134; 
+Jeffery, A.J., Gertisser, R., Troll, V.R., Jolis, E.M., Dahren, B., Harris, C., Tindle, A.G., Chadwick, J.P., The pre-eruptive magma plumbing system of the 2007–2008 dome-forming eruption of Kelut volcano, East Java, Indonesia (2013) Contrib. Mineral. Petrol., 166, pp. 275-308; 
+Klug, C., Cashman, K.V., Permeability development in vesiculating magmas: implications for fragmentation (1996) Bull. Volcanol., 58, pp. 87-100; 
+Klug, C., Cashman, K.V., Bacon, C.R., Structure and physical characteristics of pumice from the climactic eruption of Mount Mazama (Crater Lake), Oregon (2002) Bull. Volcanol., 64, pp. 486-501; 
+Kristiansen, N.I., Prata, A.J., Stohl, A., Carn, S.A., Stratospheric volcanic ash emissions from the 13 February 2014 Kelut eruption (2015) Geophys. Res. Lett., 42, pp. 588-596; 
+Lavallée, Y., Varley, N.R., Alatorre-Ibarguengoitia, M.A., Hess, K.U., Kueppers, U., Mueller, S., Richard, D., Dingwell, D.B., Magmatic architecture of dome-building eruptions at Volcan de Colima, Mexico (2012) Bull. Volcanol., 74, pp. 249-260; 
+Lube, G., Cronin, S.J., Platz, T., Freundt, A., Procter, J.N., Henderson, C., Sheridan, M.F., Flow and deposition of pyroclastic granular flows: a type example from the 1975 Ngauruhoe eruption, New Zealand (2007) J. Volcanol. Geotherm. Res., 161, pp. 165-186; 
+Lube, G., Cronin, S.J., Thouret, J.-C., Surono, Kinematic characteristics of pyroclastic density currents at Merapi and controls on their avlusion from natural and engineered channels (2011) Geol. Soc. Am. Bull., 123, pp. 1127-1140; 
+Lube, G., Breard, E.C.P., Cronin, S.J., Procter, J.N., Brenna, M., Moebis, A., Pardo, N., Fournier, N., Dynamics of surges generated by hydrothermal blasts during the 6 August 2012 Te Maari eruption, Mt. Tongariro, New Zealand (2014) J. Volcanol. Geotherm. Res., 286, pp. 348-366; 
+Maeno, F., Nakada, S., Yoshimoto, M., Shimano, T., Hokanishi, N., Zaennudin, A., Iguchi, M., A sequence of a plinian eruption preceded by dome destruction at Kelud volcano, Indonesia, on February 13, 2014, revealed from tephra fallout and pyroclastic density current deposits (2019) J. Volcanol. Geotherm. Res., 382, pp. 24-41; 
+McBirney, A.R., Murase, T., Factors governing the formation of pyroclastic rocks (1970) Bull. Volcanol., 34, pp. 372-384; 
+Melnik, O., Barmin, A.A., Sparks, R.S.J., Dynamics of magma flow inside volcanic conduits with bubble overpressure buildup and gas loss through permeable magma (2005) J. Volcanol. Geotherm. Res., 143, pp. 53-68; 
+Mulyana, A.R., Nasution, A., Martono, A., Sumpena, A.D., (2004), Purwoto, and Santoso, M.S. Peta Kawasan Rawan Bencana Gunungapi Kelud, Propinsi Jawa Timur (Volcanic hazards map of Kelud volcano, East Java Province), Pusat Vulkanologi dan Mitigasi Bencana Geologi, Badan Geologi, Departemen Energi dan Sumber Daya Mineral. Scale 1:100,000, 1 plate; Nakashima, Y., Heki, Takeo, A., Cahyadi, M.N., Aditiya, A., Yoshizawa, K., Atmospheric resonant oscillations by the 2014 eruption of the Kelud volcano, Indonesia, observed with the ionospheric total electron contents and seismic signals (2016) Earth Planet. Sci. Lett., 434, pp. 112-116; 
+Newhall, C.G., Bronto, S., Alloway, B., Banks, N.G., Bahar, I., del Marmol, M.A., Hadisantono, R.D., Wirakusumah, A.D., 10,000 years of explosive eruptions of Merapi Volcano, Central Java: archaeological and modern implications (2000) J. Volcanol. Geotherm. Res., 100, pp. 9-50; 
+Pardo, N., Avellan, D.R., Macias, J.L., Scolamacchia, T., Rodriguez, D., The ~1245 yr BP Asososca maar: new advances on recent volcanic stratigraphy of Managua (Nicaragua) and hazard implications (2008) J. Volcanol. Geotherm. Res., 176, pp. 493-512; 
+Pardo, N., Cronin, S.J., Palmer, A.S., Nemeth, K., Reconstructing the largest explosive eruptions of Mt. Ruapehu, New Zealand: lithostratigraphic tools to understand subplinian-plinian eruptions at andesitic volcanoes (2012) Bull. Volcanol., 74, pp. 617-640; 
+Paulick, H., Franz, G., The colour of pumice: case study on a trachytic fall deposit, Meidob volcanic field, Sudan (1997) Bull. Volcanol., 59, pp. 171-185; 
+Porreca, M., Giordano, G., Mattei, M., Musacchio, P., Evidence of two Holocene phreatomagmatic eruptions at Stromboli Volcano (Aeolian Islands) from paleomagnetic data (2006) Geophys. Res. Lett., 33, pp. 1-6; 
+Pratomo, I., Etude de l'eruption de 1990 du volcan Kelut (Java- Est Indonesie): son apport a l'interpretation de l'activite historique du volcan (1992), Unpublished PhD thesis Blaise Pascal Clermont-Ferrand II; Preece, K., Gertisser, R., Barclay, J., Berlo, K., Herd, R.A., Edinburgh Ion Microprobe Facility, Pre- and syn-eruptive degassing and crystallisation processes of the 2010 and 2006 eruptions of Merapi volcano, Indonesia (2014) Contrib. Mineral. Petrol., 168, pp. 1-25; 
+Primulyana, S., Hariwaseso, A., Zaenuddin, A., (2014), Budianto, A. Peta Kawasan Rawan Bencana Gunungapi Kelud, Propinsi Jawa Timur (Volcanic hazards map of Kelud volcano, East Java Province), Pusat Vulkanologi dan Mitigasi Bencana Geologi, Badan Geologi, Kementerian Energi dan Sumber Daya Mineral. Scale 1:100,000, 1 plate; (2014), https://www.flickr.com/photos/117472423@N05/12515534124/in/photostream/, Putra, H.P. Erupsi G. Kelud Blitar In: Erupsi Kelud M. HTP Studio digital art photography. Accessed 04/2015; Pyle, D., Sizes of volcanic eruptions (2000) Encyclopedia of Volcanoes, 1, pp. 263-269. , H. Sigurdsson Academic Press San Diego, California; 
+Robin, C., Camus, G., Gourgaud, A., Eruptive and magmatic cycles at Fuego de Colima volcano (Mexico) (1991) J. Volcanol. Geotherm. Res., 45, pp. 209-225; 
+Siebert, L., Simkin, T., Kimberly, P., Volcanoes of the World (2011), pp. 83-102. , 3rd ed University of California Press Los Angeles; Smith, N.J., Kokelaar, B.P., Proximal record of the 273 ka Poris caldera-forming eruption, Las Canadas, Tenerife (2013) Bull. Volcanol., 75, pp. 768-789; 
+Sparks, R.S.J., Self, S., Walker, G.P.L., Products of ignimbrite eruptions (1973) Geology, 1, pp. 115-118; 
+Sulpizio, R., Mele, D., Dellino, P., La Volpe, L., Deposits and physical properties of the pyroclastic density currents during complex Subplinian eruptions: the AD 472 (Pollena) eruption of Somma-Vesuvius, Italy (2007) Sedimentology, 54, pp. 607-635; 
+Sulpizio, R., Lucchi, F., Forni, F., Massaro, S., Tranne, C., Unravelling the effusive-explosive transitions and the construction of a volcanic cone from geological data: The example of Monte dei Porri, Salina Island (Italy) (2016) J. Volcanol. Geotherm. Res., 327, pp. 1-22; 
+Suryo, I., Clarke, M.C.G., The occurrence and mitigation of volcanic hazards in Indonesia as exemplified at the Mount Merapi, Mount Kelut, and Mount Galunggung volcanoes (1985) Q. J. Eng. Geol., 18, pp. 79-98; 
+Tait, S., Thomas, R., Gardner, J., Jaupart, C., Constraints on cooling rates and permeabilities of pumice in an explosive eruption jet from colour and magnetic mineralogy. (1998) J. Volcanol. Geotherm. Res., 86, pp. 79-91; 
+The International Charter Space and Major Disasters, Kelud Volcano, Java Indonesia - 18 February 2014 (2014), https://volcano.si.edu/volcano.cfm?vn=263280, Found online at Accessed March 2016; Thouret, J.-C., Abdurachman, K.E., Bourdier, J.-L., Bronto, S., Origin, characteristics, and behaviour of lahars following the 1990 eruption of Kelud volcano, eastern Java (Indonesia) (1998) Bull. Volcanol., 59, pp. 460-480; 
+Turner, M.B., Cronin, S.J., Bebbington, M.S., Smith, I.E.M., Stewart, R.B., Integrating records of explosive and effusive activity from proximal and distal sequences: Mt. Taranaki, New Zealand (2011) Quat. Int., 246, pp. 364-373; 
+Van Bemmelen, R.W., The Geology of Indonesia and Adjacent Archipelago (1949), pp. 1-150. , Government Printing Office The Hague; Van Bergen, M.J., Bernard, A., Sumarti, S., Sriwana, T., Sitorus, K., Crater Lakes of Java: Dieng, Kelud, Ijen. Excursion Guidebook – International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) (2000) General Assembly. Bali, 2000, 42; 
+Vandemeulebrouck, J., Sabroux, J.C., Halbwachs, M., Surono, Poussielgue, N., Grangeon, J., Tabbagh, J., Hydroacoustic noise precursors of the 1990 eruption of Kelut volcano, Indonesia (2000) J. Volcanol. Geotherm. Res., 97, pp. 443-456; 
+Voight, B., Linde, A.T., Sacks, I.S., Mattioli, G.S., Sparks, R.S.J., Elsworth, D., Hidayat, D., Williams, P., Unprecedented pressure increase in deep magma reservoir triggered by lava-dome collapse (2006) Geophys. Res. Lett., 33, pp. 1-4; 
+G. Kelud, Jawa Timur: Sejarah Letusan (Historical Eruptions). Data Dasar Gunungapi (Volcano Data). Badan Geologi (in Indonesian) (2014), http://www.vsi.esdm.go.id/index.php/gunungapi/data-dasar-gunungapi/538-g-kelud; Walker, G.P.L., Grainsize characteristics of pyroclastic deposits (1971) J. Geol., 79, pp. 696-714; 
+Walker, G.P.L., Plinian eruptions and their products (1981) Bull. Volcanol., 44, pp. 221-240; 
+Wallace, K.L., Schaefer, J.R., Coombs, M.L., Character, mass, distribution, and origin of tephra-fall deposits from the 2009 eruption of Redoubt volcano, Alaska – highlighting the significance of particle Bonda (2013) J. Volcanol. Geotherm. Res., 259, pp. 145-169; 
+White, J.D.L., Houghton, B.F., Primary volcaniclastic rocks (2006) Geology, 34, pp. 677-680; 
+Wirakusumah, A.D., Some Studies of the Volcanology, Petrology and Structure of Mt. Kelut, East Java, Indonesia (1991), PhD thesis Victoria University Wellington; Zen, M.T., Hadikusumo, D., The future danger of Mt. Kelut (Eastern Java – Indonesia) (1965) Bull. Volcanol., 28, pp. 275-282; 
+Zharinov, N.A., Demyanchuk, Y.V., Large explosive eruptions of Shiveluch volcano, Kamchatka resulting in partial destruction of the extrusive dome (February 28, 2005 and October 27, 2010) (2013) J. Volcanol. Seismol., 7, pp. 131-144
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042641079&doi=10.1016%2fj.jvolgeores.2018.02.005&partnerID=40&md5=bf7b87123480e3e3fafa95e2c393e17b
+ER  - 
+
+TY  - CONF
+TI  - Textural analysis and crystal size distribution of plagioclase from Ciremai's a'ā lava: Interpretation magmatic processes and crystallization time
+C3  - IOP Conference Series: Earth and Environmental Science
+J2  - IOP Conf. Ser. Earth Environ. Sci.
+VL  - 212
+IS  - 1
+PY  - 2018
+DO  - 10.1088/1755-1315/212/1/012039
+SN  - 17551307 (ISSN) 
+AU  - Hamzah, W.N.
+AU  - Kurniawan, I.A.
+AU  - Abdurrachman, M.
+AU  - Sucipta, I.G.B.E.
+AU  - Suparka, M.E.
+AD  - Graduate School of Bandung Institute of Technology, Bandung, Indonesia
+AD  - Bandung Institute of Technology, Bandung, Indonesia
+AB  - Ciremai Volcano is an active volcano in West Java, Indonesia. Based on geological observation, this volcano has erupted as central and flank eruptions. One of flank eruption products can be observed on Sukageri area. The products consist of 'a'ā lava and pyroclastic fall deposits. This research is focus on 'a'ā lava characteristics using petrology methods including textural analysis and crystal size distributions. The 'a'ā lava of Sukageri area has ±11.5m thick and it spreads out into 4 km to the southward of Sukageri area. Section of the 'a'ā lava can be divided into three sections; upper, middle, and lower part. The upper and lower part characterized by autobreccia, and middle part has sheet-like shear joint structure. Petrography analysis shows that the 'a'ā lava consist of vesicular (16,04-47,85%), phenocryst of plagioclase (10,6-12.4%), pyroxene (1,66-2.78%), olivine (0.87-3,25%), and opaque mineral (0,3-0,42%). Groundmass (65,29-83,53%) of the 'a'ā lava consists of microcrystalline of plagioclase, pyroxene, and glass. The differences of crystal size indicate the changing on crystallization time. Plagioclase texture of the 'a'ā lava compose of fine-sieve, zoning, resorption surface, synneusis, glomerocrysts, and broken crystals. Those textures are indication of changing of magmatic system which caused by hotter and more primitive of magma injection or magma degassing. Crystal size distribution (CSD) analysis shows 2 trends and concave curve which indicate a progressive change in? T during magma ascent. One trend shows a steep slope (- 21,05- -27,61), with higher y-axis intercept (10,24-11,69), indicating of nucleation density, and smaller crystal size. The other trend shows phenocrysts with gentle slope (-2,22- -4,25) and lower y-axis intercepts (1,4-4,25). Crystallization time was calculated from equation T=(-1/G∗slope)/31536000), with assumption of growth rate (G) is 10 8 and the difference of trend between phenocryst and microcrystalline. Those calculation show that phenocryst crystallization time of the 'a'ā lava is 0,75-1,43 years and whereas for microcrystalline is 41-54 days. The existence of microcrystalline indicates that before magma was erupted, it stayed on conduit for ±41 days. After the eruption, the 'a'ā lava needs ±13 days for cooling and solidifying. © Published under licence by IOP Publishing Ltd.
+KW  - Crystals
+KW  - Feldspar
+KW  - Grain size and shape
+KW  - Silicate minerals
+KW  - Size distribution
+KW  - Structural geology
+KW  - Volcanoes
+KW  - Active volcanoes
+KW  - Crystal size distributions
+KW  - Crystallization time
+KW  - Magma degassing
+KW  - Magmatic process
+KW  - Magmatic systems
+KW  - Nucleation densities
+KW  - Textural analysis
+KW  - Growth rate
+PB  - Institute of Physics Publishing
+T2  - International Conference on Earth Science, Mineral, and Energy 2018, ICEMINE 2018
+Y2  - 11 October 2018 through 12 October 2018
+N1  - Conference code: 144102
+N1  - Export Date: 28 May 2020
+M3  - Conference Paper
+DB  - Scopus
+C7  - 012039
+LA  - English
+N1  - Correspondence Address: Hamzah, W.N.; Graduate School of Bandung Institute of TechnologyIndonesia; email: Wildannurhamzah@gmail.com
+N1  - References: Armandita, C., Satyana, A.H., Mukti, M.M., Yuliandri, I., (2011) Proc.JCM Makasar, , (Indonesia); 
+Al Rasyid, G.I., (2016), Geology and petrogenesis of Ciremai Mountain area and around, Majalengka, Kuningan, and Cirebon West Java Province Thesis of undergraduate program in ITB (unpublished); Budhitrisna, T., (1986) Geologic Map of the Tasik Quadrangle, Jawa, , (Indonesia: Geological research and development centre); 
+Cashman, K.V., Marsh, B.D., (1988) Contrib. Mineral Petrol, 99 (3), pp. 292-305; 
+Djuri, (1995) Geologic Map of the Arjawinangun Quadrangle, Jawa, , (Indonesia: Geological research and development centre); 
+Higgins, M.D., (2000) American Mineralogist, 85 (9), pp. 1105-1116; 
+Higgins, M.D., (2006) J. Volcanology and Geothermal Research, 154 (1-2), pp. 8-16; 
+Kusumadinata, (1979) Data Dasar Gunungapi, , (Indonesia: directorate volcanology); 
+Lockwood, J.P., Hazlett, R.W., (2010) Volcanoes Global Perspectives, , (UK: Willey-Blackwell); 
+Mangan, M.T., (1990) J. Volcanology and Geothermal Research, 44 (3-4), pp. 295-302; 
+Marsh, B.D., (1988) Contrib. Mineral Petrol, 99 (3), pp. 277-291; 
+Melnik, E., Blundy, J.D., Rust, A.C., Muir, D.D., (2011) Geology, 39 (4), pp. 403-406; 
+Morgan, D.J., Jerram, D.A., (2006) J. Volcanology and Geothermal Research, 154 (1-2), pp. 1-7; 
+Preece, K., Barclay, J., Gertisser, R., Herd, R.A., (2013) J. Volcanology and Geothermal Research, 261, pp. 98-120; 
+Pourkhorsandi, H., Mirnejad, H., Raiesi, D., Hassanzadeh, J., (2015) Geologica Carpathica, 66 (4), pp. 257-268; 
+Randolph, A.D., Ma, L., (1971) Theory of Particulate Processes, , (New York: Academic press); 
+Rannou, E., Carrof, M., (2010) J. Petrology, 51 (5), pp. 1087-1098; 
+Renjith, M.L., (2014) Geoscience Frontiers, 5 (1), pp. 113-126; 
+Sendjaja, Y.A., Kimura, J.I., Sunardi, E., (2009) Island Arc, 18 (1), pp. 201-224; 
+Silitonga, P.H., Masria, M., Suwarna, N., (1996) Geological Map of the Cirebon Quadrangle, Jawa, , (Indonesia: Geologic research and development centre); 
+Situmorang, T., Hadisantono, R.D., Asmoro, P., (1995) Geologic Map of Cereme Volcano, West Jawa, , (Indonesia: Directorate of volcanology); 
+Spillar, V., Dolejs, D., (2013) J. Petrology, 54 (5), pp. 913-931; 
+Suradji, I., (1993), Stratigrafi dan potensi bahaya komplek Gunungapi Ciremai pada daerah sekitarnya, Kabupaten Kuningan, Kabupaten Makalengka, Cirebon, Propinsi Jawa Barat Thesis of Magister program in ITB (unpublished); Vinet, N., Higgins, M.D., (2010) J. Petrology, 51 (6), pp. 1297-1332; 
+Whitford, D.J., (1975) Geochemica et Cosmochimica Acta., 39 (9), pp. 1287-1302
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060027542&doi=10.1088%2f1755-1315%2f212%2f1%2f012039&partnerID=40&md5=ed2ffb053afedbc89f944d4a034e8671
+ER  - 
+
+TY  - JOUR
+TI  - Rock magnetic, petrography, and geochemistry studies of lava at the ijen volcanic complex (IVC), Banyuwangi, East Java, Indonesia
+T2  - Geosciences (Switzerland)
+J2  - Geosciences
+VL  - 8
+IS  - 5
+PY  - 2018
+DO  - 10.3390/geosciences8050183
+SN  - 20763263 (ISSN) 
+AU  - Pratama, A.
+AU  - Bijaksana, S.
+AU  - Abdurrachman, M.
+AU  - Santoso, N.A.
+AD  - Faculty of Mining and Petroleum Engineering, Institut Teknologi Bandung, Bandung, 40132, Indonesia
+AD  - Faculty of Earth Sciences and Technology, Institut Teknologi Bandung, Bandung, 40132, Indonesia
+AB  - Lava has complex geochemical characteristics based on differences in eruption centers, eruptive events, and flow emplacement. Characterization of lava is useful for understanding the geological conditions of a volcanic region. To complement geochemical methods, rock magnetic methods are being used to analyze lava. To explore the potential uses of rock magnetic methods for lava characterization, a series of magnetic measurements were completed in lava samples from eight locations in the Ijen Volcanic Complex (IVC) in Banyuwangi, East Java, Indonesia. These locations were grouped into two eruption centers: Ijen Crater and Mount Anyar. The magnetic measurements included frequency-dependent magnetic susceptibility, thermomagnetic, anhysteretic remanent magnetization (ARM), isothermal remanent magnetization (IRM), and hysteresis curve analyses. These measurements were supplemented using X-ray fluorescence, petrography analyses, and Scanning Electron Microscopy with Energy Dispersive Spectroscopy (SEM-EDS). Based on their lithology, lava samples were categorized into basalt, basaltic andesite, and basaltic trachyandesite. The dominant magnetic mineral contained in the sample was iron-rich titanomagnetite and titanium-rich titanomagnetite with a magnetic pseudo-single-domain and small amounts of superparamagnetic grain minerals in some samples. The significant difference in mass specific susceptibility (χLF) is caused by differences in the crystallization process. The differences in susceptibility frequency dependence (χFD) highlighted the differences in the magma cooling rate, demonstrated by the differences in the percentage of opaque mineral groundmass. The rock magnetic method was proven to support the geochemistry and petrography methods used to characterize lava and identify the causes of differences in lava characteristics. © 2018 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Geochemistry
+KW  - Ijen
+KW  - Lava
+KW  - Rock magnetic
+KW  - Volcanic area
+PB  - MDPI AG
+N1  - Cited By :3
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+C7  - 183
+LA  - English
+N1  - Correspondence Address: Pratama, A.; Faculty of Mining and Petroleum Engineering, Institut Teknologi BandungIndonesia; email: pratama.itb@gmail.com
+N1  - Funding text 1: Acknowledgments: This study was financially supported by the PMDSU Grant from the Ministry of Research, Technology, and Higher Education of the Republic of Indonesia to A.P., S.B., and M.A. The Ministry also provided a doctoral scholarship to A.P. We thank the Petrology and Petrography Laboratory, Geological Engineering, ITB for the use of petrography analysis instruments. Our thanks also go to Idham Andri Kurniawan, Jananda Nuralam Indriyanto, Kartika Hajar Kirana, Abd Mujahid Hamdan, Arif Wijaya, Gesti Cita Novala, Abd Hafidz, Silvia Jannatul Fajar, Reyhan Taqwantara, Fadhli Atarita, and Maryanto for their assistance in the field and laboratory works. We thank two anonymous reviewers for their constructive comments and criticisms.
+N1  - References: Carr, M.J., Symmetrical and segmented variation of physical and geochemical characteristics of the Central American volcanic front (1984) J. Volcanol. Geotherm. Res., 20, pp. 231-252; 
+Cañón-Tapia, E., Walker, G.P., Herrero-Bervera, E., The internal structure of lava flows—Insights from AMS measurements II: Hawaiian pahoehoe, toothpaste lava and ‘a’ā (1997) J. Volcanol. Geotherm. Res., 76, pp. 19-46; 
+Rüpke, L.H., Morgan, J.P., Hort, M., Connolly, J.A., Are the regional variations in Central American arc lavas due to differing basaltic versus peridotitic slab sources of fluids? (2002) Geol. Soc. Am., 30, pp. 1035-1038; 
+Schaefer, C.J., Kattenhorn, S.A., Characterization and evolution of fractures in low-volume pahoehoe lava flows, eastern Snake River Plain, Idaho (2004) Geol. Soc. Am. Bull., 116, pp. 322-336; 
+Single, R.T., Jerram, D.A., The 3D facies architecture of flood basalt provinces and their internal heterogeneity: Examples from the Paleogene Skye Lava Field (2004) J. Geol. Soc., 161, pp. 911-926; 
+Fukuma, K., Vertical Variation of Testing Thellier Paleointensities from a Recent Lava Flow in Japan (2016) Proceedings of the 9Th International Conference “Problems of Geocosmos”, St. Petersburg, Russia, 8–, pp. 29-42. , October 2012; 
+Macdonald, G.A., Katsura, T., Variations in the lava of the 1959 eruption in Kilauea Iki (1961) Pac. Sci., 15, pp. 358-369; 
+Watkins, N.D., Haggerty, S.E., Primary oxidation variation and petrogenesis in a single lava (1967) Contrib. Mineral. Petrol., 15, pp. 251-271; 
+Rhodes, J.M., Homogeneity of lava flows: Chemical data for historic Mauna Loan eruptions (1983) J. Geophys. Res. Sol. Earth, 88, pp. A869-A879; 
+O’Reilly, S.Y., Zhang, M., Geochemical characteristics of lava-field basalts from eastern Australia and inferred sources: Connections with the subcontinental lithospheric mantle? (1995) Contrib. Mineral. Petrol., 121, pp. 148-170; 
+Kocak, K., Zedef, V., Geochemical characteristics of the lava domes in Yatagan village and Sağlik town, from Erenlerdagi (Konya, Central Turkey) volcanites (2016) Act. Geobalcanica, 2, pp. 7-19; 
+Polo, L.A., Janasi, V.A., Giordano, D., Lima, E.F., Cañon-Tapia, E., Roverato, M., Effusive silicic volcanism in the Paraná Magmatic Province, South Brazil: Evidence for locally-fed lava flows and domes from detailed field work (2017) J. Volcanol. Geotherm. Res., , in press. [CrossRef; 
+Cañón-Tapia, E., Coe, R., Rock magnetic evidence of inflation of a flood basalt lava flow (2002) Bull. Volcanol., 64, pp. 289-302; 
+Wilson, R.L., Haggerty, S.E., Watkins, N.D., Variation of palaeomagnetic stability and other parameters in a vertical traverse of a single Icelandic lava (1968) Geophys. J. Int., 16, pp. 79-96; 
+Rolph, T.C., An investigation of the magnetic variation within two recent lava flows (1997) Geotherm. J. Int., 130, pp. 125-136; 
+Mena, M., Orgeira, M.J., Lagorio, S., Paleomagnetism, rock-magnetism and geochemical aspects of early Cretaceous basalts of the Paraná Magmatic Province, Misiones, Argentina (2006) Earth Planets Space, 58, pp. 1283-1293; 
+Dietze, F., Kontny, A., Heyde, I., Vahle, C., Magnetic anomalies and rock magnetism of basalts from Reykjanes (SW-Iceland) (2011) Stud. Geophys. Geod., 55, pp. 109-130; 
+Almqvist, B.S.G., Bosshard, S.A., Hirt, A.M., Mattsson, H.B., Hetényi, G., Internal flow structures in columnar jointed basalt from Hrepphólar, Iceland: II. Magnetic anisotropy and rock magnetic properties (2012) Bull. Volcanol., 74, pp. 1667-1681; 
+Kapper, L., Morales, J., Calvo-Rathert, M., Goguitchaichvili, A., Mejia, V., Caccavari, A., Guevara, A.N., Ruiz, R.C., A paleointensity study of Cretaceous volcanic rocks from the Western Cordillera, Colombia (2017) Stud. Geophys. Geod., 61, pp. 264-289; 
+Cervantes-Solano, M., Kapper, L., Goguitchaichvili, A., Ruiz-Martínez, V.C., Rosas-Elguera, J., Morales, J., Maciel-Peña, R., Cejudo-Ruiz, R., A detailed paleomagnetic and rock-magnetic investigation around Cretaceous-Paleogene boundary: The Autlan (Western Mexico) volcanic sequence revisited (2017) Stud. Geophys. Geod., 61, pp. 233-248; 
+McEnroe, S.A., Brown, L.L., Palaeomagnetism, rock magnetism and geochemistry of Jurassic dykes and correlative redbeds, Massachusetts, USA (2000) Geotherm. J. Int., 143, pp. 22-38; 
+Alva-Valdivia, L.M., Bohnel, H., McIntosh, G., Caballero-Miranda, C., Morales, J., Vertical Detailed Variation of Petromagnetic Properties in Basalt Flow Profiles, Xitle Volcano (2011) Mexico: A Review. Latinmag Lett., 1, p. 14; 
+Siddiq, F., Volcanostratigraphy and Petrogenesis of Mount Ijen, Banyuwangi District, East Java. Bachelor’s Thesis, Institut Teknologi Bandung, Bandung (2015) Indonesia; 
+Carr, M.J., Symmetrical and segmented variation of physical and geochemical characteristics of the Central American volcanic front (1984) J. Volcanol. Geotherm. Res., 20, pp. 231-252; 
+Delmelle, P., Bernard, A., Downstream composition changes of acidic volcanic waters discharged into the Banyupahit stream, Ijen caldera, Indonesia (2000) J. Volcanol. Geotherm. Res., 97, pp. 55-75; 
+Delmelle, P., Bernard, A., Kusakabe, M., Fischer, T.P., Takano, B., Geochemistry of the magmatic–hydrothermal system of Kawah Ijen volcano, East Java, Indonesia (2000) J. Volcanol. Geotherm. Res., 97, pp. 31-53; 
+Handley, H.K., Macpherson, C.G., Davidson, J.P., Berlo, K., Lowry, D., Constraining Fluid and Sediment Contributions to Subduction-Related Magmatism in Indonesia: Ijen Volcanic Complex (2007) J. Petrol., 48, pp. 1155-1183; 
+van Hinsberg, V., Berlo, K., Sumarti, S., van Bergen, M., Williams-Jones, A., Extreme alteration by hyperacidic brines at Kawah Ijen volcano, East Java, Indonesia: II (2010) J. Volcanol. Geotherm. Res., 196, pp. 169-184; 
+Caudron, C., Syahbana, D.K., Lecocq, T., van Hinsberg, V., McCausland, W., Triantafyllou, A., Camelbeeck, T., Bernard, A.S., Kawah Ijen volcanic activity: A review (2015) Bull. Volcanol., 77; 
+Earth Data, , https://earthdata.nasa.gov/; 
+Santoso, N.A., Bijaksana, S., Kodama, K., Santoso, D., Dahrin, D., Multimethod Approach to the Study of Recent Volcanic Ashes from Tengger Volcanic Complex, Eastern Java, Indonesia (2017) Geosciences, 7, p. 63; 
+Sudarningsih, S., Bijaksana, S., Ramdani, R., Hafidz, A., Pratama, A., Widodo, W., Iskandar, I., Santoso, N.A., Variations in the Concentration of Magnetic Minerals and Heavy Metals in Suspended Sediments from Citarum River and Its Tributaries, West Java, Indonesia (2017) Geosciences, 7, p. 66; 
+Tugrul, A., Gurpinar, O., The Effect of Chemical Weathering on the Engineering Properties of Eocene Basalts in Northeastern Turkey (1997) Environ. Eng. Geosci., 3, pp. 225-234; 
+Le Bas, M.J., Le Maitre, R.W., Streckeisen, A., Zanettin, B., A chemical classification of volcanic rocks based on the total alkali-silica diagram (1986) J. Petrol., 27, pp. 745-750; 
+Lemaitre, R.W., (2005) Igneous Rocks: A Classification and Glossary of Terms, pp. 30-39. , Cambridge University Press: Cambridge, UK, ISBN 978-0-521-66215-4; 
+Peccerillo, A., Taylor, S.R., Geochemistry of Eocene calc-alkaline volcanic rocks from the Kastamonu area, northern Turkey (1976) Contrib. Mineral. Petrol., 58, pp. 63-81; 
+Carr, M.J., Symmetrical and segmented variation of physical and geochemical characteristics of the Central American volcanic front (1984) J. Volcanol. Geotherm. Res., 20, pp. 231-252; 
+Metcalf, R.V., Shervais, J.W., (2008) Suprasubduction-Zone Ophiolites: Is There Really an Ophiolite Conundrum?, 438, pp. 191-222. , Geol. Soc. Am; 
+Pratama, A., Hafidz, A., Bijaksana, S., Abdurrachman, M., Basaltic lava characterization using magnetic susceptibility identification and presence of opaque minerals in Ijen volcanic complex, Banyuwangi, East Java (2017) AIP Conf. Proc., 1861; 
+Carr, M.J., Symmetrical and segmented variation of physical and geochemical characteristics of the Central American volcanic front (1984) J. Volcanol. Geotherm. Res., 20, pp. 231-252; 
+Liebke, U., Antolin, B., Appel, E., Basavaiah, N., Mikes, T., Dunkl, I., Wemmer, K., Indication for clockwise rotation in the Siang window south of the eastern Himalayan syntaxis and new geochronological constraints for the area (2011) Geol. Soc. Lond. Spec. Publ., 353, pp. 71-97; 
+Chi, C.T., Dorobek, S.T., Cretaceous paleomagnetism of Indochina and surrounding regions: Cenozoic tectonic implications (2004) Geol. Soc. Lond. Spec. Publ., 226, pp. 273-287; 
+Tauxe, L., (2003) Paleomagnetic Principles and Practice, pp. 30-90. , Kluwer Academic Publishers: Dordrecht, The Netherlands, ISBN 978-0-306-48128-4; 
+Carr, M.J., Symmetrical and segmented variation of physical and geochemical characteristics of the Central American volcanic front (1984) J. Volcanol. Geotherm. Res., 20, pp. 231-252; 
+Day’S, R., Fuller, M.D., Schmidt, V.A., Hysteresis properties of titanomagnetites: Grain size and composition dependence (1977) Phys. Earth Planet. Inter., 13, pp. 260-266; 
+Preece, K., Barclay, J., Gertisser, R., Herd, R.A., Textural and micro-petological variations in the eruptive products of the 2006 dome-forming eruption of Merapi volcano, Indonesia: Implications for sub-surface processes (2013) J. Volcanol. Geotherm. Res., 261, pp. 98-120; 
+Zhou, W., van der Voo, R., Peacor, D.R., Zhang, Y., Variable Ti-content and grain size of titanomagnetite as a function of cooling rate in very young MORB (2000) Earth Planet. Sci. Lett., 179, pp. 9-20; 
+Jordanova, N., (2017) Soil Magnetism: Applications in Pedology, Environmental Science and Agriculture, pp. 2-3. , Academic Press: London, UK; 
+Butler, R.F.P., (1998) Magnetic Domains to Geologic Terranes; Blackwell Scientific Publications, p. 25. , Hoboken, NJ, USA; 
+Lauro, S.E., Mattei, E., Cosciotti, B., Di Paolo, F., Arcone, S.A., Viccaro, M., Pettinelli, E., Electromagnetic signal penetration in a planetary soil simulant: Estimated attenuation rates using GPR and TDR in volcanic deposits on Mt. Etna (2017) J. Geophys. Res. Planet, 122, pp. 1392-1404; 
+Schaefer, L.N., Kendrick, J.E., Oommen, T., Lavallée, Y., Chigna, G., Geomechanical rock properties of a basaltic volcano (2015) Front. Earth Sci., 3, pp. 1-15; 
+Sudarningsih, S., Maulana, L., Bijaksana, S., Hafidz, A., Pratama, A., Widodo, W., Iskandar, I., Magnetic Characterization of Sand and Boulder Samples from Citarum River and Their Origin (2017) J. Math. Fundam. Sci., 49, pp. 116-126; 
+Gibson, P.J., Lyle, P., Thomas, N., Magnetic Characteristics of the Cuilcagh Dyke, Co. Fermanagh, Northern Ireland (2009) Irish J. Earth Sci., 27, pp. 1-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047742998&doi=10.3390%2fgeosciences8050183&partnerID=40&md5=8f9e9b65fa24113fdb4f0b64b1a9c91c
+ER  - 
+
+TY  - JOUR
+TI  - Geochemistry and structure of krakatoa volcano in the Sunda Strait, Indonesia
+T2  - Geosciences (Switzerland)
+J2  - Geosciences
+VL  - 8
+IS  - 4
+PY  - 2018
+DO  - 10.3390/geosciences8040111
+SN  - 20763263 (ISSN) 
+AU  - Abdurrachman, M.
+AU  - Widiyantoro, S.
+AU  - Priadi, B.
+AU  - Ismail, T.
+AD  - Department of Geology, Bandung Institute of Technology, Bandung, 40132, Indonesia
+AD  - Global Geophysics Research Group, Bandung Institute of Technology, Bandung, 40132, Indonesia
+AD  - Department of Geology, Mineral Technology College of Indonesia, Bandung, 40263, Indonesia
+AB  - The violent eruption of Krakatoa Volcano located in the Sunda Strait, Indonesia, in 1883 represents one of the deadliest eruptions in human civilization. Although lots of data have been reported, the trajectory of the subducted slab and the upper mantle structure beneath this volcano are still rather poorly known. We combined geochemical data, major, trace and rare earth elements with seismic tomograms to characterize the deep structure of Krakatoa Volcano at the junction of Sumatra and Java subduction systems. Geochemical data are in agreement with the partial melting of mantle wedge in these subduction systems, based on previous studies, and this conclusion is also supported by inferences from P-wave tomographic model. Whereas, the tomographic image of S-wave suggests that subducted slab has been intruded by hot material of mantle upwelling. The presence of both partial melting of mantle wedge and mantle upwelling in the upper mantle might be caused by the thinning of subducted slab beneath Krakatoa Volcano. © 2018 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Geochemistry
+KW  - Indonesia
+KW  - Krakatoa volcano
+KW  - Seismic tomogram
+PB  - MDPI AG
+N1  - Cited By :2
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+C7  - 111
+LA  - English
+N1  - Correspondence Address: Abdurrachman, M.; Department of Geology, Bandung Institute of TechnologyIndonesia; email: mirzam@gc.itb.ac.id
+N1  - References: Davidson, J.P., Crustal contamination versus subduction zone enrichment: Examples from the Lesser Antilles and implications for mantle source compositions of island arc volcanic rocks (1987) Geochim. Cosmochim. Acta, 51, pp. 2185-2198. , CrossRef]; 
+Hildreth, W., Moorbath, S., Crustal contributions to arc magmatism in the Andes of Central Chile (1988) Contributions Mineral. Petrol, 98, pp. 455-489. , CrossRef]; 
+McCulloch, M.T., Gamble, J., A. Geochemical and geodynamical constraints on subduction zone magmatism (1991) Earth Planet. Sci. Lett, 102, pp. 358-374. , CrossRef]; 
+Hawkesworth, C.J., Hergt, J.M., Ellam, R.M., McDermott, F., Element fluxes associated with subduction related magmatism (1991) Philos. Trans. R. Soc. Lond. A, 335, pp. 393-405. , CrossRef]; 
+Pearce, J.A., Peate, D.W., Tectonic implications of the composition of volcanic arc magmas (1995) Annu. Rev. Earth Planet. Sci, 24, pp. 251-285. , CrossRef]; 
+Gardner, M.F., Troll, V.R., Gamble, J.A., Gertisser, R., Hart, G.L., Ellam, R.M., Harris, C., Wolff, J.A., Crustal differentiation processes at Krakatau Volcano, Indonesia (2013) J. Petrol., 54, pp. 149-182. , CrossRef]; 
+Turner, S., Foden, J.U., Th and Ra disequilibria, Sr, Nd, and Pb isotope and trace element variations in Sunda arc lavas: Predominance of a subducted sediment component (2001) Contributions Mineral. Petrol, 142, pp. 43-57. , CrossRef]; 
+Handley, H.K., Blichert-Toft, J., Gertisser, R., Macpherson, C.G., Turner, S.P., Zaennudin, A., Abdurrachman, M., Insights from Pb and O isotopes into along-arc variations in subduction inputs and crustal assimilation for volcanic rocks in Java, Sunda arc, Indonesia (2014) Geochim. Cosmochim. Acta, 139, pp. 205-226. , CrossRef]; 
+Abdurrachman, M., (2012) Geology and Petrology of Quaternary Papandayan Volcano and Genetic Relationship of Volcanic Rocks from the Triangular Volcanic Complex around Bandung Basin, , West Java, Indonesia. Unpublished Ph.D. Thesis, Akita University, Akita, Japan; 
+Abdurrachman, M., Yamamoto, M., (2013) Geochemical Variation of Quaternary Volcanic Rocks in Papandayan Area, pp. 40-57. , West Java, Indonesia: A role of crustal component. J. Geol. Soc. Thailand; 
+Widiyantoro, S., Pesicek, J.D., Thurber, C.H., Subducting slab structure below the eastern Sunda arc inferred from non-linear seismic tomographic imaging (2011) Geol. Soc. Lond. Spec. Publ, 355, pp. 139-155. , CrossRef]; 
+Abdurrachman, M., Widiyantoro, S., Priadi, B., Alim, M.Z.A., Dewangga, A.H., Proposed new wadati— benioff zone model in Java-Sumatra subduction zone and its tectonic implication (2015) Proceedings of the Joint Convention Balikpapan 2015 HAGI-IAGI-IAFMI-IATMI, Balikpapan, , Indonesia, 5–8 October; 
+Widiyantoro, S., Van Der Hilst, R.D., Mantle structure beneath Indonesia inferred from high-resolution tomographic imaging (1997) Geophys. J. Int, 130, pp. 167-182. , CrossRef]; 
+Widiyantoro, S., Hilst, V.D., R.D. Structure and evolution of lithospheric slab beneath the Sunda arc, Indonesia (1996) Science, 271, pp. 1566-1570. , CrossRef]; 
+Hamilton, W.B., Tectonics of the Indonesian Region, , https://pubs.usgs.gov/pp/1078/report.pdf, accessed on 10 January 2018; 
+Mueller, R.D., Roest, W.R., Royerj, Y., Gahagan, L.M., Sclater, J.G., Digital isochrones of the world’s ocean floor (1997) J. Geophys. Res, 102, pp. 3211-3214. , CrossRef]; 
+Syracuse, E.M., Abers, G.A., Global compilation of variation in slab depth beneath arc volcanoes and implications (2006) Geochem. Geophys. Geasyst, 7. , CrossRef]; 
+Cloetingh, S., Wortel, R., Stress in the Indo-Australian plate (1986) Tectonophysics, 132, pp. 49-67. , CrossRef]; 
+Minster, J.B., Jordan, T.H., Present-day plate motions (1978) J. Geophys. Res, 83, pp. 5331-5354. , CrossRef]; 
+Tregoning, P., Brunner, F.K., Bock, Y., Puntodewo, S.S.O., McCaffrey, R., Genrich, J.F., Calais, E., Subarya, C., First geodetic measurement of convergence across the Java trench. Geophys. Res (1994) Lett, 21, pp. 2135-2138. , CrossRef]; 
+Hall, R., Indonesia, Geology (2008) Encyclopedia of Islands, , Gillespie, R., Clague, D.A., Eds.; University of California Press: Oakland, CA, USA; 
+Ghose, R., Yoshioka, S., Oike, K., Three dimensional numerical simulations of the subduction dynamics in the Sunda arc region, Southeast Asia (1990) Tectonophysics, 181, pp. 223-255. , CrossRef]; 
+Puspito, N.T., Shimazaki, K., Mantle structure and seismotectonics of the Sunda and Banda arcs (1995) Tectonophysics, 251, pp. 215-228. , CrossRef]; 
+Stehn, C.E., (1929) The Geology and Volcanism of the Krakatau Group. in Guidebook for the 4Th Pacific Science Congress, pp. 1-55. , University of Michigan: Ann Arbor, MI, USA; 
+Engdahl, E.R., Van Der Hilst, R.D., Buland, R., Global teleseismic earthquake relocation with improved travel times and procedures for depth determination (1998) Bull. Seism. Soc. Am, 88, pp. 722-743; 
+Metcalf, R.V., Shervais, J.W., (2008) Suprasubduction-Zone Ophiolites: Is There Really an Ophiolite Conundrum, 438, pp. 191-222. , In Special Paper 438: Ophiolites, Arcs, and Batholiths: A Tribute to Cliff Hopson; Geological Society of America: Boulder, CO, USA; 
+Bailey, J.C., Geochemical criteria for a refined tectonic discriminant of orogenic andesites (1981) Chem. Geol, 32, pp. 139-154. , CrossRef]; 
+Mullen, E.D., MnO/TiO2/P2O5: A minor element discriminant for basaltic rocks of oceanic environments and its implication for petrogenesis (1983) Earth Planet. Sci. Lett, 62, pp. 53-62. , CrossRef]; 
+Gill, R., (2010) Igneous Rocks and Processes: A Practical Guide, 57. , John Wiley & Sons, Wiley-Blackwell: Hoboken, NJ, USA, 978-0-632-06377; 
+Brenan, J.M., Shaw, H.F., Ryerson, F.J., Phinney, D.L., Mineral-aqueous fluid partitioning of trace elements at 900 C and 2.0 GPa: Constraints on the trace element geochemistry of mantle and deep crustal fluids (1995) Geochim. Cosmochim. Acta, 59, pp. 3331-3350. , CrossRef]; 
+Stalder, R., Foley, S.F., Brey, G.P., Horn, I., Mineral-aqueous fluid partitioning of trace elements at 900–1200 C and 3.0–5.7 GPa: New experimental data for garnet, clinopyroxene, and rutile, and implications for mantle metasomatism (1998) Geochim. Cosmochim. Acta, 62, pp. 1781-1801. , CrossRef]; 
+Sun, S.S., McDonough, W.F., Chemical and Isotopic Systematics of Oceanic Basalts: Implication for Mantle Composition and Processes, 42, pp. 313-345. , In Magmatism in Ocean Basins; Saunders, A.D., Norry, M.J., Eds.; Geological Society of London Special Publication: London, UK, 1989;; 
+Gust, D.A., Arculus, R.J., Kersting, A.B., Aspect of magma sources and processes in the Honshu arc (1997) Can. Mineral, 35, pp. 347-365; 
+Kennett, B.L.N., Engdahl, E.R., Buland, R., Constraints on seismic velocities in the Earth from travel times (1995) Geophys. J. Int, 122, pp. 108-124. , CrossRef]
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044782826&doi=10.3390%2fgeosciences8040111&partnerID=40&md5=45c19fd1c1b31778aeb5590f076fdbd0
+ER  - 
+
+TY  - CONF
+TI  - Basaltic lava characterization using magnetic susceptibility identification and presence of opaque minerals in Ijen volcanic complex, Banyuwangi, East Java
+C3  - AIP Conference Proceedings
+J2  - AIP Conf. Proc.
+VL  - 1861
+PY  - 2017
+DO  - 10.1063/1.4990941
+SN  - 0094243X (ISSN); 9780735415355 (ISBN)
+AU  - Pratama, A.
+AU  - Hafidz, A.
+AU  - Bijaksana, S.
+AU  - Abdurrachman, M.
+AD  - Geophysical Engineering, Faculty of Mining and Petroleum Engineering, Institut Teknologi Bandung, Indonesia
+AD  - Geological Engineering Program, Faculty of Earth Sciences and Technology, Institut Teknologi Bandung, Indonesia
+AB  - Reliable volcanic map and deep understanding of magmatic processes are very important in exploration of natural resources and mitigation of volcanic hazards. The conservative method in volcanic mapping still depends on qualitative approach thus it often failed to characterize volcanic products properly. Rock magnetic methods are quantitative approaches that classify rocks based on their magnetic properties. In this study, magmatic processes in basaltic lavas from Ijen volcanic complex in Banyuwangi, East Java were studied using combined rock magnetic and petrogenesis approaches. Samples of basaltic lavas from 13 localities, taken from three eruption sources were measuredfor their mass-specific magnetic susceptibility. The samples were then also subjected to petrographic and X-ray Fluorescence Spectrometry (XRF) analyses for their minerals composition and petrogenesis. Preliminary results show that the distinction in magnetic characters might be due to the quantity of magnetic minerals contained in rocks. © 2017 Author(s).
+A2  - Saripunvaraporn W.
+A2  - Tezkan B.
+A2  - Widodo
+A2  - Grandis H.
+A2  - Bijaksana S.
+A2  - Strack K.M.
+A2  - Li Y.
+PB  - American Institute of Physics Inc.
+T2  - 1st International Geo-Electromagnetic Workshop 2017, IGeo-EM 2017
+Y2  - 21 February 2017 through 24 February 2017
+N1  - Conference code: 129256
+N1  - Cited By :2
+N1  - Export Date: 28 May 2020
+M3  - Conference Paper
+DB  - Scopus
+C7  - 030054
+LA  - English
+N1  - Correspondence Address: Pratama, A.; Geophysical Engineering, Faculty of Mining and Petroleum Engineering, Institut Teknologi BandungIndonesia; email: pratama.itb@gmail.com
+N1  - References: Dunlop, D.J., Magnetism in Rocks (1995) Journal of Geophysical Research, B2, pp. 2161-2174. , (Cambridge); 
+O'Reilly, W., (1984) Rock and Mineral Magnetism, pp. 1-75. , (Blackie & Son Limited, Glasgow); 
+Caudron, C., Syahbana, K.D., Lecocq, T., Hinsberg, V.V., McCausland, W., Triantafyllou, A., Camelbeeck, T., Surono, (2015) Kawah Ijen Volcanic Activity: A Review, pp. 1-39. , (Bull Volcanol, Belgium); 
+Handley, H., Macpherson, C., Davidson, J., Berlo, K., Lowry, D., Constraining Fluid and Sediment Contributions to Subduction-Related Magmatism in Indonesia: Ijen Volcanic Complex (2007) Journal of Petrology, 6, pp. 1155-1183. , Sydney; 
+Sujanto, M.Z.S., Sitorus, K., (1984) Peta Geologi Gunungapi Kompleks Kaldera Ijen, Jawa Timur, pp. 5-40. , Direktorat Vulkanologi Bandung; 
+Butler, R.F., (1992) Magnetik Domains to Geologic Terranes, pp. 1-55. , (Blackwell Scientific Publication, Boston); 
+Dunlop, D.J., Özdemir, O., (1997) Rock Magnetism, pp. 1-120. , (Cambridge University Press, Cambridge); 
+Dearing, J.A., Environmental Magnetik Susceptibilityusing the Bartington MS2 system (1999) British Library Cataloguing in Publication Data, pp. 4-54
+A4  - et al.; Faculty of Mining and Petroleum Engineering - ITB; Geophysical Engineering - ITB; Institute of Geophysics and Meteorology (IGM); Institute of Research and Community Services (LPPM) - ITB; LAPI-ITB
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026550292&doi=10.1063%2f1.4990941&partnerID=40&md5=7c1bcfbccc6b4e9e7d961141d9aeec37
+ER  - 
+
+TY  - CONF
+TI  - Mercury Distribution in the Processing of Jatiroto Gold Mine Wonogiri Central Java Indonesia
+C3  - IOP Conference Series: Earth and Environmental Science
+J2  - IOP Conf. Ser. Earth Environ. Sci.
+VL  - 71
+IS  - 1
+PY  - 2017
+DO  - 10.1088/1755-1315/71/1/012023
+SN  - 17551307 (ISSN) 
+AU  - Fitri Yudiantoro, D.
+AU  - Nurcholis, M.
+AU  - Sri Sayudi, D.
+AU  - Abdurrachman, M.
+AU  - Paramita Haty, I.
+AU  - Pambudi, W.
+AU  - Subroborini, A.
+AD  - Geological Engineering University of Pembangunan Nasional Veteran Yogyakarta, Indonesia
+AD  - Geological Agency Indonesia, Indonesia
+AD  - Geological Engineering Institute of Technology, Bandung, Indonesia
+AD  - Undergraduate Stud. University of Pembangunan Nasional Veteran Yogyakarta, Indonesia
+AD  - Magister Bioscience Stud. University of Sebelas Maret Surakarta, Indonesia
+AB  - The research area is one of the Wonogiri gold producer. In this region there are nearly 30 gold processing locations. This area has a steep morphology which is part of Mt. Mas. The work of the gold processing is a part time job besides for the local farmer population. To get the gold bearing rocks, are by digging holes manually around Mt. Mas, while gold processing is carried out in their homes. As a result of these activities, then identified the distribution of mercury in the surrounding settlements. Analytical methods used in this study is the measurement mercury content using Hg meter on altered rocks, soil and using XRF (X-Ray Fluorescence) for plant samples. This results of research shows that there are conducted on mercury contents in the altered rocks, soil and plants showed significant mercury contents in altered rocks, soil and plants. This proves that mercury has polluted the environment surrounding residents, both of people living in the hill down on the lower plain areas. The results of this study are expected to be used as reference to help overcome the pollution of the area. © Published under licence by IOP Publishing Ltd.
+KW  - Gold deposits
+KW  - Mercury (metal)
+KW  - Rocks
+KW  - Soils
+KW  - Altered rock
+KW  - Analytical method
+KW  - Gold processing
+KW  - Gold-bearing rocks
+KW  - Mercury content
+KW  - Mercury distribution
+KW  - Plant samples
+KW  - X ray fluorescence
+KW  - Gold
+PB  - Institute of Physics Publishing
+T2  - 2nd Transdisciplinary Research on Environmental Problems in Southeast Asia, TREPSEA 2016
+Y2  - 20 September 2016 through 22 September 2016
+N1  - Conference code: 128590
+N1  - Export Date: 28 May 2020
+M3  - Conference Paper
+DB  - Scopus
+C7  - 012023
+LA  - English
+N1  - Correspondence Address: Fitri Yudiantoro, D.; Geological Engineering University of Pembangunan Nasional Veteran YogyakartaIndonesia; email: d_fitri4012@yahoo.com
+N1  - References: Al-Jaloud, A.A., Hussain, G., Al-Saati, A.J., Karimulla, S., Effects of Wastewater Irrigation and Sludges in Kuwait (1995) Journal of Environment Science and Health, 39, pp. 397-407; 
+El Khalil, H., El Hamani, O., Heavy Metal Contamination from Mining Sites in South Morocco: Monitoring Metal Content and Toxicity of Soil Runoff and Groundwater (2008) Journal Environ Monit Asses, 136 (1-3), pp. 147-160; 
+Galavi, M., Jalali, A., Ramroodi, M., Effects of Treated Municipal Wastewater on Soil Chemical Properties and Heavy Metal Uptake by Sorghum (Sorghum bicolor L.) (2010) Journal of Agricultural Science, 2 (3), pp. 235-241; 
+Faruruw, D.M., Yauri, U.A., Dangoggo, S.M., Cadmium, Copper, Lead and Zinc Levels in Sorghum and Millet Grown in the City of Kano and Its Environs (2013) Global Advanced Research Journal of Environtment Science and Taxicology, 2, pp. 82-85; 
+Moore, J.W., (1991) Inorganic Contaminations of Surface Water, p. 334. , (New York: Springer-Verlag); 
+Novotny, V., Olem, H., (1994) Biological Oceanographyc Proceses, p. 330. , Third (New York: Pergamon Press); 
+Soemirat, (2007) Toksikologi Lingkungan, , (Yogyakarta: Gadjah Mada University Press); 
+McNeely, R.N., Nelmanis, V.P., Dwyer, L., (1997) Water Quality Source Book, A Guide to Water Quality Parameter, p. 89. , (Ottawa Canada: Inland Water Directorate, Water Quality Branch); 
+Dugan, P.R., (1972) Biochemical Ecology of Water Pollution, p. 159. , (New York: Plenum Press); 
+Harada, M., Minamata Disease: Methylmercury Poisoning in Japan Caused by Environmental Pollution (1995) Critical Reviewer in Toxicology, 2591 (1), pp. 1-24; 
+Edward, L., (2004) Dampak Pencemaran Logam Berat Terhadap Sumberdaya Laut Dan Sumberdaya Perikanan (Studi Khusus Kematian Massal Ikan-Ikan di Teluk Jakarta), , (Jakarta Makara); 
+Sawyer, C.N., McCarty, P.L., (1972) Chemistry for Environmental Engineering, p. 532. , Thrid (Tokyo: McGraw-Hill Book Company); 
+Sampurno, Samodra, H., (1991) Geologi Lembar Ponorogo, Jawa, , (Indonesia: Pusat Penelitian dan Pengembangan Geologi)
+A4  - Medco Energy; PT. LAPI ITB
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023165154&doi=10.1088%2f1755-1315%2f71%2f1%2f012023&partnerID=40&md5=f727f96213447985f1b47dcb0169749f
+ER  - 
+
+TY  - CONF
+TI  - Paleoenvironmental Study of Miocene Sediments from JTB-1 and NRM-1 wells, in West Ogan Komering Block, Meraksa Area, South Sumatra Basin
+C3  - IOP Conference Series: Earth and Environmental Science
+J2  - IOP Conf. Ser. Earth Environ. Sci.
+VL  - 71
+IS  - 1
+PY  - 2017
+DO  - 10.1088/1755-1315/71/1/012033
+SN  - 17551307 (ISSN) 
+AU  - Aswan
+AU  - Abdurrachman, M.
+AU  - Sapta Fitriana, B.
+AU  - Fery Mustofa, M.
+AU  - Dwijo Santoso, W.
+AU  - Rudyawan, A.
+AU  - Rahayu, W.D.
+AU  - Hamdani, A.
+AU  - Rohiman, Y.
+AU  - Zin Oo, T.
+AD  - Geology Department, Faculty of Earth Sciences and Technology, Institute of Technology Bandung, Jalan Ganesa 10, Bandung, 40132, Indonesia
+AD  - JOB Pertamina-Talisman (Ogan Komering) Limited, Gedung Setiabudi Atrium, Lantai 7, Jalan HR Rasuna Said, Kavling 62, Jakarta, 12920, Indonesia
+AD  - Geology Department, East Yangon University, Yangon Division, Thanlyin Township, Myanmar
+AB  - Paleodepositional study based on microfossil has been done on Miocene sediments from JTB-1 and NRM-1 wells, West Ogan Komering Block, Meraksa area, South Sumatra Basin. This study was carried out to test the different depositional environment of the well-known stratigraphic units in South Sumatra Basin, which was assumed to occur due to different structural position. In this study, stratigraphic unit classification was determined by their lithology characteristics, they are: Lahat Formation, Talangakar Formation, Baturaja Formation, Gumai Formation, and Airbenakat Formation. This study reveals that the shelf deposits, such as The Baturaja and Gumai Formation of NRM-1 well have thicker interval and indicate marine depositional environment compared to the same rock unit of JTB -1 well. The Baturaja Formation in JTB-1 well was deposited in a shallow neritic environment while at the NRM-1 well, it was deposited on a shallow neritic to middle neritic interval. The Gumai Formation interval at the JTB-1 well was deposited in middle neritic to outer neritic bathymetric zone while at the NRM-1 well; the entire interval indicates outer neritic sediment. Integrated study of microfossils analysis, stratigraphic and seismic correlation shows that the position of JTB-1 well is structurally higher than the NRM-1. It is consistent with the interval sediment in JTB-1 well which are generally thinner and interpreted as shallower marine deposit. The results from this study will give significant contributions for the hydrocarbon exploration and development in terms of improving knowledge of paleodepositional environment. Therefore, distribution, characteristics and hydrocarbon potential could be estimated more accurately as well as optimising the hydrocarbon recovery. © Published under licence by IOP Publishing Ltd.
+KW  - Airbenakat
+KW  - Baturaja
+KW  - Miocene
+KW  - paleoenvironmental
+KW  - South Sumatra Basin
+KW  - Deposition
+KW  - Deposits
+KW  - Hydrocarbons
+KW  - Lithology
+KW  - Sediments
+KW  - Stratigraphy
+KW  - Airbenakat
+KW  - Baturaja
+KW  - Miocene
+KW  - paleoenvironmental
+KW  - South Sumatra Basin
+KW  - Natural resources management
+PB  - Institute of Physics Publishing
+T2  - 2nd Transdisciplinary Research on Environmental Problems in Southeast Asia, TREPSEA 2016
+Y2  - 20 September 2016 through 22 September 2016
+N1  - Conference code: 128590
+N1  - Export Date: 28 May 2020
+M3  - Conference Paper
+DB  - Scopus
+C7  - 012033
+LA  - English
+N1  - Correspondence Address: Aswan; Geology Department, Faculty of Earth Sciences and Technology, Institute of Technology Bandung, Jalan Ganesa 10, Indonesia; email: aswan_gl@gc.itb.ac.id
+N1  - References: Pulunggono, A., Suparman, A., Assegaf, A., Purwanto, T., (1990) Geology of Garba Area and Surrounding, South Sumatra, , (Jakarta: Universitas Trisakti); 
+Barber, A.J., Crow, M.J., Milsom, J.S., Sumatra: Geology, Resources and Tectonic Evolution (2005) Geological Society Memoir, pp. 86-97. , (London: The Geological Society); 
+Wibowo, S.S., Studies of geochemistry and maturity modeling on the Talangakar source rock at Tungkal block, South Sumatra Basin (2015) Buletin Geologi, 42, pp. 199-215; 
+Katili, J.A., Geochronology of West Indonesia and Its Implication on Plate Tectonics (1973) Tectonophysics, 19 (3), p. 195; 
+Katili, J.A., Volcanism and Plate Tectonics in the Indonesia Island Acr (1975) Tectonophysics, 26 (3-4), p. 165; 
+Pulunggono, A., Cameron, N.R., Sumatran Microlpates, Their Characteristics and Their Role in the Evolution of the Central and South Sumatra Basin (1984) Proc 13th Ann. Conc. IPA, , (Jakarta, Mei); 
+Rauwenda, P.J., Morley, R.J., Toelstra, S.R., (1984) Assessment of Depositional Environment and Stratigraphy on the Basis of Foraminifera Paleoecology, , (Singapore: Robertson Research International Limited); 
+Tipsword, H.L., Setzer, F.M., Smith, L.F., (1966) Interpretation of Depositional Environment in Gulf Coast Petroleum Exploration from Paleoecology and Related Stratigraphy, 16. , (Houston: Gulf Coast Association of Geological Societies); 
+Blow, W.H., Late Middle Miocene to Recent Planktonik Microfossils (1969) 1st, Geneva Proceeding Leiden, F.J. Brill, 1, pp. 199-422
+A4  - Medco Energy; PT. LAPI ITB
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023167417&doi=10.1088%2f1755-1315%2f71%2f1%2f012033&partnerID=40&md5=d7fe63b39157f399bf1a7dd33e1d1273
+ER  - 
+
+TY  - JOUR
+TI  - Insights from Pb and O isotopes into along-arc variations in subduction inputs and crustal assimilation for volcanic rocks in Java, Sunda arc, Indonesia
+T2  - Geochimica et Cosmochimica Acta
+J2  - Geochim. Cosmochim. Acta
+VL  - 139
+SP  - 205
+EP  - 226
+PY  - 2014
+DO  - 10.1016/j.gca.2014.04.025
+SN  - 00167037 (ISSN) 
+AU  - Handley, H.K.
+AU  - Blichert-Toft, J.
+AU  - Gertisser, R.
+AU  - Macpherson, C.G.
+AU  - Turner, S.P.
+AU  - Zaennudin, A.
+AU  - Abdurrachman, M.
+AD  - Department of Earth and Planetary Sciences, Macquarie University, Sydney, NSW 2109, Australia
+AD  - Laboratoire de Géologie de Lyon, Ecole Normale Supérieure de Lyon, Université Claude Bernard Lyon 1, CNRS UMR 5276, 46 Allée d'Italie, 69007 Lyon, France
+AD  - School of Physical and Geographical Sciences, Keele University, Keele, Staffordshire ST5 5BG, United Kingdom
+AD  - Department of Earth Sciences, Durham University, Durham DH1 3LE, United Kingdom
+AD  - Center for Volcanology and Geological Hazard Mitigation (CVGHM), Geological Agency, Bandung 40122, Indonesia
+AD  - Department of Geological Engineering, Bandung Institute of Technology, Bandung 40132, Indonesia
+AB  - New Pb isotope data are presented for Gede Volcanic Complex, Salak and Galunggung volcanoes in West Java, Merbabu and Merapi volcanoes in Central Java and Ijen Volcanic Complex in East Java of the Sunda arc, Indonesia. New O isotope data for Merbabu and new geochemical and radiogenic isotope data (Sr-Nd-Hf-Pb) for three West Javanese, upper crustal, Tertiary sedimentary rocks are also presented. The data are combined with published geochemical and isotopic data to constrain the relative importance of crustal assimilation and subducted input of crustal material in petrogenesis in Java. Also discussed are the significance of limestone assimilation in controlling the geochemical and isotopic characteristics of erupted Javanese rocks and the geochemical impact upon central and eastern Javanese arc rocks due to the subduction of Roo Rise between 105 and 109°E. The negative correlation between Pb isotopes and SiO2, combined with mantle-like δ18O values in Gede Volcanic Complex rocks, West Java, are most likely explained by assimilation of more isotopically-primitive arc rocks and/or ophiolitic crust known to outcrop in West Java. The negative Pb isotope-SiO2 trend cannot be explained by assimilation of the known compositions of the upper crustal rocks. A peak in δ18O whole-rock and mineral values in Central Javanese volcanic rocks (Merbabu and Merapi) combined with along-arc trends in Sr isotope ratios suggest that a different or additional crustal assimilant exerts control on the isotopic composition of Central Javanese volcanic rocks. This assimilant (likely carbonate material) is characterised by high δ18O and high Sr isotope ratio but is not particularly elevated in its Pb isotopic ratio. Once the effects of crustal assimilation are accounted for, strong East to West Java regional variations in Ba concentration, Ba/Hf ratio and Pb isotopic composition are evident. These differences are attributed to heterogeneity in the subducted source input component along the island: a more radiogenic Pb isotopic, lower Ba/Hf component (detrital-rich subducted sediment) in West Java and a less radiogenic Pb isotopic, high Ba/Hf component (attributed to a greater AOC/sediment fluid component and/or dominance of pelagic, clay-rich subducted sediment) in East and possible Central Java. The subduction of the Roo Rise, an area of oceanic basement relief, is thought to contribute significantly to the spatial geochemical source input variations exhibited by Javanese volcanoes. © 2014 Elsevier Ltd.
+KW  - carbonate
+KW  - concentration (composition)
+KW  - crustal structure
+KW  - igneous geochemistry
+KW  - isotopic composition
+KW  - isotopic ratio
+KW  - lead isotope
+KW  - oxygen isotope
+KW  - petrogenesis
+KW  - strontium isotope
+KW  - subduction
+KW  - volcanic rock
+KW  - Galunggung
+KW  - Greater Sunda Islands
+KW  - Indonesia
+KW  - Indonesian seas
+KW  - Java
+KW  - Mount Salak
+KW  - Pacific Ocean
+KW  - Sunda Arc
+KW  - Sunda Isles
+KW  - West Java
+PB  - Elsevier Ltd
+N1  - Cited By :9
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Handley, H.K.; Department of Earth and Planetary Sciences, Macquarie University, Sydney, NSW 2109, Australia; email: heather.handley@mq.edu.au
+N1  - Funding details: Natural Environment Research Council, NERC, NE/I029927/1
+N1  - References: Abdurrachman, A., , p. 2012. , Geology and petrology of Quaternary Papandayan volcano and genetic relationship of volcanic rocks from the Triangular Volcanic Complex around Bandung Basin, West Java, Indonesia. Ph.D. thesis, Akita University, Japan; Abdurrachman, M., Yamamoto, M., (2012), pp. 40-57. , Geochemical variation of Quaternary volcanic rocks in Papandayan area, West Java, Indonesia: a role of crustal component. J. Geol. Soc. Thailand GEOSEA2012; Albarède, F., Goldstein, S.L., World map of Nd isotopes in seafloor ferromanganese deposits (1992) Geology, 20, pp. 761-763; 
+Albarède, F., Michard, A., Hydrothermal alteration of the oceanic crust (1989) Crust/Mantle Recycling at Convergence Zones, pp. 29-37. , Kluwer Academic Publishers, Dordrecht, The Netherlands, S.R. Hart, L. Gülen (Eds.); 
+Anderson, A.T., Magma mixing: petrological process and volcanological tool (1976) J. Volcanol. Geotherm. Res., 1, pp. 3-33; 
+Ben Othman, D.B., White, W.M., Patchett, J., The geochemistry of marine sediments, island arc magma genesis, and crust-mantle recycling (1989) Earth Planet. Sci. Lett., 94, pp. 1-21; 
+Bindeman, I.N., Fournelle, J.H., Valley, J.W., Low-δ18O tephra from a compositionally zoned magma body: Fisher Caldera, Unimak Island, Aleutians (2001) J. Volcanol. Geotherm. Res., 111, pp. 35-53; 
+Camus, G., Gourgaud, A., Vincent, P.M., Petrological evolution of Krakatau (Indonesia): implications for a future activity (1987) J. Volcanol. Geotherm. Res., 33, pp. 299-316; 
+Carn, S.A., Pyle, D.M., Petrology and geochemistry of the Lamongan Volcanic Field, East Java, Indonesia: primitive Sunda Arc magmas in an extensional tectonic setting? (2001) J. Petrol., 42, pp. 1643-1683; 
+Carpentier, M., Chauvel, C., Mattielli, N., Pb-Nd isotopic constraints on sedimentary input into the Lesser Antilles arc system (2008) Earth Planet. Sci. Lett., 272, pp. 199-211; 
+Chadwick, J.P., Troll, V.R., Ginibre, C., Morgan, D., Gertisser, R., Waight, T.E., Davidson, J.P., Carbonate assimilation at Merapi Volcano, Java, Indonesia: insights from crystal isotope stratigraphy (2007) J. Petrol., 48, pp. 1793-1812; 
+Chauvel, C., Blichert-Toft, J., A hafnium isotope and trace element perspective on melting of the depleted mantle (2001) Earth Planet. Sci. Lett., 190, pp. 137-151; 
+Chotin, P., Rasplus, L., Rampnoux, J.P., Suminta, N., Major strike slip fault zone and associated sedimentation in the central part of Java Island (Indonesia) (1984) Bull. Soc. Geol. France, 6, pp. 1259-1268. , (in French); 
+Claproth, R., (1989), Petrography and geochemistry of volcanic rocks from Ungaran, Central Java, Indonesia. Ph.D. thesis, University of Wollongong, Australia; Clements, B., Hall, R., Smyth, H.R., Cottam, M.A., Thrusting of a volcanic arc: a new structural model for Java (2009) Petrol. Geosci., 15, pp. 159-174; 
+Clements, B., Hall, R., (2007), Cretaceous to Late Miocene stratigraphic and tectonic evolution of West Java. In Proceedings, Indonesian Petroleum Association, Thirty-First Annual Convention and Exhibition, May 2007; Clift, P.D., Vannucchi, P., Morgan, J.P., Crustal redistribution, crust-mantle recycling and Phanerozoic evolution of the continental crust (2009) Earth Sci. Rev., 97, pp. 80-104; 
+Davidson, J.P., Crustal contamination versus subduction zone enrichment: examples from the Lesser Antilles and implications for mantle source compositions of island arc volcanic rocks (1987) Geochim. Cosmochim. Acta, 51, pp. 2185-2198; 
+Davidson, J.P., Dungan, M.A., Ferguson, K.M., Colucci, M.T., Crust-magma interactions and the evolution of arc magmas: the San Pedro Pellado volcanic complex, southern Chilean Andes (1987) Geology, 15, p. 443446; 
+Davidson, J.P., Harmon, R.S., Oxygen isotope constraints on the petrogenesis of volcanic arc magmas from Martinique, Lesser Antilles (1989) Earth Planet. Sci. Lett., 95, pp. 255-270; 
+Davidson, J.P., Hora, J.M., Garrison, J.M., Dungan, M.A., Crustal forensics in arc magmas (2005) J. Volcanol. Geotherm. Res., 140, pp. 157-170; 
+Deegan, F.M., Troll, V.R., Freda, C., Misiti, V., Chadwick, J.P., McLeod, C.L., Davidson, J.P., Magma-carbonate interaction processes and associated CO2 release at Merapi Volcano, Indonesia: insights from experimental petrology (2010) J. Petrol., 51, pp. 1027-1051; 
+DeMets, C., Gordon, R.G., Argus, D.F., Stein, S., Current plate motions (1990) Geophys. J. Int., 101 (2), p. 425478; 
+DePaolo, D.J., Trace element and isotopic effects of combined wallrock assimilation and fractional crystallization (1981) Earth Planet. Sci. Lett., 53, pp. 189-202; 
+Edwards, C.M.H., (1990), Petrogenesis of tholeiitic, calc-alkaline and alkaline volcanic rocks, Sunda arc, Indonesia. Ph.D. thesis, Royal Holloway, University of London, UK; Edwards, C.M.H., Morris, J.D., Thirlwall, M.F., Separating mantle from slab signatures in arc lavas using B/Be and radiogenic isotope systematics (1993) Nature, 362, pp. 530-533; 
+Eiler, J.M., (2001), pp. 319-364. , Oxygen isotope variations of basaltic lavas and upper mantle rocks. In Reviews in Mineralogy and Geochemistry, No. 43. Mineralogical Society of America, Washington, DC, pp; Eisele, J., Abouchami, W., Galer, S.J.G., Hofmann, A.W., The 320kyr Pb isotope evolution of Mauna Kea lavas recorded in the HSDP-2 drill core (2003) Geochem. Geophys. Geosyst., 4 (5), p. 8710; 
+Elliott, T., Plank, T., Zindler, A., White, W., Bourdon, B., Element transport from slab to volcanic front in the Mariana arc (1997) J. Geophys. Res., 102 (7 B), pp. 14991-15019; 
+Frank, M., O'Nions, R.K., Sources of Pb for Indian Ocean ferromanganese crusts: a record of Himalayan erosion? (1998) Earth Planet. Sci. Lett., 158, pp. 121-130; 
+Gao, Y., Hoefs, J., Przybilla, R., Snow, J.E., A complete oxygen isotope profile through the lower oceanic crust, ODP Hole 735B (2006) Chem. Geol., 233, pp. 217-234; 
+Garwin, S., Hall, R., Watanabe, Y., (2005), pp. 891-930. , Tectonic setting, geology and gold and copper mineralization in Cenozoic magmatic arcs of Southeast Asia and the west Pacific. In Economic Geology 100th Anniversary Volume, Soc. Econ. Geol. (eds. J. Hedenquist, R. Goldfarb and J. Thompson). pp; Gasparon, M., Varne, R., Sumatran granitoids and their relationship to Southeast Asian terranes (1995) Tectonophysics, 251, pp. 277-299; 
+Gasparon, M., Varne, R., Crustal assimilation versus subducted sediment input in west Sunda arc volcanics: an evaluation (1998) Mineral. Petrol., 64, pp. 89-117; 
+Gerbe, M.-C., Gouraud, A., Sigmarsson, O., Harmon, R.S., Joron, J.-L., Provost, A., Mineralogical and geochemical evolution of the 1982-1983 Galunggung eruption (Indonesia) (1992) Bull. Volcanol., 54, pp. 284-298; 
+Gertisser, R., Keller, J., Trace element and Sr, Nd, Pb and O isotope variations in medium-K and high-K volcanic rocks from Merapi Volcano, Central Java, Indonesia: evidence for the involvement of subducted sediments in Sunda Arc magma genesis (2003) J. Petrol., 44, pp. 457-489; 
+Gertisser, R., Keller, J., Temporal variations in magma composition at Merapi Volcano (Central Java, Indonesia): magmatic cycles during the past 2000years of explosive activity (2003) J. Volcanol. Geotherm. Res., 123, pp. 1-23; 
+Goldstein, S.L., O'Nions, R.K., Nd and Sr isotopic relationships in pelagic clays and ferromanganese deposits (1981) Nature, 292, pp. 324-327; 
+Hall, R., Cenozoic geological and plate tectonic evolution of SE Asia and the SW Pacific: computer-based reconstructions, model and animations (2002) J. Asian Earth Sci., 20, pp. 353-431; 
+Hall, R., Australia-SE Asia collision: plate tectonics and crustal flow (2011) Geol. Soc. Lond. Spec. Publ., 355, pp. 75-109; 
+Halldórsson, S.A., Hilton, D.R., Troll, V.R., Fischer, T.P., Resolving volatile sources along the Western Sunda arc, Indonesia (2013) Chem. Geol., 339, pp. 263-282; 
+Hamilton, W.B., (1979), 1078, p. 345. , Tectonics of the Indonesian region. U.S. Geological Survey Professional Paper reprinted with corrections, 1981 and 1985, vol; http://etheses.dur.ac.uk/2670/, Handley H. K. (2006) Geochemical and Sr-Nd-Hf-O isotopic constraints on volcanic petrogenesis at the Sunda arc, Indonesia. PhD thesis, Durham University, UK; Handley, H.K., Macpherson, C.G., Davidson, J.P., Berlo, K., Lowry, D., Constraining fluid and sediment contributions to subduction-related magmatism in Indonesia: Ijen Volcanic Complex, Indonesia (2007) J. Petrol., 48, pp. 1155-1183; 
+Handley, H.K., Davidson, J.P., Macpherson, C.G., Untangling differentiation in arc lavas: constraints from unusual minor and trace element variations at Salak Volcano, Indonesia (2008) Chem. Geol., 255, pp. 360-376; 
+Handley, H.K., Turner, S., Smith, I.E.M., Stewart, R.B., Cronin, S.J., Rapid timescales of differentiation and evidence for crustal contamination at intra-oceanic arcs: geochemical and U-Th-Ra-Sr-Nd isotopic constraints from Lopevi Volcano, Vanuatu, SW Pacific (2008) Earth Planet. Sci. Lett., 273, pp. 184-194; 
+Handley, H.K., Macpherson, C.G., Davidson, J.P., Geochemical and Sr-O isotopic constraints on magmatic differentiation at Gede Volcanic Complex, West Java, Indonesia (2010) Contrib. Mineral. Petrol., 159, pp. 885-908; 
+Handley, H.K., Turner, S., Macpherson, C.G., Gertisser, R., Davidson, J.P., Hf-Nd isotope and trace element constraints on subduction inputs at island arcs: limitations of Hf anomalies as sediment input indicators (2011) Earth Planet. Sci. Lett., 304, pp. 212-223; 
+Harmon, R.S., Gerbe, M.-C., The 1982-83 eruption at Galunggung Volcano, Java (Indonesia): oxygen isotope geochemistry of a chemically zoned magma chamber (1992) J. Petrol., 33, pp. 585-609; 
+Harmon, R.S., Hoefs, J., Oxygen isotope heterogeneity of the mantle deduced from global 18O systematics of basalts from different geotectonic settings (1995) Contrib. Mineral. Petrol., 120, pp. 95-114; 
+Hart, S.R., A large-scale isotope anomaly in the Southern Hemisphere mantle (1984) Nature, 309, pp. 753-757; 
+Hartono, U., Stratigraphic geochemical trends of the Wilis Volcanic Complex, Eastern Sunda Arc: implication for the magma evolution (1996) GRDC Bull., 19, pp. 97-133; 
+Hawkesworth, C.J., Hergt, J.M., Ellam, R.M., McDermott, F., Element fluxes associated with subduction related magmatism (1991) Philos. Trans. R. Soc. Lond. A, 335, pp. 393-405; 
+Hawkesworth, C.J., Gallagher, K., Herget, J.M., McDermott, F., Mantle and slab contributions in arc magmas (1993) Annu. Rev. Earth Planet. Sci., 21, pp. 175-204; 
+Hegner, E., Roddick, J.C., Fortier, S.M., Hulbert, L., Nd, Sr, Pb, Ar and O isotopic systematics of Sturgeon Lake kimberlite, Saskatchewan, Canada: constraints on emplacement age, alteration, and source composition (1995) Contrib. Mineral. Petrol., 120, pp. 212-222; 
+Hegner, E., Walter, H.J., Satir, M., Pb-Sr-Nd isotopic compositions and trace element geochemistry of megacrysts and melilitites from the Tertiary Urach volcanic field: source composition of small volume melts under SW Germany (1995) Contrib. Mineral. Petrol., 122, pp. 322-335; 
+Hermann, J., Rubatto, D., Accessory phase control on the trace element signature of sediment melts in subduction zones (2009) Chem. Geol., 265 (3-4), pp. 512-526; 
+Hildreth, W., Moorbath, S., Crustal contributions to arc magmatism in the Andes of Central Chile (1988) Contrib. Mineral. Petrol., 98, pp. 455-489; 
+Hoffmann-Rothe, A., Ritter, O., Haak, V., Magnetotelluric and geomagnetic modelling reveals zones of very high electrical conductivity in the upper crust of Central Java (2001) Phys. Earth Planet. Inter., 124 (3-4), pp. 131-151; 
+Hoernle, K., Hauff, F., Werner, R., van den Bogaard, P., Gibbons, A.D., Conrad, S., Muller, R.D., Origin of Indian Ocean Seamount Province by shallow recycling of continental lithosphere (2011) Nat. Geosci., 4, pp. 883-887; 
+Huppert, H.E., Sparks, R.S.J., Cooling and contamination of mafic and ultramafic magmas during ascent through continental crust (1985) Earth Planet. Sci. Lett., 74, pp. 371-386; 
+Hutchison, C.S., Ophiolite in Southeast Asia (1975) Geol. Soc. Am. Bull., 86, pp. 797-806; 
+Hutchison, C.S., Indonesian active volcanic arc: K, Sr and Rb variation with depth to the Benioff zone (1976) Geology, 4, pp. 407-408; 
+Hutchison, C.S., (1982), pp. 207-224. , Indonesia. Andesites: orogenic andesites and related rocks; Iacono Marziano, G., Gaillard, F., Pichavant, M., Limestone assimilation by basaltic magmas: an experimental re-assessment and application to Italian volcanoes (2008) Contrib. Mineral. Petrol., 155, pp. 719-738; 
+Ito, E., Stern, R.J., Oxygen- and strontium-isotopic investigations of subduction zone volcanism: the case of the Volcano Arc and the Marianas Island Arc (1986) Earth Planet. Sci. Lett., 76, pp. 312-320; 
+Ito, E., White, W.M., Gopel, C., The O, Sr, Nd and Pb isotope geochemistry of MORB (1987) Chem. Geol., 62, pp. 157-176; 
+James, D.E., The combined use of oxygen and radiogenic isotopes as indicators of crustal contamination (1981) Annu. Rev. Earth Planet. Sci., 9, pp. 311-344; 
+James, D.E., A combined O, Sr, Nd, and Pb isotopic and trace element study of crustal contamination in central Andean lavas, I. Local geochemical variations (1982) Earth Planet. Sci. Lett., 57, pp. 47-62; 
+Jeffery, A.J., Gertisser, R., Troll, V.R., Jolis, E.M., Dahren, B., Harris, C., Tindle, A.G., Chadwick, J.P., The pre-eruptive magma plumbing system of the 2007-2008 dome-forming eruption of Kelut volcano, East Java, Indonesia (2013) Contrib. Mineral. Petrol., 166, pp. 275-308; 
+Jicha, B.R., Smith, K.E., Singer, B.S., Beard, B.L., Johnson, C.M., Rogers, N.W., Crustal assimilation no match for slab fluids beneath Volcán de Santa María, Guatemala (2010) Geology, 38, pp. 859-862; 
+Kadarusman, A., Massonne, H.-J., van Roermund, H., Permana, H., P-T evolution of eclogites and blueschists from the Luk Ulo Complex of Central Java, Indonesia (2007) Int. Geol. Rev., 49 (4), pp. 329-356; 
+Kelemen, P.B., Yogodzinski, G.M., Scholl, D.W., (2003), pp. 223-276. , Along strike variation in lavas of the Aleutian islandarc: genesis of high Mg# andesite and implications for continental crust. In Inside the Subduction Factory (ed. J. Eiler), 138. AGU Monograph, pp; Keppler, H., Constraints from partitioning experiments on the composition of subduction zone fluids (1996) Nature, 380, pp. 237-240; 
+Kessel, R., Schmidt, M.W., Ulmer, P., Pettke, T., Trace element signature of subduction-zone fluids, melts and supercritical liquids at 120-180km depth (2005) Nature, 437, pp. 724-727; 
+Kogiso, T., Tatsumi, Y., Nakano, S., Trace element transport during dehydration processes in the subducted oceanic crust: 1. Experiments and implications for the origin of ocean island basalts (1997) Earth Planet. Sci. Lett., 148, pp. 193-205; 
+Kopp, H., Flueh, E.R., Petersen, C.J., Weinrebe, W., Wittwer, A., The Java margin revisited: evidence for subduction erosion off Java (2006) Earth Planet. Sci. Lett., 242, pp. 130-142. , Meramex Scientists; 
+Le Pichon, X., Seafloor spreading and continental drfit (1968) J. Geophys. Res., 73 (12), pp. 3661-3697; 
+Macpherson, C.G., Edwards, C.M.H., Menzies, M.A., Thirlwall, M.F., (in preparation). Sr-Nd-Pb-O evidence for assimilation of mafic and evolved crust to produce tholeiitic and calc-alkaline magma, Gunung Guntur, west Java; Mandeville, C.W., Carey, S., Sigurdsson, H., Magma mixing, fractional crystallization and volatile degassing during the eruption of Krakatau volcano, Indonesia (1996) J. Volcanol. Geotherm. Res., 74, pp. 243-274; 
+Metcalfe, I., Allochthonous terrane processes in Southeast Asia (1990) Philos. Trans. R. Soc. Lond., 331 (A), pp. 625-640; 
+McCulloch, M.T., Gamble, J.A., Geochemical and geodynamical constraints on subduction zone magmatism (1991) Earth Planet. Sci. Lett., 102, pp. 358-374; 
+Miller, D.M., Goldstein, S.L., Langmuir, C.H., Cerium/lead and lead isotope ratios in arc magmas and the enrichment of lead in the continents (1994) Nature, 368, pp. 514-519; 
+Moore, G.F., Curray, J.R., Moore, D.G., Karig, D.E., Variations in geologic structure along the Sunda fore arc, northeastern Indian Ocean (1980) The Tectonic and Geological Evolution of Southeast Asian Seas and Islands, pp. 145-160. , Am. Geophys. Union, Washington, D.E. Hayes (Ed.); 
+O'Nions, R.K., Frank, M., von Blanckenburg, F., Ling, H.-F., Secular variation of Nd and Pb isotopes in ferromanganese crusts from the Atlantic, Indian and Pacific Oceans (1998) Earth Planet. Sci. Lett., 155, pp. 15-28; 
+Pacey, A., Macpherson, C.G., McCaffrey, K.J.W., Linear volcanic segments in the central Sunda Arc, Indonesia, identified using Hough Transform analysis: implications for arc lithosphere control upon volcano distribution (2013) Earth Planet. Sci. Lett., pp. 24-33; 
+Pearce, J.A., Peate, D.W., Tectonic implications of the composition of volcanic arc magmas (1995) Annu. Rev. Earth Planet. Sci., 24, pp. 251-285; 
+Peccerillo, A., Dallai, L., Frezzotti, M.L., Kempton, P.D., Sr-Nd-Pb-O isotopic evidence for decreasing crustal contamination with ongoing magma evolution at Alicudi volcano (Aeolian arc, Italy): implications for style of magma-crust interaction and for mantle source compositions (2004) Lithos, 78, pp. 217-233; 
+Plank, T., Langmuir, C.H., The chemical composition of subducting sediment and its consequences for the crust and mantle (1998) Chem. Geol., 145, pp. 325-394; 
+Price, R.C., Kennedy, A.K., Riggs-Sneeringer, M., Frey, F.A., Geochemistry of basalts from the Indian Ocean triple junction: implications for the generation and evolution of Indian Ocean ridge basalts (1986) Earth Planet. Sci. Lett., 78, pp. 379-396; 
+Preece, K., Barclay, J., Gertisser, R., Herd, R.A., Textural and micro-petrological variations in the eruptive products of the 2006 dome-forming eruption of Merapi volcano, Indonesia: implications for sub-surface processes (2013) J. Volcanol. Geotherm. Res., 261, pp. 98-120; 
+Ranero, C.R., Morgan, J.P., McIntosh, K., Reichert, C., Bending-related faulting and mantle serpentinization at the Middle America trench (2003) Nature, 425, pp. 367-373; 
+Rehkämper, M., Hofmann, A.W., Recycled ocean crust and sediment in Indian Ocean MORB (1997) Earth Planet. Sci. Lett., 147, pp. 93-106; 
+Rittman, A., Magmatic character and tectonic position of the Indonesian volcanoes (1953) Bull. Volcanol., 14, pp. 45-58; 
+Rüpke, L.H., Phipps Morgan, J., Hort, M., Connolly, J.A.D., Are the regional variations in Central American arc lavas due to basaltic versus peridotitic slab sources of fluids? (2002) Geology, 30, pp. 1035-1038; 
+Sakuyama, M., Evidence of magma mixing: petrological study of Shirouma-Oike calc-alkaline andesite volcano, Japan (1979) J. Volcanol. Geoth. Res., 5, pp. 179-208; 
+Singer, B.S., Leeman, W.P., Thirlwall, M.T., Rodgers, N.W., Does fracture zone subduction increase sediment flux and mantle melting in subduction zones? Trace element evidence from Aleutian arc basalt (1996) Geophysical Monograph, 86, pp. 285-291. , American Geophysical Union, Subduction: Top to Bottom; 
+Sisson, T.W., Bronto, S., Evidence for pressure-release melting beneath magmatic arcs from basalt at Galunggung, Indonesia (1998) Nature, 391, pp. 883-886; 
+Sitorus, K., (1990), Volcanic stratigraphy and geochemistry of the Idjen Caldera Complex, East Java, Indonesia. MSc thesis, University of Wellington, New Zealand; Scholl, D.W., von Huene, R., Implications of estimated magmatic additions and recycling losses at the subduction zones of accretionary (non-collisional) and collisional (suturing) orogens (2009) Geol. Soc. Lond. Spec. Publ., 318, pp. 105-125; 
+Smyth, H., Hall, R., Hamilton, J.P., Kinny, P., (2005), pp. 251-266. , East Java: Cenozoic basins, volcanoes and ancient basement: Jakarta. In Proceedings, Indonesian Petroleum Association Annual Convention, 30th. pp; Smyth, H.R., Hamilton, P.J., Hall, R., Kinny, P.D., The deep crust beneath island arcs: inherited yircons reveal a gondwana continental fragment beneath East Java, Indonesia (2007) Earth Planet. Sci. Lett., 258, pp. 269-282; 
+Sun, S.-S., Lead isotopic study of young volcanic rocks form mid-ocean ridges, ocean islands and island arcs (1980) R. Soc. Lond. Philos. Trans., 297, pp. 409-445; 
+Syracuse, E.M., Abers, G.A., Global compilation of variations in slab depth beneath arc volcanoes and implications (2006) Geochem. Geophys. Geosyst., 7, pp. Q05017; 
+Tenthorey, E., Hermann, J., Composition of fluids during serpentinite breakdown in subduction zones: evidence for limited boron mobility (2004) (2004) Geology, 32, pp. 865-868; 
+Thirlwall, M.F., Graham, A.M., Arculus, R.J., Harmon, R.S., Macpherson, C.G., Resolution of the effects of crustal assimilation, sediment subduction, and fluid transport in island arc magmas: Pb-Sr-Nd-O isotope geochemistry of Grenada, Lesser Antilles (1996) Geochim. Cosmochim. Acta, 60 (23), pp. 4785-4810; 
+Tregoning, P., Brunner, F.K., Bock, Y., Puntodewo, S.S.O., McCaffrey, R., Genrich, J.F., Calais, E., Subarya, C., First geodetic measurement of convergence across the Java Trench (1994) Geophys. Res. Lett., 21 (19), p. 21352138; 
+Troll, V.R., Deegan, F.M., Jolis, E.M., Harris, C., Chadwick, J.P., Gertisser, R., Schwarzkopf, L.M., Preece, K., Magmatic differentiation processes at Merapi Volcano: inclusion petrology and oxygen isotopes (2013) J. Volcanol. Geotherm. Res., 261, pp. 38-49; 
+Turner, S., Foden, J., U, Th and Ra disequilibria, Sr, Nd and Pb isotope and trace element variations in Sunda arc lavas: predominance of a subducted sediment component (2001) Contrib. Mineral. Petrol., 142, pp. 43-57; 
+van Bemmelen, R.W., (1949) The Geology of Indonesia, 1 (A). , Government Printing Office, The Hague, 732pp; 
+van Gerven, M., Pichler, H., Some aspects of the volcanology and geochemistry of the Tengger Caldera, Java, Indonesia: eruption of a K-rich tholeiitic series (1995) J. SE Asian Earth Sci., 11, pp. 125-133; 
+Vigouroux, N., Wallace, P.J., Williams-Jones, G., Kelley, K., Kent, A.J.R., Williams-Jones, A.E., The sources of volatile and fluid-mobile elements in the Sunda arc: a melt inclusion study from Kawah Ijen and Tambora volcanoes, Indonesia (2012) Geochem. Geophys. Geosyst., 13, pp. Q09015; 
+von Huene, R., Scholl, D.W., Observations at convergent margins concerning sediment subduction, subduction erosion, and the growth of continental crust (1991) Rev. Geophys., 29, pp. 279-316; 
+Vroon, P.Z., Lowry, D., van Bergen, M.J., Boyce, A.J., Mattey, D.P., Oxygen isotope systematics of the Banda Arc: low δ18O despite involvement of subducted continental material in magma genesis (2001) Geochim. Cosmochim. Acta, 65, pp. 589-609; 
+Vukadinovic, D., Sutawidjaja, I., Geology, mineralogy and magma evolution of Gunung Slamet Volcano, Java, Indonesia (1995) J. SE Asian Earth Sci., 11, pp. 135-164; 
+Wakita, K., Cretaceous accretionary-collision complexes in central Indonesia (2000) J. Asian Earth Sci., 18, pp. 739-749; 
+Wakita, K., Munasri, Widoyoko, B., Cretaceous radiolarian from the Luk Ulo mélange complex in the Karangsambung area, Central Java, Indonesia (1994) J. Southeast Asian Earth Sci., 9, pp. 29-43; 
+Wheller, G.E., Varne, R., Foden, J.D., Abbott, M.J., Geochemistry of Quaternary Volcanism in the Sunda-Banda arc, Indonesia, and three-component genesis of sland-arc basaltic magmas (1987) J. Volcanol. Geotherm. Res., 32, pp. 137-160; 
+White, W.M., Albarède, F., Télouk, P., High-precision analysis of Pb isotopic ratios using multi-collector ICPMS (2000) Chem. Geol., 167, pp. 257-270; 
+Whitford, D.J., Strontium isotopic studies of the volcanic rocks of the Sunda arc, Indonesia, and their petrogenesis (1975) Geochim. Cosmochim. Acta, 39, pp. 1287-1302; 
+Whitford, D.J., Nicholls, I.A., Potassium variations in lavas across the Sunda arc in Java and Bali (1976) Volcanism in Australasia, pp. 63-75. , Elsevier, Amsterdam, R.W. Johnson (Ed.); 
+Whitford, D.J., Isotopic constraints on the role of subducted sialic material in Indonesian island-arc magmatism (1982) Geol. Soc. Am. Bull., 93, pp. 504-513; 
+Woodhead, J.D., Hergt, J.M., Davidson, J.P., Eggins, S.M., Hafnium isotope evidence for 'conservative' element mobility during subduction processes (2001) Earth Planet. Sci. Lett., 192, pp. 331-346
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901492918&doi=10.1016%2fj.gca.2014.04.025&partnerID=40&md5=af00082fe9607146478885bab90ae6b7
+ER  - 
+

@@ -1,0 +1,1471 @@
+TY  - JOUR
+TI  - Does updating natural hazard maps to reflect best practices increase viewer comprehension of risk?
+T2  - International Journal of Disaster Risk Reduction
+J2  - Int. J. Disaster Risk Reduct.
+VL  - 46
+PY  - 2020
+DO  - 10.1016/j.ijdrr.2020.101487
+SN  - 22124209 (ISSN) 
+AU  - MacPherson-Krutsky, C.C.
+AU  - Brand, B.D.
+AU  - Lindell, M.K.
+AD  - Department of Geosciences, Boise State University, United States
+AB  - In this study, we examine whether updating an interactive hazard map using recommendations from the literature improves user map comprehension. Analyses of experimental data collected from 75 university students revealed that map comprehension scores were not significantly better for those who viewed a “best practices” map compared to those who viewed an existing version. This may be because the existing map was itself better than most other interactive maps. Additionally, we found map comprehension levels to have significant positive relationships with objective tests, but not self-reported measures of spatial ability. Moreover, self-reported spatial ability had statistically significant, but only moderately strong, correlations with objective tests. These results indicate that spatial ability should be measured objectively rather than through self-reported methods in research on map comprehension. Further research is needed to examine the cognitive processes involved in hazard map comprehension, especially using a broader range of map characteristics and population segments with more diverse cognitive abilities. © 2020 The Authors
+KW  - Communication
+KW  - Does updating natural hazard maps to reflect best practices
+KW  - Hazard maps
+KW  - Increase viewer comprehension of risk?
+KW  - Map comprehension
+KW  - Risk
+KW  - Spatial ability
+PB  - Elsevier Ltd
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+C7  - 101487
+LA  - English
+N1  - Correspondence Address: MacPherson-Krutsky, C.C.1910 University Drive, United States; email: carsonmacpherson@u.boisestate.edu
+N1  - Funding details: National Science Foundation, NSF, CMMI- 1663642
+N1  - Funding details: Geological Society of America, GSA
+N1  - Funding text 1: This research was supported by a grant from the National Science Foundation (CMMI- 1663642 ) and a Geological Society of America Graduate Student Research Grant . Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding organizations.
+N1  - References: Dransch, D., Rotzoll, H., Poser, K., The contribution of maps to the challenges of risk communication to the public (2010) Int. J. Digital Earth, 3 (3), pp. 292-311; 
+Nave, R., Isaia, R., Vilardo, G., Barclay, J., Re-assessing volcanic hazard maps for improving volcanic risk communication: application to Stromboli Island, Italy (2010) J. Maps, 6 (1), pp. 260-269; 
+Dodge, M., Kitchin, R., Perkins, C., (2011) The Map Reader: Theories of Mapping Practice and Cartographic Representation, , John Wiley & Sons; 
+Taylor, H.A., Mapping the understanding of understanding maps (2005) The Cambridge Handbook of Visuospatial Thinking, pp. 295-333. , P. Shah A. Miyake Cambridge University Press New York; 
+Department of Homeland Security, Budget-in-brief Fiscal year 2019 (2017), www.dhs.gov/publication/fy-2019-budget-brief, 10/13/19; Lindell, M.K., Communicating imminent risk (2018) Handbook of Disaster Research, pp. 449-477. , H. Rodríguez J. Trainor W. Donner Springer New York; 
+Crozier, M.J., McClure, J., Vercoe, J., Wilson, M., The effects of land zoning information on judgments about earthquake damage (2006) Environ. Hazards, 38 (2), pp. 143-152; 
+Cao, Y., Boruff, B.J., Mcneill, I.M., Is a picture worth a thousand words ? Evaluating the effectiveness of maps for delivering wild fire warning information (2016) Int. J. Disaster Risk Reduct., 19, pp. 179-196; 
+Cao, Y., Boruff, B.J., McNeill, I.M., The smoke is rising but where is the fire? Exploring effective online map design for wildfire warnings (2017) Nat. Hazards, 88 (3), pp. 1473-1501; 
+Cheong, L., Bleisch, S., Kealy, A., Tolhurst, K., Wilkening, T., Duckham, M., Evaluating the impact of visualization of wildfire hazard upon decision-making under uncertainty (2016) Int. J. Geogr. Inf. Sci., 30 (7), pp. 1377-1404; 
+Haynes, K., Barclay, J., Pidgeon, N., Volcanic hazard communication using maps : an evaluation of their effectiveness (2007) Bull. Volcanol.; 
+Thompson, M.A., Lindsay, J.M., Gaillard, J.C., The influence of probabilistic volcanic hazard map properties on hazard communication (2015) Appl. Volcanol., 4 (6), pp. 1-24; 
+Bell, H.M., Tobin, G.A., Efficient and effective? The 100-year flood in the communication and perception of flood risk (2007) Environ. Hazards, 7 (4), pp. 302-311; 
+de Moel, H., van Alphen, J., Aerts, J.C.J.H., Flood maps in Europe -methods, availability and use (2009) Nat. Hazards Earth Syst. Sci., 9 (2), pp. 289-301; 
+Hagemeier-Klose, M., Wagner, K., Evaluation of flood hazard maps in print and web mapping services as information tools in flood risk communication (2009) Nat. Hazards Earth Syst. Sci., 9 (2), pp. 563-574; 
+Maidl, E., Buchecker, M., Raising risk preparedness by flood risk communication (2015) Nat. Hazards Earth Syst. Sci., 15 (7), pp. 1577-1595; 
+van Kerkvoorde, M., Kellens, W., Verfaillie, E., Ooms, K., Evaluation of web maps for the communication of flood risks to the public in Europe (2018) Int. J. Cartogr., 4 (1), pp. 49-64; 
+Ash, K.D., Schumann, R.L., III, Bowser, G.C., Tornado warning trade-offs: evaluating choices for visually communicating risk (2014) Weather Clim. Soc., 6, pp. 104-118; 
+Casteel, M.A., Downing, J.R., Assessing risk following a wireless emergency alert: are 90 characters enough? (2015) J. Homel. Secur. Emerg. Manag.; 
+Jon, I., Huang, S.-K., Lindell, M.K., Perceptions and reactions to tornado warning polygons: would a gradient polygon be useful? (2018) Int. J. Disaster Risk Reduct., 30, pp. 132-144; 
+Jon, I., Huang, S.-K., Lindell, M.K., Perceptions and expected immediate reactions to severe storm displays (2019) Risk Anal., 39, pp. 274-290; 
+Lindell, M.K., Huang, S., Wei, H., Samuelson, C.D., Perceptions and expected immediate reactions to tornado warning polygons (2016) Nat. Hazards, 80, pp. 683-707; 
+Sherman-Morris, K., Brown, M., Experiences of smithville, Mississippi residents with the 27 april 2011 tornado (2012) Natl. Weather Digest, 36 (2), pp. 93-101; 
+Arlikatti, S., Lindell, M.K., Prater, C.S., Zhang, Y., Risk area accuracy and hurricane evacuation expectations of coastal residents (2006) Environ. Behav., 38 (2), pp. 226-247; 
+Cox, J., House, D., Lindell, M.K., Visualizing uncertainty in predicted hurricane tracks (2013) Int. J. Uncertain. Quantification, 3, pp. 143-156; 
+Liu, L., Boone, A.P., Ruginski, I.T., Padilla, L., Hegarty, M., Creem-Regehr, S.H., Thompson, W.B., House, D.H., Uncertainty visualization by representative sampling from prediction ensembles (2017) IEEE Trans. Visual. Comput. Graph., 23 (9), pp. 2165-2178; 
+Liu, L., Padilla, L., Creem-Regehr, S.H., House, D.H., Visualizing uncertain tropical cyclone predictions using representative samples from ensembles of forecast tracks (2019) IEEE Trans. Visual. Comput. Graph., 25 (1), pp. 882-891; 
+Meyer, R., Broad, K., Orlove, B., Petrovic, N., Dynamic simulation as an approach to understanding hurricane risk response: insights from the stormview lab (2013) Risk Anal., 33 (8), pp. 1532-1552; 
+Padilla, L.M., Hansen, G., Ruginski, I.T., Kramer, H.S., Thompson, W.B., Creem-Regehr, S.H., The influence of different graphical displays on nonexpert decision making under uncertainty (2015) J. Exp. Psychol. Appl., 21 (1), pp. 37-46; 
+Wu, H., Lindell, M.K., Prater, C.S., Samuelson, C.D., Effects of track and threat information on judgments of hurricane strike probability (2014) Risk Anal., 34 (6), pp. 1025-1039; 
+Wu, H.C., Lindell, M.K., Prater, C.S., Process tracing analysis of hurricane information displays (2015) Risk Anal., 35 (12), pp. 2202-2220; 
+Wu, H.C., Lindell, M.K., Prater, C.S., Strike probability judgments and protective action recommendations in a dynamic hurricane tracking task (2015) Nat. Hazards, 79 (1), pp. 355-380; 
+Zhang, Y., Prater, C.S., Lindell, M.K., Risk area accuracy and evacuation from hurricane bret (2004) Nat. Hazards Rev., 5 (August), pp. 115-120. , 10.1061/(ASCE)1527-6988(2004)5:3(115); 
+Hegarty, M., The cognitive science of visual-spatial displays: implications for design (2011) Top. Cognit. Sci., 3 (3), pp. 446-474; 
+Allen, G.L., Miller Cowan, C.R., Power, H., Acquiring information from simple weather maps: influences of domain specific knowledge and general visual-spatial abilities (2006) Learn. Indiv Differ, 16 (4), pp. 337-349; 
+Endsley, M.R., Jones, D.G., Designing for Situation Awareness: an Approach to User-Centered Design (2012), second ed. CRC Press Boca Raton FL; Colom, R., Contreras, M.J., Botella, J., Santacreu, J., Vehicles of spatial ability (2002) Pers. Indiv. Differ., 32 (5), pp. 903-912; 
+Aksoy, B., Investigation of mapping skills of pre-service teachers as regards to various parameters (2013) Educ. Res. Rev., 8 (4), pp. 134-143; 
+Albert, G., Ilyés, V., Kis, D., Szigeti, C., Várkonyi, D., Testing the map reading skills of university students (2016) 6th International Conference on Cartography and GIS, pp. 188-199; 
+Milson, A.J., Alibrandi, M., Critical map literacy and geographic information systems: the spatial dimension of civic decision making (2008) The Electronic Republic? the Impact of Technology on Education for Citizenship, pp. 110-128. , P.J. VanFossen M.J. Berson Purdue University Press West Lafayette; 
+Muir, S.P., Understanding and improving students' map reading skills (1985) Elem. Sch. J., 86 (2), pp. 206-216; 
+Kosslyn, S.M., Understanding charts and graphs (1989) Appl. Cognit. Psychol., 3, pp. 185-226; 
+Shah, P., Freedman, E.G., Vekiri, I., The comprehension of quantitative information in graphical displays (2005) The Cambridge Handbook of Visuospatial Thinking, pp. 426-476. , P. Shah A. Miyake Cambridge University Press New York; 
+Kunz, M., Hurni, L., How to enhance cartographic visualisations of natural hazards assessment results (2011) Cartogr. J., 48 (1), pp. 60-71; 
+Brewer, C.A., Designing Better Maps (2005), first ed. ESRI Press Redlands, CA; Harrower, M., Brewer, C.A., ColorBrewer.org: an online tool for selecting color schemes for maps (2003) Cartogr. J., 40 (1), pp. 27-37; 
+Lindell, M.K., Perry, R.W., The protective action decision model: theoretical modifications and additional evidence (2012) Risk Anal., 32 (4), pp. 616-632; 
+Keller, C., Using a familiar risk comparison within a risk ladder to improve risk understanding by low numerates: a study of visual attention (2011) Risk Anal., 31 (7), pp. 1043-1054; 
+Kreuzmair, C., Siegrist, M., Keller, C., High numerates count icons and low numerates process large areas in pictographs: results of an eye-tracking study (2016) Risk Anal., 36 (8), pp. 1599-1614; 
+Carroll, J.B., Human Cognitive Abilities: A Survey of Factor Analytic Studies (1993), Cambridge University Press Cambridge; McGee, M.G., Human spatial abilities: psychometric studies and environmental, genetic, hormonal, and neurological influences (1979) Psychol. Bull., 86 (5), pp. 889-918; 
+Ekstrom, R.B., French, J.W., Harman, H.H., Dermen, D., Manual for Kit of Factor-Referenced Cognitive Tests (1976), Educational Testing Service Princeton, NJ; Hegarty, M., Crookes, R.D., Dara-Abrams, D., Shipley, T.F., Do all science disciplines rely on spatial abilities? Preliminary evidence from self-report questionnaires (2010) Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 6222, pp. 85-94. , LNAI; 
+Ooms, K., De Maeyer, P., Fack, V., Listen to the map user: cognition, memory, and expertise (2015) Cartogr. J., 52 (1), pp. 3-19; 
+Postigo, Y., Pozo, J.I., On the Road to Graphicacy: the learning of graphical representation systems (2004) Educ. Psychol., 24 (5), pp. 623-644; 
+Hegarty, M., Montello, D.R., Richardson, A.E., Ishikawa, T., Lovelace, K., Spatial abilities at different scales: individual differences in aptitude-test performance and spatial-layout learning (2006) Intelligence, 34, pp. 151-176; 
+Bosco, A., Longoni, A.M., Vecchi, T., Gender effects in spatial orientation: cognitive profiles and mental strategies (2004) Appl. Cognit. Psychol., 18 (5), pp. 519-532; 
+Thorndyke, P.W., Stasz, C., Individual differences in procedures for knowledge acquisition from maps (1980) Cognit. Psychol., 12, pp. 137-175; 
+Vandenberg, S.G., Kuse, A.R., Mental rotations, A group test of three-dimensional spatial visualization (1978) Percept. Mot. Skills, 47, pp. 599-604; 
+Campos, M., Rica, C., Uk, R.W., Key Vulnerabilities Coordinating Lead Authors : Contributing Authors : Review Editors (2014), pp. 1039-1099; Kastens, K., Commentary: object and spatial visualization in geosciences (2010) J. Geosci. Educ., 58 (2), pp. 52-57; 
+Mayer, R.E., Massa, L.J., Three facets of visual and verbal learners: cognitive ability, cognitive style, and learning preference (2003) J. Educ. Psychol., 95 (4), pp. 833-846; 
+Nazareth, A., Newcombe, N.S., Shipley, T.F., Velazquez, M., Weisberg, S.M., Beyond small-scale spatial skills: navigation skills and geoscience education (2019) Cognit. Res.: Princ. Implications, 4 (1); 
+Tartre, L., Spatial orientation skill and mathematical problem solving (1990) J. Res. Math. Educ., 21 (3), pp. 216-229; 
+Weisberg, S.M., Schinazi, V.R., Newcombe, N.S., Shipley, T.F., Epstein, R.A., Variations in cognitive maps: understanding individual differences in navigation (2014) J. Exp. Psychol. Learn. Mem. Cognit., 40 (3), pp. 669-682; 
+McCormick, C.B., Metacognition and learning (2003) Handbook of Psychology: Educational Psychology, 7, pp. 79-102. , W.M. Reynolds G.E. Miller John Wiley & Sons Inc; 
+Dunning, D., The Dunning–Kruger effect: on being ignorant of one's own ignorance (2011) Advances in Experimental Social Psychology, 44, pp. 247-296. , J.M. Olson M.P. Zanna Academic Press; 
+Hegarty, M., Richardsona, A.E., Montello, D.R., Lovelace, K., Subbiah, I., Development of a self-report measure of environmental spatial ability (2002) Intelligence, 30 (5), pp. 425-447; 
+Ott, R.L., Longnecker, M., An Introduction to Statistical Methods and Data Analysis (2010), sixth ed. Duxbury Pacific Grove CA; Nunnally, J.C., Bernstein, I.H., Psychometric Theory (1994), third ed. McGraw-Hill New York; Fall, R., Webb, N.M., Chudowsky, N., Group discussion and large-scale language arts assessment: effects on students' comprehension (2000) Am. Educ. Res., 38 (4), pp. 911-941; 
+Padilla, L.M., Ruginski, I.T., Creem-Regehr, S.H., Effects of ensemble and summary displays on interpretations of geospatial uncertainty data (2017) Cognit. Res.: Princ. Implications, 2 (1), p. 40
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078490573&doi=10.1016%2fj.ijdrr.2020.101487&partnerID=40&md5=59336e8c497795012eb190e511e3a767
+ER  - 
+
+TY  - JOUR
+TI  - Inferring pyroclastic density current flow conditions using syn-depositional sedimentary structures
+T2  - Bulletin of Volcanology
+J2  - Bull. Volcanol.
+VL  - 81
+IS  - 8
+PY  - 2019
+DO  - 10.1007/s00445-019-1303-z
+SN  - 02588900 (ISSN) 
+AU  - Pollock, N.M.
+AU  - Brand, B.D.
+AU  - Rowley, P.J.
+AU  - Sarocchi, D.
+AU  - Sulpizio, R.
+AD  - Department of Geosciences, Boise State University, Boise, ID, United States
+AD  - Department of Geography, Geology and Environmental Sciences, University of Hull, Hull, United Kingdom
+AD  - Universidad Autónoma de San Luis Potosí, Instituto de Geología/Facultad Ingeniería, San Luis Potosí, Mexico
+AD  - Dipartimento di Scienze della Terra e Geoambientali, Università degli Studi di Bari, Bari, Italy
+AD  - IDPA-CNR, Milan, Italy
+AB  - The processes occurring in the basal region of concentrated pyroclastic density currents (PDCs) influence the mobility, runout distance, and damage potential of a current, but directly observing these processes is extremely difficult. Instead, we must investigate the deposits to glean information regarding the conditions of sediment transport and deposition. The PDC deposits of the May 18, 1980 eruption of Mount St. Helens (WA, USA) contain sedimentary structures consisting of bed material reworked into undulose structures and recumbent flame structures. The structures vary over two orders of magnitude in size with lengths ranging from 8 cm to 18 m and heights ranging from 4 cm to 1.8 m. Despite the large range in sizes, the structures remain self-similar in form, suggesting a common mechanism for formation. The structures are interpreted as the record of granular shear instabilities, similar to Kelvin-Helmholtz instabilities, formed at the interface between a shearing, high-concentration flow and the substrate in the moments just prior to deposition. The morphology of the structures suggests that the basal region of PDCs must be both highly concentrated and also highly mobile in the moments before final deposition, likely a result of elevated pore fluid pressures. We use a modified instability growth criterion to estimate PDC flow velocities at the time of formation; for the Mount St. Helens PDCs, the velocity estimates range from 0.2 to 7.5 m s−1 with larger structures requiring higher flow velocities. Combining the velocity estimates with the dimensions of the structures suggests deposition rates of 4 to 32 cm s−1. Such high deposition rates indicate that the deposits likely accumulated in a stepwise manner, rather than either progressively or en masse. The structures suggest that sections of the deposit accumulated during punctuated periods of high deposition lasting at most a few seconds followed by periods of bypassing (i.e., non-deposition) or erosion lasting minutes to tens of minutes. Our findings motivate continued experimental and numerical work to understand how the formation of recumbent flame (and similar) structures affects subsequent flow behavior in terms of runout distance and hazard potential. © 2019, International Association of Volcanology & Chemistry of the Earth's Interior.
+KW  - Flame structures
+KW  - Kelvin-Helmholtz instability
+KW  - Mount St. Helens
+KW  - Pyroclastic density current
+KW  - Sedimentary structures
+KW  - Shear
+KW  - density current
+KW  - flow velocity
+KW  - Kelvin-Helmholtz instability
+KW  - pyroclastic deposit
+KW  - pyroclastic flow
+KW  - sedimentary structure
+KW  - shear
+KW  - volcanic eruption
+KW  - Cascade Range
+KW  - Mount Saint Helens
+KW  - United States
+KW  - Washington [United States]
+PB  - Springer Verlag
+N1  - Cited By :1
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+C7  - 46
+LA  - English
+N1  - Correspondence Address: Pollock, N.M.; Department of Geosciences, Boise State UniversityUnited States; email: nickpollock@boisestate.edu
+N1  - Funding details: National Science Foundation, NSF, 1347385
+N1  - Funding text 1: This work was funded by a grant from the National Science Foundation (Award Number: 1347385).
+N1  - References: Allen, J.R.L., (1984) Sedimentary structures: their character and physical basis, volumes I and II, , El Sevier, Amsterdam; 
+Benage, M.C., Dufek, J., Mothes, P.A., Quantifying entrainment in pyroclastic density currents from the Tungurahua eruption, Ecuador: integrating field proxies with numerical simulations (2016) Geophys Res Lett, 43, pp. 6932-6941; 
+Bernard, J., Kelfoun, K., Le Pennec, J.L., Vallejo Vargas, S., Pyroclastic flow erosion and bulking processes: comparing field-based vs. modeling results at Tungurahua volcano, Ecuador (2014) Bull Volcanol, 76, pp. 1-16; 
+Brand, B.D., Mackaman-Lofland, C., Pollock, N.M., Bendaña, S., Dawson, B., Wichgers, P., Dynamics of pyroclastic density currents: conditions that promote substrate erosion and self-channelization - Mount St Helens, Washington (USA) (2014) J Volcanol Geotherm Res, 276, pp. 189-214; 
+Brand, B.D., Bendaña, S., Self, S., Pollock, N., Topographic controls on pyroclastic density current dynamics: insight from 18 may 1980 deposits at Mount St. Helens, Washington (USA) (2016) J Volcanol Geotherm Res, 321, pp. 1-17; 
+Brand, B.D., Pollock, N.M., Sarocchi, D., Dufek, J., Clynne, M.A., (2017) Field-trip guide for exploring pyroclastic density current deposits from the May 18, 1980, , eruption of Mount St. Helens, Washington. USGS Sci Investig Rep 2017-5022-C; 
+Branney, M.J., Kokelaar, P., A reappraisal of ignimbrite emplacement: progressive aggradation and changes from particulate to non-particulate flow during emplacement of a high-grade ignimbrite (1992) Bull Volcanol, 54, pp. 504-520; 
+Branney, M.J., Kokelaar, B.P., (2002) Pyroclastic Density Currents and the Sedimentation of Ignimbrites, (27). , Geological Society of London; 
+Breard, E.C.P., Lube, G., Inside pyroclastic density currents – uncovering the enigmatic flow structure and transport behaviour in large-scale experiments (2017) Earth Planet Sci Lett, 458, pp. 22-36; 
+Breard, E.C.P., Dufek, J., Lube, G., Enhanced mobility in concentrated pyroclastic density currents: an examination of a self-fluidization mechanism (2018) Geophys Res Lett, 45, pp. 654-664; 
+Breard, E.C.P., Jones, J.R., Fullard, L., Lube, G., Davies, C., Dufek, J., The permeability of volcanic mixtures-implications for pyroclastic currents (2019) J Geophys Res Solid Earth, 124, pp. 1343-1360; 
+Bristow, C.S., Balley, S.D., Lancaster, N., The sedimentary structure of linear sand dunes (2000) Nature, 406, pp. 56-59; 
+Buesch, D.C., Incorporation and redistribution of locally derived lithic fragments within a pyroclastic flow (1992) Geol Soc Am Bull, 104, pp. 1193-1207; 
+Calder, E.S., Sparks, R.S.J., Gardeweg, M.C., Erosion, transport and segregation of pumice and lithic clasts in pyroclastic flows inferred from ignimbrite at Lascar Volcano, Chile (2000) J Volcanol Geotherm Res, 104, pp. 201-235; 
+Carey, S.N., Transport and deposition of tephra by pyroclastic flows and surges (1991) Sedimentation in Volcanic Settings, pp. 39-57. , Fisher RV, Smith GA, SEPM Special Publication; 
+Cas, R.A.F., Wright, H.M.N., Folkes, C.B., Lesti, C., Porecca, C., Giordano, G., Viramonte, J.G., The flow dynamics of an extremely large volume pyroclastic flow, the 2.08-Ma Cerro Gal {á} n Ignimbrite, NW Argentina, and comparison with other flow types (2011) Bull Volcanol, 73, pp. 1583-1609; 
+Charbonnier, S.J., Gertisser, R., Deposit architecture and dynamics of the 2006 block-and-ash flows of Merapi Volcano, Java, Indonesia (2011) Sedimentology, 58, pp. 1573-1612; 
+Chiarella, D., Moretti, M., Longhitano, S.G., Muto, F., Deformed cross-stratified deposits in the Early Pleistocene tidally-dominated Catanzaro strait-fill succession, Calabrian Arc (Southern Italy): triggering mechanisms and environmental significance (2016) Sediment Geol, 344, pp. 277-289; 
+Christiansen, R., Peterson, D., Chronology of the 1980 eruptive activity (1981) The 1980 Eruptions of Mount St Helens, pp. 17-30. , Lipman P, Mullineaux D (eds), Washington. U.S. Geological Survey Professional Paper 1250; 
+Ciamarra, M.P., Coniglio, A., Nicodemi, M., Shear instabilities in granular mixtures (2005) Phys Rev Lett, 94, pp. 1-4; 
+Clarke, A.B., Voight, B., Pyroclastic current dynamic pressure from aerodynamics of tree or pole blow-down (2000) J Volcanol Geotherm Res, 100, pp. 395-412; 
+Collinson, J., Sedimentary deformational structures (1994) The geological deformation of sediments, pp. 95-125. , Maltman A, (ed), Chapman & Hall, London; 
+Collinson, J.D., Thompson, D.B., (1989) Sedimentary structures, , Unwin Hyman, London; 
+Criswell, C.W., Chronology and pyroclastic stratigraphy of the May 18, 1980, eruption of Mount St. Helens, Washington (1987) J Geophys Res Solid Earth, 92, pp. 10237-10266; 
+Dasgupta, P., Recumbent flame structures in the lower Gondwana rocks of the Jharia Basin, India — a plausible origin (1998) Sediment Geol, 119, pp. 253-261; 
+De Vita, S., Orsi, G., Civetta, L., Carandente, A., D'Antonio, M., Deino, A., Di Cesare, T., Southon, J., The Agnano-Monte Spina eruption (4100 years BP) in the restless Campi Flegrei caldera (Italy) (1999) J Volcanol Geotherm Res, 91, pp. 269-301; 
+Douillet, G.A., Taisne, B., Tsang-Hin-Sun, M.S.K., Kueppers, U., Dingwell, D.B., Syn-eruptive, soft-sediment deformation of deposits from dilute pyroclastic density current: triggers from granular shear, dynamic pore pressure, ballistic impacts and shock waves (2015) Solid Earth, 6, pp. 553-572; 
+Douillet, G.A., Kueppers, U., Mato, C., Chaffaut, Q., Bouysson, M., Reschetizka, R., Hoelscher, I., Bernard, B., Revisiting the lacquer peels method with pyroclastic deposits: sediment plates, a precise, fine scale imaging method and powerful outreach tool (2018) J Appl Volcanol, 7. , (,),.,., https://doi.org/10.1186/s13617-018-0080-2; 
+Druitt, T.H., Avard, G., Bruni, G., Lettieri, P., Maez, F., Gas retention in fine-grained pyroclastic flow materials at high temperatures (2007) Bull Volcanol, 69, pp. 881-901; 
+Dufek, J., Esposti Ongaro, T., Roche, O., (2015) Pyroclastic density currents: processes and models, pp. 631-648. , The encyclopedia of volcanoes, In; 
+Farin, M., Mangeney, A., Roche, O., Fundamental changes of granular flow dynamics, deposition, and erosion processes at high slope angles: insights from laboratory experiments (2014) J Geophys Res Earth Surf, 119, pp. 504-532; 
+Fisher, R.V., Mechanism of deposition from pyroclastic flows (1966) Am J Sci, 264, pp. 350-366; 
+Flemming, B., Zur Klassifikation subaquatischer, stromungstrans versaler Transportkorper (1988) Boch geol u geotechn, 29, pp. 44-57; 
+Gase, A.C., Brand, B.D., Bradford, J.H., Evidence of erosional self-channelization of pyroclastic density currents revealed by ground-penetrating radar imaging at Mount St. Helens, Washington (USA) (2017) Geophys Res Lett, 44, pp. 2220-2228; 
+Gase, A., Bradford, J.H., Brand, B.D., Estimation of porosity and water saturation in dual porosity pyroclastic deposits from joint analysis of compression, shear, and electromagnetic velocities (2018) Geophysics, 83, pp. ID1-ID11; 
+Giannetti, B., Luongo, G., Trachyandesite scoria-flow and associated trachyte pyroclastic flow and surge at Roccamonfina Volcano (Roman Region, Italy) (1994) J Volcanol Geotherm Res, 59, pp. 313-334; 
+Girolami, L., Druitt, T.H., Roche, O., Khrabrykh, Z., Propagation and hindered settling of laboratory ash flows (2008) J Geophys Res, 113, p. B02202; 
+Girolami, L., Roche, O., Druitt, T.H., Corpetti, T., Particle velocity fields and depositional processes in laboratory ash flows, with implications for the sedimentation of dense pyroclastic flows (2010) Bull Volcanol, 72, pp. 747-759; 
+Glicken, H., (1996), Rockslide-debris avalanche of May 18, 1980, Mount St Helens Volcano Washington U S Geol Surv Open-file Rep 96–677; Goldfarb, D.J., Glasser, B.J., Shinbrot, T., Shear instabilities in granular flows (2002) Nature, 415, pp. 302-305; 
+Kundu, P.K., Cohen, I.M., (2004) Fluid mechanics, , Elsevier Academic Press, California; 
+Kuntz, M.A., Rowley, P.D., Macleod, N.S., Reynolds, R.L., McBroome, L.A., Kaplan, A.M., Lidke, D.J., Petrography and particle-size distribution of pyroclastic-flow, ash-cloud, and surge deposits (1981) The 1980 Eruptions of Mount St. Helens, Washington. U.S. Geological Survey Professional Paper, 1250, pp. 525-540. , Lipman L, Mullineaux D (eds); 
+Kuntz, M., Rowley, P., Macleod, N., (1990) Geologic Map of Pyroclastic Flow and Related Deposits of the 1980 Eruptions of Mount St Helens, , Washington: U.S. Geological Survey Miscellaneous Investigations Map I-1950, 1:12,000; 
+LaBerge, R.D., Giordano, G., Cas, R.A.F., Ailleres, L., Syn-depositional substrate deformation produced by the shear force of a pyroclastic density current: an example from the Pleistocene ignimbrite at Monte Cimino, northern Lazio, Italy (2006) J Volcanol Geotherm Res, 158, pp. 307-320; 
+Lube, G., Breard, E.C.P., Cronin, S.J., Jones, J., Synthesizing large-scale pyroclastic flows: Experimental design, scaling, and first results from PELE (2015) J Geophys Res Solid Earth, pp. 1-16. , https://doi.org/10.1002/2014JB011666.Received; 
+Macorps, E., Charbonnier, S.J., Varley, N.R., Capra, L., Atlas, Z., Cabre, J., Stratigraphy, sedimentology and inferred flow dynamics from the July 2015 block-and-ash flow deposits at Volcán de Colima, Mexico (2018) J Volcanol Geotherm Res, 349, pp. 99-116; 
+Mangeney, A., Roche, O., Hungr, O., Mangold, N., Faccanoni, G., Lucas, A., Erosion and mobility in granular collapse over sloping beds (2010) J Geophys Res Earth Surf, 115. , (,),.,., https://doi.org/10.1029/2009JF001462; 
+Martinius, A.W., Gowland, S., Tide-influenced fluvial bedforms and tidal bore deposits (Late Jurassic Lourinhã Formation, Lusitanian Basin, Western Portugal) (2011) Sedimentology, 58, pp. 285-324; 
+Matsumoto, D., Naruse, H., Fujino, S., Surphawajruksakul, A., Jarupongsakul, T., Sakakura, N., Murayama, M., Truncated flame structures within a deposit of the Indian Ocean tsunami: evidence of syn-sedimentary deformation (2008) Sedimentology, 55, pp. 1559-1570; 
+Owen, G., Experimental soft-sediment deformation: structures formed by the liquefaction of unconsolidated sands and some ancient examples (1996) Sedimentology, 43, pp. 279-293; 
+Owen, G., Moretti, M., Alfaro, P., Recognising triggers for soft-sediment deformation: current understanding and future directions (2011) Sediment Geol, 235, pp. 133-140; 
+Pollock, N.M., Brand, B.D., Roche, O., The controls and consequences of substrate entrainment by pyroclastic density currents at Mount St Helens, Washington (USA) (2016) J Volcanol Geotherm Res, 325, pp. 135-147; 
+Roche, O., Depositional processes and gas pore pressure in pyroclastic flows: an experimental perspective (2012) Bull Volcanol, 74, pp. 1807-1820; 
+Roche, O., Nature and velocity of pyroclastic density currents inferred from models of entrainment of substrate lithic clasts (2015) Earth Planet Sci Lett, 418, pp. 115-125; 
+Roche, O., Montserrat, S., Niño, Y., Tamburrino, A., Pore fluid pressure and internal kinematics of gravitational laboratory air-particle flows: insights into the emplacement dynamics of pyroclastic flows (2010) J Geophys Res Solid Earth, 115, pp. 1-18; 
+Roche, O., Niño, Y., Mangeney, A., Brand, B.D., Pollock, N.M., Valentine, G.A., Dynamic pore-pressure variations induce substrate erosion by pyroclastic flows (2013) Geology, 41, pp. 1107-1110; 
+Roche, O., Buesch, D.C., Valentine, G.A., Slow-moving and far-travelled dense pyroclastic flows during the Peach Spring super-eruption (2016) Nat Commun, 7, p. 10890; 
+Rodríguez Santalla, I., Sánchez García, M.J., Montoya Montes, I., Gómez Ortiz, D., Martín Crespo, T., Serra Raventos, J., Internal structure of the aeolian sand dunes of El Fangar spit, Ebro Delta (Tarragona, Spain) (2009) Geomorphology, 104, pp. 238-252; 
+Rossano, S., Mastrolorenzo, G., De Natale, G., Numerical simulation of pyroclastic density currents on Campi Flegrei topography: a tool for statistical hazard estimation (2004) J Volcanol Geotherm Res, 132, pp. 1-14; 
+Rowley, P.J., (2010) Analogue modelling of pyroclastic density current deposition, pp. 1-291. , PhD Thesis; 
+Rowley, P., Kuntz, M., Macleod, N., (1981) Pyroclastic-flow deposits, pp. 489-512. , Lipman P, Mullineaux D, U.S. Geological Survey Professional Paper 1250; 
+Rowley, P.J., Kokelaar, P., Menzies, M., Waltham, D., Shear-derived mixing in dense granular flows (2011) J Sediment Res, 81, pp. 874-884; 
+Rowley, P.J., Roche, O., Druitt, T.H., Cas, R., Experimental study of dense pyroclastic density currents using sustained, gas-fluidized granular flows (2014) Bull Volcanol, 76, pp. 1-13; 
+Sarocchi, D., Sulpizio, R., Macías, J.L., Saucedo, R., The 17 July 1999 block-and-ash flow (BAF) at Colima Volcano: new insights on volcanic granular flows from textural analysis (2011) J Volcanol Geotherm Res, 204, pp. 40-56; 
+SAVAGE, S., Analyses of slow high-concentration flows of granular materials (1998) Journal of Fluid Mechanics, 377, pp. 1-26; 
+Scott, W.E., Hoblitt, R.P., Torres, R.C., Self, S., Martinez, M.L., Nillos, T.J., Pyroclastic flows of the June 15, 1991 climactic eruption of Mount Pinatubo (1996) Fire and mud: eruptions and lahars of Mount Pinatubo, Philippines, pp. 545-570. , Newhall CG, Punongbayan S, (eds), Philippine Institute of Volcanology and Seismology, Quezon City, and University of Washington Press, Seattle; 
+Shanmugam, G., Global case studies of soft-sediment deformation structures (SSDS): definitions, classifications, advances, origins, and problems (2017) J Palaeogeogr, 6, pp. 251-320; 
+Simon, A., Klimetz, D., (2012) Analysis of Long-Term Sediment Loadings from the Upper North Fork Toutle River System, , Mount St Helens, Washington. Oxford, MS; 
+Sparks, R.S.J., Grain size variations in ignimbrites and implications for the transport of pyroclastic flows (1976) Sedimentology, 23, pp. 147-188; 
+Sparks, R.S.J., Francis, P.W., Hamer, R.D., Pankhurst, R.J., O'Callaghan, L.O., Thorpe, R.S., Page, R., Ignimbrites of the Cerro Galan caldera, NW Argentina (1985) J Volcanol Geotherm Res, 24, pp. 205-248; 
+Sparks, R.S.J., Bonnecaze, R.T., Huppert, H.E., Lister, J.R., Hallworth, M.A., Mader, H., Phillips, J., Sediment-laden gravity currents with reversing buoyancy (1993) Earth Planet Sci Lett, 114, pp. 243-257; 
+Sparks, R.S.J., Gardeweg, M.C., Calder, E.S., Matthews, S.J., Erosion by pyroclastic flows on Lascar Volcano, Chile (1997) Bull Volcanol, 58, pp. 557-565; 
+Sulpizio, R., Dellino, P., Chapter 2 sedimentology, depositional mechanisms and pulsating behaviour of pyroclastic density currents (2008) Developments in volcanology, pp. 57-96. , Gottsman J, Marti J, (eds), Elsevier, Amsterdam; 
+Sulpizio, R., Dellino, P., Doronzo, D.M., Sarocchi, D., Pyroclastic density currents: state of the art and perspectives (2014) J Volcanol Geotherm Res, 283, pp. 36-65; 
+Taddeucci, J., Palladino, D.M., Particle size-density relationships in pyroclastic deposits: inferences for emplacement processes (2002) Bull Volcanol, 64, pp. 273-284; 
+Valentine, G.A., Stratified flow in pyroclastic surges (1987) Bull Volcanol, 49, pp. 616-630; 
+Valentine, G.A., Buesch, D.C., Fisher, R.V., Basal layered deposits of the Peach Springs Tuff, northwestern Arizona, USA (1989) Bull Volcanol, 51, pp. 395-414; 
+Wilson, C.J.N., Hildreth, W., The Bishop Tuff: new insights from eruptive stratigraphy (1997) J Geol, 105, pp. 407-440; 
+Wright, J.V., Walker, G.P.L., Eruption, transport and deposition of ignimbrite: a case study from Mexico (1981) J Volcanol Geotherm Res, 9, pp. 111-131
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068792761&doi=10.1007%2fs00445-019-1303-z&partnerID=40&md5=2e15a77fa873e95ccee9edc52bb5d6a6
+ER  - 
+
+TY  - JOUR
+TI  - The community outreach model of service-learning: A case study of active learning and service-learning in a natural hazards, vulnerability, and risk class
+T2  - Higher Learning Research Communications
+J2  - High. Learn. Res. Commun.
+VL  - 9
+IS  - 2
+PY  - 2019
+DO  - 10.18870/hlrc.v9i2.452
+SN  - 21576254 (ISSN) 
+AU  - Brand, B.D.
+AU  - Brascia, K.
+AU  - Sass, M.
+AD  - Boise State University, Boise, ID, United States
+AD  - College of Southern Idaho, Twin Falls, ID, United States
+AB  - The popularity of service learning is increasing, especially at a time when college students want to make a greater impact in their communities. However, service learning has not been extensively assessed in courses based in science, technology, engineering, and mathematics. This article provides a case study of how incorporating service learning through a community outreach project can increase student engagement, enhance the depth of understanding of a given topic, build communication and teamwork skills, and contribute meaningfully to the students’ community. This article shares how the instructor of a natural hazards, vulnerability, and risk course implements service-learning through a community outreach project and provides evidence for how such outreach can enhance student learning and address the common problem of student apathy and disengagement. Through this case study, the authors design, implement, and test a new model for community outreach-based service learning and discuss the transferability of this model to other science, technology, engineering, and mathematics and social science courses. © 2019, Laureate Education. All rights reserved.
+KW  - Active learning
+KW  - Community outreach
+KW  - Reflection
+KW  - Service-learning
+PB  - Laureate Education
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Brand, B.D.; Boise State UniversityUnited States; email: brittanybrand@boisestate.edu
+N1  - References: (2010) Ada County Hazard Vulnerability Analysis 2010, , https://adacounty.id.gov/wp-content/uploads/sites/39/Ada_County_HVA_secure.pdf, March; 
+Bonwell, C.C., Eison, J.A., (1991) Active Learning: Creating Excitement in the Classroom (ASHE-ERIC Higher Education Report No. 1), , Washington, DC: George Washington University; 
+Brand, B., McMullin-Messier, P., Schlegel, M., (2014) Map Your Hazards! Assessing Hazards, Vulnerability and Risk, , http://serc.carleton.edu/integrate/teaching_materials/map_hazards/index.html, D. Gosselin; 
+Brand, B.D., Schlegel, M., McMullin-Messier, P., Map Your Hazards! Assessing hazards, vulnerability, and risk through an active learning-based educational module (2019) Interdisciplinary Teaching about Earth and the Environment for a Sustainable Future (AESS Interdisciplinary Environmental Studies and Sciences Series, pp. 213-231. , D. Gosselin, A. E. Egger, & J. Taber, Berlin, Germany: Springer International; 
+Casile, M., Hoover, K.F., O’Neil, D.A., Both-and, not either-or: Knowledge and service-learning (2011) Education and Training, 53, pp. 129-139; 
+Hatcher, J.A., Bringle, R.G., Muthiah, R., Designing effective reflection: What matters to service-learning? (2004) Michigan Journal of Community Service-Learning, 11, pp. 38-46; 
+Jacoby, B., (2003) Building Partnerships for Service-Learning, , San Francisco, CA: Jossey-Bass; 
+Knapp, T., Fisher, B., Levesque-Bristol, C., Service-learning's impact on college students' commitment to future civic engagement, self-efficacy, and social empowerment (2010) Journal of Community Practice, 18, pp. 233-251; 
+Kuh, G.D., (2008) High-Impact Educational Practices: What they Are, Who has Access to Them, and Why they Matter, , Washington, DC: Association of American Colleges and Universities; 
+Levesque-Bristol, C., Knapp, T.D., Fisher, B.J., The effectiveness of service-learning: It's not always what you think (2011) Journal of Experiential Education, 33, pp. 208-224; 
+Lindell, M.K., Perry, R.W., The protective action decision model: Theoretical modifications and additional evidence (2012) Risk Analysis, 32, pp. 616-632; 
+Markus, G.B., Howard, J.P., King, D.C., Integrating community service and classroom instruction enhances learning: Results from an experiment (1993) Educational Evaluation and Policy Analysis, 15, pp. 410-419; 
+Molee, L.M., Henry, M.E., Sessa, V.I., McKinney-Prupis, E.R., Assessing learning in service- learning courses through critical reflection (2011) Journal of Experiential Education, 33, pp. 239-257; 
+Pappas, C., (2015) Active Learning in Online Training: What Elearning Professionals Should Know, , https://elearningindustry.com/active-learning-in-online-training-what-elearning-professionals-should-know; 
+Prince, M., Does active learning work? A review of the research (2004) Journal of Engineering Education, 93, pp. 223-231; 
+Soska, T.M., Sullivan-Cosetti, M., Pasupuleti, S., Service-learning: Community engagement and partnership for integrating teaching, research, and service (2010) Journal of Community Practice, 18, pp. 139-147; 
+Vogelgesang, L.J., Astin, A.W., Comparing the effects of community service and service-learning (2000) Michigan Journal of Community Service-Learning, 7, pp. 25-34; 
+Warren, J.L., Does service-learning increase student learning? A meta-analysis (2012) Michigan Journal of Community Service-Learning, 18, pp. 56-61; 
+Wood, N., (2011) Understanding Risk and Resilience to Natural Hazards (Fact Sheet 2011-3008), , Menlo Park, CA: U.S. Geological Survey; 
+Zlotkowski, E., Linking service-learning and the academy: A new voice at the table? (1996) Change, 28, pp. 169-172
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073293928&doi=10.18870%2fhlrc.v9i2.452&partnerID=40&md5=49d500b3aaa27f9bf9dc7ef5c35c3933
+ER  - 
+
+TY  - JOUR
+TI  - Estimation of porosity and water saturation in dual-porosity pyroclastic deposits from joint analysis of compression, shear, and electromagnetic velocities
+T2  - Geophysics
+J2  - Geophysics
+VL  - 83
+IS  - 3
+SP  - ID1
+EP  - ID11
+PY  - 2018
+DO  - 10.1190/geo2017-0234.1
+SN  - 00168033 (ISSN) 
+AU  - Gase, A.C.
+AU  - Bradford, J.H.
+AU  - Brand, B.D.
+AD  - University of Texas at Austin, Jackson School of Geosciences, Institute for Geophysics, Austin, TX, United States
+AD  - Colorado School of Mines, Department of Geophysics, GoldenCO, United States
+AD  - Boise State University, Department of Geosciences, Boise, ID, United States
+AB  - In situ measurements of porosity and water saturation of pyroclastic deposits have the potential to improve interpretations of geology and hydrology in volcanic regions, and to provide more accurate estimates of dense rock equivalent for volcanic eruptions. However, rock-property models must consider the dual-porosity structure of pyroclastic deposits (i.e., vesicles within pumices and intergranular pores). Vesicularity, intergranular porosity, and water saturation all affect the density, elasticity, and dielectric properties of pyroclastic materials, which control seismic and electromagnetic velocities. The data from active seismic and ground-penetrating radar (GPR) techniques may improve porosity and water saturation estimation if the responses of seismic and electromagnetic velocities to porosity and water saturation variations are complementary in pyroclastic deposits. We developed a dual-porosity petrophysical model to calculate seismic and electromagnetic velocities of pyroclastic deposits with known intergranular porosity, vesicularity, and water saturation, and we tested our ability to estimate porosity and water saturation from field measurements of seismic and electromagnetic velocities in pyroclastic deposits at Mount St. Helens, Washington, USA. Our petrophysical model demonstrates that seismic velocities are more sensitive to intergranular porosity and less sensitive to vesicularity; electromagnetic velocity is primarily controlled by volumetric water content. In a multioffset GPR and active seismic case study, seismic first-arrival traveltime tomography and multichannel analysis of surface waves can resolve high-velocity anomalies caused by porosity reduction. Joint petrophysical inversion of electromagnetic and seismic velocities indicates that although intergranular porosity and water saturation are well-constrained (i.e., standard deviations of approximately 0.05), quantitative estimates of vesicularity remain less certain (i.e., standard deviation of approximately 0.21), due to weak sensitivity. © 2018 Society of Exploration Geophysicists.
+KW  - Ground-penetrating radar
+KW  - Porosity
+KW  - Refraction
+KW  - Surface wave
+KW  - Volcanics
+KW  - Deposits
+KW  - Dielectric materials
+KW  - Dielectric properties
+KW  - Geological surveys
+KW  - Ground penetrating radar systems
+KW  - Refraction
+KW  - Seismic waves
+KW  - Seismology
+KW  - Shear flow
+KW  - Statistics
+KW  - Surface waves
+KW  - Velocity
+KW  - Volcanoes
+KW  - Water waves
+KW  - Electromagnetic velocity
+KW  - Ground Penetrating Radar
+KW  - Ground penetrating radar (GPR)
+KW  - Multi-channel analysis of surface waves
+KW  - Quantitative estimates
+KW  - Travel time tomography
+KW  - Volcanics
+KW  - Volumetric water content
+KW  - Porosity
+KW  - compression
+KW  - electromagnetic method
+KW  - estimation method
+KW  - ground penetrating radar
+KW  - porosity
+KW  - pyroclastic deposit
+KW  - saturation
+KW  - seismic velocity
+KW  - seismic wave
+KW  - shear
+KW  - surface wave
+KW  - Cascade Range
+KW  - Mount Saint Helens
+KW  - United States
+KW  - Washington [United States]
+PB  - Society of Exploration Geophysicists
+N1  - Cited By :1
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+N1  - CODEN: GPYSA
+LA  - English
+N1  - Funding details: National Science Foundation, NSF, NSF-EAR 0948588
+N1  - Funding text 1: A National Science Foundation (grant no. NSF-EAR 0948588) and a Geological Society of America graduate student research grant funded this study. We are grateful to N. Pollock, T. Meehan, and T. Nielson who assisted with data acquisition. Many thanks go to G. Gribler and L. Liberty for their comments and assistance with MASW. We appreciate the reviews from S. Kruse, B. Heincke, and an anonymous reviewer.
+N1  - References: Bachrach, R., Dvorkin, J., Nur, A., Seismic velocities and Poisson's ratio of shallow unconsolidated sands (2000) Geophysics, 65, pp. 559-564; 
+Bais, G., Bruno, P., Di Fiore, V., Rapolla, A., Characterization of shallow volcanoclastic deposits by turning ray seismic tomography: An application to the Naples urban area (2003) Journal of Applied Geophysics, 52, pp. 11-21; 
+Barrash, W., Clemo, T., Hierarchical geostatistics and multifacies systems: Boise Hydrogeophysical Research Site, Boise, Idaho (2002) Water Resources Research, 38, p. 1196; 
+Bass, J.D., Elasticity of minerals, glasses, and melts (1995) Mineral physics and crystallography: A handbook of physical constants, 2, pp. 45-63. , T. J.Ahrens, ed.,: AGU; 
+Biot, M.A., Theory of propagation of elastic waves in a fluid saturated porous solid - Part I: Low frequency range (1956) Journal of the Acoustical Society of America, 28, pp. 168-178; 
+Bosch, M., Mukerji, T., Gonzalez, E.F., Seismic inversion for reservoir properties combining statistical rock physics and geostatistics: A review (2010) Geophysics, 75 (5), pp. A165-A176; 
+Bradford, J.H., Applying reflection tomography in the postmigration domain to multifold ground-penetrating radar data (2006) Geophysics, 71 (1), pp. K1-K8; 
+Bradford, J.H., Measuring water content heterogeneity using multifold GPR with reflection tomography (2008) Vadose Zone Journal, 7, pp. 184-193; 
+Bradford, J.H., Babcock, E.L., Marshall, H.P., Dickins, D.F., Targeted reflection-waveform inversion of experimental ground-penetrating radar data for quantification of oil spills under sea ice (2015) Geophysics, 81 (1), pp. WA59-WA70; 
+Bradford, J.H., Clement, W.P., Barrash, W., Estimating porosity with ground-penetrating radar reflection tomography: A controlled 3-D experiment at the Boise Hydrogeophysical Research Site (2009) Water Resources Research, 45, p. W00D26; 
+Brand, B.D., Mackaman-Lofland, C., Pollock, N.M., Bendana, S., Dawson, B., Wichgers, P., Dynamics of pyroclastic density currents: Conditions that promote substrate erosion and self-channelization - Mount St. Helens, Washington (USA) (2014) Journal of Volcanology and Geothermal Research, 276, pp. 189-214; 
+Fauria, K.E., Manga, M., Zihan, W., Trapped bubbles keep pumice afloat and gas diffusion makes pumice sink (2017) Earth and Planetary Science Letters, 460, pp. 50-59; 
+Gallardo, L.A., Meju, M.A., Characterization of heterogeneous near-surface materials by joint 2D inversion of DC resistivity and seismic data (2003) Geophysical Research Letters, 30, p. 1658; 
+Gase, A.C., Brand, B.D., Bradford, J.H., Evidence of erosional self-channelization of pyroclastic density currents revealed by ground-penetrating radar imaging at Mount St. Helens, Washington (USA) (2017) Geophysical Research Letters, 44, pp. 2220-2228; 
+Gassmann, F., Elastic waves through a packing of spheres (1951) Geophysics, 16, pp. 673-685; 
+Greaves, R.J., Lesmes, D.P., Lee, J.M., Toksoz, M.N., Velocity variations and water content estimated from multi-offset, ground-penetrating radar (1996) Geophysics, 61, pp. 683-695; 
+Gribler, G., Liberty, L.M., Mikesell, T.D., Michaels, P., Isolating retrograde and prograde Rayleigh-wave modes using a polarity mute (2016) Geophysics, 81 (5), pp. V379-V385; 
+Helgerud, M.B., Dvorkin, J., Nur, A., Sakai, A., Collett, T., Elastic-wave velocity in marine sediments with gas hydrates: Effective medium modeling (1999) Geophysical Research Letters, 26, pp. 2021-2024; 
+Hill, R., The elastic behavior of a crystalline aggregate (1952) Proceedings of the Physical Society of London Series A, 65, pp. 349-354; 
+Holbrook, W.S., Riebe, C.S., Elwaseif, M.L., Hayes, J., Basler-Reeder, K.L., Harry, D., Malazian, A., Hopmans, J.W., Geophysical constraints on deep weathering and water storage potential in the Southern Sierra Critical Zone Observatory (2014) Earth Surface Processes and Landforms, 39, pp. 366-380; 
+Huisman, J.A., Hubbard, S.S., Redman, J.D., Annan, A.P., Measuring soil water content with ground penetrating radar (2003) Vadose Zone Journal, 2, pp. 476-491; 
+Klug, C., Cashman, K.V., Vesiculation of May 18, 1980, Mount St. Helens magma (1994) Geology, 22, pp. 468-472; 
+Kuntz, M.A., Rowley, P.D., MacLeod, N.S., Reynolds, R.L., McBroome, L.A., Kaplan, A.M., Lidke, D.J., (1981) Petrography and particle-size distribution of pyroclastic-flow, ash-cloud, and surge deposits, pp. 525-539. , P. O.Lipman and D. R.Mullineaux, ed., The 1980 Eruptions of Mount St. Helens, Washington: U. S. Geological Survey Professional Paper 1250; 
+Manville, V., White, J.D.L., Houghton, B.F., Wilson, C.J.N., The saturation behaviour of pumice and some sedimentological implications (1998) Sedimentary Geology, 119, pp. 5-16; 
+Mavko, G., Mukerji, T., Bounds on low-frequency seismic velocities in partially saturated rocks (1998) Geophysics, 63, pp. 918-924; 
+Mavko, G., Mukerji, T., Dvorkin, J., (2009) The rock physics handbook, , Cambridge University Press; 
+Mindlin, R.D., Compliance of elastic bodies in contact (1949) Journal of Applied Mechanics, 16, pp. 259-268; 
+Nur, A., Mavko, G., Dvorkin, J., Galmudi, D., Critical porosity: A key to relating physical properties to porosity in rocks (1998) The Leading Edge, 17, pp. 357-362; 
+Pasquet, S., Holbrook, W.S., Carr, B.J., Sims, K.W.W., Geophysical imaging of shallow degassing in a Yellowstone hydrothermal system (2016) Geophysical Research Letters, 43, pp. 12027-12035; 
+Rogers, J.J.W., Head, W.B., Relationships between porosity, media size, and sorting coefficients of synthetic sands (1961) Journal of Sedimentary Research, 31, pp. 467-470; 
+Rust, A.C., Russell, J.K., Detection of welding in pyroclastic flows with ground penetrating radar: Insights from field and forward modeling data (2000) Journal of Volcanology and Geothermal Research, 95, pp. 23-34; 
+Rust, A.C., Russell, J.K., Mapping porosity variation in a welded pyroclastic deposit with signal and velocity patterns from ground-penetrating radar surveys (2001) Bulletin of Volcanology, 62, pp. 457-463; 
+Rust, A.C., Russell, J.K., Knight, R.J., Dielectric constant as a predictor of porosity in dry volcanic rocks (1999) Journal of Volcanology and Geothermal Research, 91, pp. 79-96; 
+Santamarina, J.C., Rinaldi, V.A., Fratta, D., Klein, K.A., Wang, Y.H., Cho, G.H., Cascante, G., A survey of elastic and electromagnetic properties of near-surface soils (2005) Near-surface geophysics: SEG, pp. 71-87. , D. K.Butler, ed; 
+Topp, G.C., Davis, J.L., Annan, A.P., Electromagnetic determination of soil water content: Measurements in coaxial transmission lines (1980) Water Resources Research, 16, pp. 574-582; 
+Van Dam, R.L., Schlager, W., Identifying causes of ground-penetrating radar reflections using time-domain reflectometry and sedimentological analyses (2000) Sedimentology, 47, pp. 435-449; 
+Walton, K., The effective elastic moduli of a random pack of spheres (1987) Journal of the Mechanics and Physics of Solids, 35, pp. 213-226; 
+Wharton, R.P., Hazen, G.A., Rau, R.N., Best, D.L., Electromagnetic propagation logging: Advances in technique and interpretation (1980) 55th Annual Fall Technical Conference and Exhibition, , Presented at the , SPE, Paper 9267; 
+Whitham, A.G., Sparks, R.S.J., Pumice (1986) Bulletin of Volcanology, 48, pp. 209-223; 
+Wohletz, K.H., Heiken, G., (1992) Volcanology and geothermal energy, , University of California Press; 
+Zimmer, M.A., Prasad, M., Mavko, G., Nur, A., Seismic velocities of unconsolidated sands: Part 1 - Pressure trends from 0.1 to 20 MPa (2007) Geophysics, 72 (1), pp. E1-E13
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042418008&doi=10.1190%2fgeo2017-0234.1&partnerID=40&md5=161ab29947981f22362e197e179c5444
+ER  - 
+
+TY  - JOUR
+TI  - Diverse Eruptive Activity Revealed by Acoustic and Electromagnetic Observations of the 14 July 2013 Intense Vulcanian Eruption of Tungurahua Volcano, Ecuador
+T2  - Geophysical Research Letters
+J2  - Geophys. Res. Lett.
+VL  - 45
+IS  - 7
+SP  - 2976
+EP  - 2985
+PY  - 2018
+DO  - 10.1002/2017GL076419
+SN  - 00948276 (ISSN) 
+AU  - Anderson, J.F.
+AU  - Johnson, J.B.
+AU  - Steele, A.L.
+AU  - Ruiz, M.C.
+AU  - Brand, B.D.
+AD  - Department of Geosciences, Boise State University, Boise, ID, United States
+AD  - Instituto Geofisico, Escuela Politecnica Nacional, Quito, Ecuador
+AD  - UCL Hazard Centre, Department of Earth Sciences, University College London, London, United Kingdom
+AB  - During the powerful July 2013 eruption of Tungurahua volcano, Ecuador, we recorded exceptionally high amplitude, long-period infrasound (1,600-Pa peak-to-peak amplitude, 5.5-s period) on sensors within 2 km of the vent alongside electromagnetic signals from volcanic lightning serendipitously captured as interference. This explosion was one of Tungurahua's most powerful vulcanian eruptions since recent activity began in 1999, and its acoustic wave is among the most powerful volcanic infrasound ever recorded anywhere. We use these data to quantify erupted volume from the main explosion and to classify postexplosive degassing into distinct emission styles. Additionally, we demonstrate a highly effective method of recording lightning-related electromagnetic signals alongside infrasound. Detailed chronologies of powerful vulcanian eruptions are rare; this study demonstrates that diverse eruptive processes can occur in such eruptions and that near-vent infrasound and electromagnetic data can elucidate them. ©2018. American Geophysical Union. All Rights Reserved.
+KW  - Tungurahua
+KW  - volcanic lightning
+KW  - volcano infrasound
+KW  - vulcanian eruption
+KW  - Lightning
+KW  - Electromagnetic data
+KW  - Electromagnetic observations
+KW  - Electromagnetic signals
+KW  - Infrasound
+KW  - Peak to peak amplitudes
+KW  - Tungurahua
+KW  - Volcanic lightning
+KW  - Vulcanian eruption
+KW  - Volcanoes
+KW  - acoustic data
+KW  - acoustic wave
+KW  - chronology
+KW  - electromagnetic field
+KW  - lightning
+KW  - volcanic eruption
+KW  - Ecuador
+KW  - Tungurahua
+KW  - Tungurahua Volcano
+PB  - Blackwell Publishing Ltd
+N1  - Cited By :11
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+N1  - CODEN: GPRLA
+LA  - English
+N1  - Correspondence Address: Anderson, J.F.; Department of Geosciences, Boise State UniversityUnited States; email: ajakef@gmail.com
+N1  - Funding details: National Science Foundation, NSF, EAR-0838562
+N1  - Funding text 1: We thank J. Anzieta, J. Cordoba, D. Litchfield, and H. Ortiz for field assistance, J. Lees for providing instruments, and Instituto Geofisico-Escuela Politecnica Nacional for logistical support. NSF grant EAR-0838562 funded this work. Infrasound data are archived at IRIS DMC (https://doi.org/10.7914/SN/ 8A_2013). WWLLN data are available from http://wwlln.net. We thank R. Matoza and D. Fee for helpful reviews.
+N1  - References: Alidibirov, M.A., A model for viscous magma fragmentation during volcanic blasts (1994) Bulletin of Volcanology, 56 (6-7), pp. 459-465. , https://doi.org/10.1007/BF00302827; 
+Anderson, J.F., Johnson, J.B., Arechiga, R.O., Thomas, R.J., Mapping thunder sources by inverting acoustic and electromagnetic observations (2014) Journal of Geophysical Research: Atmospheres, 119, pp. 287-304. , https://doi.org/10.1002/2014JD021624; 
+Arellano, S.R., Hall, M., Samaniego, P., Le Pennec, J.-L., Ruiz, A., Molina, I., Yepes, H., Degassing patterns of Tungurahua volcano (Ecuador) during the 1999–2006 eruptive period, inferred from remote spectroscopic measurements of SO2 emissions (2008) Journal of Volcanology and Geothermal Research, 176 (1), pp. 151-162. , https://doi.org/10.1016/j.jvolgeores.2008.07.007; 
+Behnke, S.A., McNutt, S.R., Using lightning observations as a volcanic eruption monitoring tool (2014) Bulletin of Volcanology, 76 (8), pp. 1-12; 
+Behnke, S.A., Thomas, R.J., McNutt, S.R., Schneider, D.J., Krehbiel, P.R., Rison, W., Edens, H.E., Observations of volcanic lightning during the 2009 eruption of Redoubt Volcano (2013) Journal of Volcanology and Geothermal Research, 259, pp. 214-234. , https://doi.org/10.1016/j.jvolgeores.2011.12.010; 
+Cimarelli, C., Alatorre-Ibargüengoitia, M.A., Kueppers, U., Scheu, B., Dingwell, D.B., Experimental generation of volcanic lightning (2014) Geology, 42 (1), pp. 79-82. , https://doi.org/10.1130/G34802.1; 
+Fee, D., Garces, M., Infrasonic tremor in the diffraction zone (2007) Geophysical Research Letters, 34. , https://doi.org/10.1029/2007GL030616; 
+Fee, D., Garces, M., Steffke, A., Infrasound from Tungurahua Volcano 2006-2008: Strombolian to Plinian eruptive activity (2010) Journal of Volcanology and Geothermal Research, 193 (1-2), pp. 67-81. , https://doi.org/10.1016/j.jvolgeores.2010.03.006; 
+Fee, D., Izbekov, P., Kim, K., Yokoo, A., Lopez, T., Prata, F., Eruption mass estimation using infrasound waveform inversion and ash and gas measurements: Evaluation at Sakurajima Volcano, Japan (2017) Earth and Planetary Science Letters, 480, pp. 42-52. , https://doi.org/10.1016/j.epsl.2017.09.043; 
+Fee, D., Matoza, R.S., An overview of volcano infrasound: From Hawaiian to Plinian, local to global (2013) Journal of Volcanology and Geothermal Research, 249, pp. 123-139. , https://doi.org/10.1016/j.jvolgeores.2012.09.002; 
+Fee, D., Matoza, R.S., Gee, K.L., Neilsen, T.B., Ogden, D.E., Infrasonic crackle and supersonic jet noise from the eruption of Nabro Volcano, Eritrea (2013) Geophysical Research Letters, 40, pp. 4199-4203. , https://doi.org/10.1002/grl.50827; 
+Fee, D., Yokoo, A., Johnson, J.B., Introduction to an open community infrasound dataset from the actively erupting Sakurajima Volcano, Japan (2014) Seismological Research Letters, 85 (6), pp. 1151-1162. , https://doi.org/10.1785/0220140051; 
+Gerst, A., Hort, M., Aster, R.C., Johnson, J.B., Kyle, P.R., The first second of volcanic eruptions from the Erebus volcano lava lake, Antarctica—Energies, pressures, seismology, and infrasound (2013) Journal of Geophysical Research: Solid Earth, 118, pp. 3318-3340. , https://doi.org/10.1002/jgrb.50234; 
+Goto, A., Ripepe, M., Lacanna, G., Wideband acoustic records of explosive volcanic eruptions at Stromboli: New insights on the explosive process and the acoustic source (2014) Geophysical Research Letters, 41, pp. 3851-3857. , https://doi.org/10.1002/2014GL060143; 
+Green, D.N., Matoza, R.S., Vergoz, J., Le Pichon, A., Infrasonic propagation from the 2010 Eyjafjallajökull eruption: Investigating the influence of stratospheric solar tides (2012) Journal of Geophysical Research, 117. , https://doi.org/10.1029/2012JD017988; 
+Hall, M.L., Steele, A.L., Bernard, B., Mothes, P.A., Vallejo, S.X., Douillet, G.A., Sequential plug formation, disintegration by vulcanian explosions, and the generation of granular pyroclastic density currents at Tungurahua volcano (2013–2014), Ecuador (2015) Journal of Volcanology and Geothermal Research, 306, pp. 90-103. , https://doi.org/10.1016/j.jvolgeores.2015.09.009; 
+Iguchi, M., Yakiwara, H., Tameguri, T., Hendrasato, H., Hirabayashi, J., Mechanism of explosive eruption revealed by geophysical observations at the Sakurajima, Suwanosejima, and Semeru volcanoes (2008) Journal of Volcanology and Geothermal Research, 178 (1), pp. 1-9. , https://doi.org/10.1016/j.jvolgeores.2007.10.010; 
+(2013) Informe especial del Volcan Tungurahua No. 15, , http://www.igepn.edu.ec/tungurahua/informes-tungurahua/tung-especiales/tung-e-2013/8920-informe-especial-no-15-16julio/file, Retrieved from; 
+Johnson, J.B., Generation and propagation of infrasonic airwaves from volcanic explosions (2003) Journal of Volcanology and Geothermal Research, 121 (1-2), pp. 1-14. , https://doi.org/10.1016/S0377-0273(02)00408-0; 
+Johnson, J.B., Lees, J.M., Sound produced by the rapidly inflating Santiaguito lava dome, Guatemala (2010) Geophysical Research Letters, 37. , https://doi.org/10.1029/2010GL045217; 
+Johnson, J.B., Miller, A.J.C., Application of the monopole source to quantify explosive flux during vulcanian explosions at Sakurajima volcano (Japan) (2014) Seismological Research Letters, 35, pp. 1163-1176; 
+Johnson, J.B., Palma, J.L., Lahar infrasound associated with Volcan Villarrica's 3 March 2015 eruption (2015) Geophysical Research Letters, 42, pp. 6324-6331. , https://doi.org/10.1002/2015GL065024; 
+Kalnay, E., Kanamitsu, M., Baker, W.E., Global numerical weather prediction at the National Meteorological Center (1990) American Meteorological Society, 71 (10), pp. 1410-1428. , https://doi.org/10.1175/1520-0477(1990)071%3C1410:GNWPAT%3E2.0.CO;2; 
+Kim, K., Fee, D., Yokoo, A., Lees, J.M., Acoustic source inversion to estimate volume flux from volcanic explosions (2015) Geophysical Research Letters, 42, pp. 5243-5249. , https://doi.org/10.1002/2015GL064466; 
+Kim, K., Lees, J.M., Ruiz, M., Acoustic multipole source model for volcanic explosions and inversion for source parameters (2012) Geophysical Journal International, 191 (3), pp. 1192-1204. , https://doi.org/10.1111/j.1365-246X.2012.05696.x; 
+Lees, J.M., Gordeev, E.I., Ripepe, M., Explosions and periodic tremor at Karymsky volcano, Kamchatka, Russia (2004) Geophysical Journal International, 158 (3), pp. 1151-1167. , https://doi.org/10.1111/j.1365-246X.2004.02239.x; 
+Lees, J.M., Johnson, J.B., Ruiz, M., Troncoso, L., Welsh, M., Reventador volcano 2005: Eruptive activity inferred from seismo-acoustic observation (2008) Journal of Volcanology and Geothermal Research, 176 (1), pp. 179-190. , https://doi.org/10.1016/j.jvolgeores.2007.10.006; 
+Lees, J.M., Ruiz, M., Non-linear explosion tremor at Sangay volcano, Ecuador (2008) Journal of Volcanology and Geothermal Research, 176 (1), pp. 170-178. , https://doi.org/10.1016/j.jvolgeores.2007.08.012; 
+Lighthill, M.J., (1978) Waves in fluids, , New York, Cambridge University Press; 
+Marcillo, O., Johnson, J.B., Hart, D., Implementation, characterization, and evaluation of an inexpensive low-power low-noise infrasound sensor based on a micromachined differential pressure transducer and a mechanical filter (2012) Journal of Atmospheric and Oceanic Technology, 29 (9), pp. 1275-1284. , https://doi.org/10.1175/JTECH-D-11-00101.1; 
+Matoza, R.S., Fee, D., Garces, M.A., Seiner, J.M., Ramon, P.A., Hedlin, M.A.H., Infrasonic jet noise from volcanic eruptions (2009) Geophysical Research Letters, 36. , https://doi.org/10.1029/2008GL036486; 
+Morrissey, M.M., Chouet, B.A., Burst conditions of explosive volcanic eruptions recorded on microbarographs (1997) Science, 275 (5304), pp. 1290-1293. , https://doi.org/10.1126/science.275.5304.1290; 
+Narvaez, D., (2014) Caracterizacion de los dinamismos eruptivos de los periodos de actividad de marzo y julio del volcan Tungurahua, con base en el estudio morfo-granulometrico, geoquimico y modal de los productos de caida, , (Master's thesis). Escuela Politecnica Nacional, Quito, Ecuador; 
+ASTER global digital elevation model [data set] (2009) NASA EOSDIS Land Processes DAAC, , https://doi.org/10.5067/ASTER/ASTGTM.002; 
+Ripepe, M., De Angelis, S., Lacanna, G., Voight, B., Observation of infrasonic and gravity waves at Soufriere Hills Volcano, Montserrat (2010) Geophysical Research Letters, 37. , https://doi.org/10.1029/2010GL042557; 
+Ripepe, M., Marchetti, E., Ulivieri, G., Infrasonic monitoring at stromboli volcano during the 2003 effusive eruption: Insights on the explosive and degassing process of an open conduit system (2007) Journal of Geophysical Research, 112. , https://doi.org/10.1029/2006JB004613; 
+Ruiz, M.C., Lees, J.M., Johnson, J.B., Source constraints of Tungurahua volcano explosion events (2006) Bulletin of Volcanology, 68 (5), pp. 480-490. , https://doi.org/10.1007/s00445-005-0023-8; 
+Steffke, A.M., Fee, D., Garces, M., Harris, A., Eruption chronologies, plume heights and eruption styles at Tungurahua Volcano: Integrating remote sensing techniques and infrasound (2010) Journal of Volcanology and Geothermal Research, 193 (3-4), pp. 143-160. , https://doi.org/10.1016/j.jvolgeores.2010.03.004; 
+Thomas, R.J., Krehbiel, P.R., Rison, W., Edens, H.E., Aulich, G.D., Winn, W.P., Electrical activity during the 2006 Mount St. Augustine volcanic eruptions (2007) Science, 315 (5815), p. 1097; 
+Ulivieri, G., Ripepe, M., Marchetti, E., Infrasound reveals transition to oscillatory discharge regime during lava fountaining: Implication for early warning (2013) Geophysical Research Letters, 40, pp. 3008-3013. , https://doi.org/10.1002/grl.50592; 
+Yamasato, H., Quantitative analysis of pyroclastic flows using infrasonic and seismic data at Unzen volcano, Japan (1997) Journal of Physics of the Earth, 45, pp. 397-416; 
+Yokoo, A., Iguchi, M., Using infrasound waves from eruption video to explain ground deformation preceding the eruption of Suwanosejima volcano, Japan (2010) Journal of Volcanology and Geothermal Research, 196 (3-4), pp. 287-294. , https://doi.org/10.1016/j.jvolgeores.2010.08.008; 
+Yokoo, A., Tameguri, T., Iguchi, M., Swelling of a lava plug associated with a vulcanian eruption at Sakurajima Volcano, Japan, as revealed by infrasound record: Case study of the eruption on January 2, 2007 (2009) Bulletin of Volcanology, 71 (6), pp. 619-630. , https://doi.org/10.1007/s00445-008-0247-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044867582&doi=10.1002%2f2017GL076419&partnerID=40&md5=070d7aff9100856275010722183f386c
+ER  - 
+
+TY  - JOUR
+TI  - Household preparedness motivation in lahar hazard zones: assessing the adoption of preparedness behaviors among laypeople and response professionals in communities downstream from Mount Baker and Glacier Peak (USA) volcanoes
+T2  - Journal of Applied Volcanology
+J2  - J. Appl. Volcanol.
+VL  - 6
+IS  - 1
+PY  - 2017
+DO  - 10.1186/s13617-017-0055-8
+SN  - 21915040 (ISSN) 
+AU  - Corwin, K.A.
+AU  - Brand, B.D.
+AU  - Hubbard, M.L.
+AU  - Johnston, D.M.
+AD  - Department of Geosciences, Boise State University, Boise, ID, United States
+AD  - Department of Public Policy and Administration, Boise State University, Boise, ID, United States
+AD  - GNS Science/Massey University, Palmerston North, New Zealand
+AB  - As the number of people living at risk from volcanic hazards in the U.S. Pacific Northwest grows, more detailed studies of household preparedness in at-risk communities are needed to develop effective mitigation, response, and recovery plans. This study examines two aspects of preparedness behavior motivation in the Skagit Valley (WA), which is at risk from Mount Baker and Glacier Peak lahars. First, we examine the influence of perceived response-efficacy, protective response costs, self-efficacy, and ascription of responsibility on preparedness. Results indicate few respondents believe high perceived protective response costs, low perceived response-efficacy, or low perceived protection responsibility prevent them from adopting frequently recommended preparedness behaviors. Correlations with preparedness suggest perceived self-efficacy and ascription of responsibility play a more dominant role in determining preparedness behaviors, albeit a less readily recognized role. Second, we investigate how participation in hazard management at a professional level (e.g., working as a first responder or leader within the local city government, hospitals, school districts, Red Cross, or utilities, transportation, or water companies) influences knowledge, risk perception, and household preparedness. Results show that professional participation minimally influences household preparedness, but successfully improves perceived self-efficacy, confidence in officials, and information seeking behavior. Given these results, we argue (1) for inclusion of ascription of responsibility variables in studies of preparedness behavior motivation and (2) that specific types of participation in response-related activities (e.g., public, professional, specific training programs) may affect household preparedness differently, whereas self-efficacy and confidence in officials may improve regardless of participation type because of increased interaction with emergency officials. © 2017, The Author(s).
+KW  - Behavior motivation
+KW  - Disaster Risk Management
+KW  - Expert and lay
+KW  - Participation
+KW  - Preparedness
+KW  - Protection Motivation Theory
+KW  - Protective Action Decision Model
+KW  - Risk perception
+KW  - Values-Beliefs-Norms Theory
+KW  - Volcanic lahar hazards
+KW  - action plan
+KW  - decision analysis
+KW  - hazard assessment
+KW  - hazard management
+KW  - household survey
+KW  - local government
+KW  - local participation
+KW  - perception
+KW  - risk assessment
+KW  - volcanic eruption
+KW  - volcano
+KW  - Cascade Range
+KW  - Glacier Peak
+KW  - Mount Baker
+KW  - Pacific Northwest
+KW  - Skagit Valley
+KW  - United States
+KW  - United States
+KW  - Washington [United States]
+PB  - SpringerOpen
+N1  - Cited By :1
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+C7  - 3
+LA  - English
+N1  - Correspondence Address: Corwin, K.A.; Department of Geosciences, Boise State UniversityUnited States; email: kimberleycorwin@u.boisestate.edu
+N1  - Funding details: Boise State University
+N1  - Funding text 1: This research was funded through the Boise State University Department of Geosciences Burnham Grant. The funding body played no role in the design of the study; collection, analysis, and interpretation of data; or in writing the manuscript. The purpose of this grant is solely to promote graduate student research in the geosciences.
+N1  - References: Ajzen, I., The theory of planned behavior (1991) Organ Behav Hum, 50, pp. 179-211; 
+Arlikatti, S., Lindell, M.K., Prater, C.S., Perceived stakeholder role relationships and adoption of seismic hazard adjustments (2007) Inte J Mass Emerg Dis, 25, pp. 218-256; 
+Armitage, C.J., Conner, M., Efficacy of the Theory of Planned Behaviour: A meta-analytic review (2001) Brit J Soc Psychol, 40, pp. 471-499; 
+Bandura, A., (1997) Self-efficacy: The exercise of control, , W.H. Freeman and Company, New York; 
+Barberi, F., Davis, M.S., Isaia, R., Nave, R., Ricci, T., Volcanic risk perception in the Vesuvius population (2008) J Volcanol Geoth Res, 172 (3-4), pp. 244-258; 
+Beget, J.E., (1982) Postglacial volcanic deposits at Glacier Peak, Washington, and potential hazards from future eruptions. U.S. Geological Survey Open-File Report, pp. 82-830; 
+Beget, J.E., Glacier Peak, Washington: A potentially hazardous cascade volcano (1983) Environ Geol, 5 (2), pp. 83-92; 
+Bird, D.K., Gisladottir, G., Dominey-Howes, D., Volcanic risk and tourism in southern Iceland: Implications for hazard, risk and emergency response education and training (2010) J Volcanol Geoth Res, 189 (1-2), pp. 33-48; 
+Blessman, J., Skupski, J., Jamil, M., Jamil, H., Bassett, D., Wabeke, R., Arnetz, B., Barriers to at-home-preparedness in public health employees: Implications for disaster preparedness training (2007) J Occup Environ Med, 49 (3), pp. 318-326; 
+Core Team, R., (2016) R: A language and environment for statistical computing, , http://www.R-project.org/, R Foundation for Statistical Computing, Vienna; 
+Corwin, K.A., (2016) Living in lahar zones: Assessing hazard exposure, risk perception, and preparedness behaviors in communities within the Mount Baker and Glacier Peak volcanic hazard zones. Master’s Thesis, Boise State University; 
+Davis, M., Johnston, D., Becker, J., Leonard, G., Coomer, M., Gregg, C., (2006) Risk perceptions and preparedness: Mt Rainier 2006 community assessment tabulated results. GNS Science Report; 
+Diefenbach, A.K., Wood, N.J., Ewert, J.W., Variations in community exposure to lahar hazards from multiple volcanoes in Washington State (USA) (2015) J Appl Volcanol, 4, p. 4; 
+Dragovich, J.D., McKay, D.T.J., Holocene Glacier Peak lahar deposits in the lower Skagit River Valley, Washington (2000) Wash Geol, 28 (1-2), pp. 19-21; 
+(2016) Community Emergency Response Teams, , http://www.fema.gov/community-emergency-response-teams; 
+https://www.ready.gov/sites/default/files/documents/files/RRToolkit.pdf, Federal Emergency Management Agency Ready Responder: Emergency planning for first responders and their families; Floyd, D.L., Prentice-Dunn, S., Rogers, R.W., A Meta-analysis of research on protection motivation theory (2000) J Appl Soc Psychol, 30 (2), pp. 407-429; 
+Gardner, C.A., Scott, K.M., Miller, C.D., Myers, B., Hildreth, W., Pringle, P.T., (1995) Potential Volcanic Hazards from Future Activity of Mount Baker, pp. 95-498. , Geological Survey Open File Report, Washington; 
+Godin, G., Kok, G., The theory of planned behavior: A review of its applications to health- related behaviors (1996) Am J Health Promot, 11 (2), pp. 87-98; 
+Grothmann, T., Reusswig, F., People at Risk of Flooding: Why Some Residents Take Precautionary Action While Others Do Not (2006) Nat Hazards, 38 (1-2), pp. 101-120; 
+Houts, P.S., Lindell, M.K., Hu, T.W., Cleary, P.D., Tokuhata, G., Flynn, C.B., The protective action decision model applied to evacuation during the Three Mile Island crisis (1984) Inter J Mass Emerg Dis, 2, pp. 27-39; 
+Hyde, J.H., Crandell, D.R., (1978) Postglacial volcanic deposits at Mount Baker, Washington, and potential hazards from future eruptions. Geological Survey Professional Paper, p. 1022; 
+Johnson, V.A., Ronan, K.R., Johnston, D.M., Peace, R., Improving the Impact and Implementation of Disaster Education: Programs for Children Through Theory-Based Evaluation (2016) Risk Anal, 36, pp. 2120-2135; 
+Johnston, D., Ronan, K., Becker, J., Gregg, C., Davis, M., (2005) Children’s risk perceptions and preparedness: Mt Rainier 2005 hazard education assessment tabulated results. GNS Science Report, 2005/029; 
+Johnston, D.M., Orchiston, C., Becker, J.S., (2012) Eastern Washington resident perceptions of natural hazard risks. GNS Science Report; 
+Kovanen, D.J., Easterbrook, D.J., Thomas, P.A., Holocene eruptive history of Mount Baker, Washington (2001) Can J Earth Sci, 38, pp. 1355-1366; 
+Lindell, M.K., Perry, R.W., (1992) Behavioral foundations of community emergency planning, , Hemisphere Press, Washington, DC; 
+Lindell, M.K., Perry, R.W., Household adjustment to earthquake hazard: A review of research (2000) Environ Behav, 32, pp. 461-501; 
+Lindell, M.K., Perry, R.W., The protective action decision model: Theoretical modifications and additional evidence (2012) Risk Anal, 32 (4), pp. 616-632; 
+Lindell, M.K., Prater, C.S., Risk area residents’ perceptions and adoption of seismic hazard adjustments (2002) J Appl Soc Psychol, 32 (11), pp. 2377-2392; 
+Lindell, M.K., Whitney, D.J., Correlates of household seismic hazard adjustment adoption (2000) Risk Anal, 20, pp. 13-25; 
+Maddux, J.E., Rogers, R.W., Protection motivation and self-efficacy: A revised theory of fear appeals and attitude change (1983) J Exp Soc Psychol, 19, pp. 469-479; 
+Parker, C.L., Barnett, D.J., Fews, A.L., Blodgett, D., Links, J.M., The Road Map to Preparedness: A competency-based approach to all-hazards emergency readiness training for the public health workforce (2005) Public Health Rep, 120 (5), pp. 504-514; 
+Paton, D., Disaster preparedness: a social-cognitive perspective (2003) Disaster Prev Manag, 12 (3), pp. 210-216; 
+Paton, D., Smith, L., Johnston, D., When good intentions turn bad: promoting natural hazard preparedness (2005) Aust J Emerg Manag, 20 (1), pp. 25-30; 
+Paton, D., Smith, L., Daly, M., Johnston, D., Risk perception and volcanic hazard mitigation: Individual and social perspectives (2008) J Volcanol Geoth Res, 172 (3-4), pp. 179-188; 
+Pierson, T.C., Scott, K.M., Downstream dilution of a lahar: Transition from debris flow to hyperconcentrated streamflow (1985) Water Resour Res, 21 (10), pp. 1511-1524; 
+Rebmann, T., Strawn, A.M., Swick, Z., Reddick, D., Personal disaster and pandemic preparedness of U.S. human resource professionals (2013) J Biosafety Health Edu, 1 (1), pp. 1-7; 
+Rodolfo, K.S., Sigurdssson, H., Houghton, B., McNutt, S., Rymer, H., Stix, J., The hazard from lahars and jökulhlaups (2000) Encyclopedia of volcanoes, pp. 973-995. , San Diego: Academic Press; 
+Rogers, R.W., Cognitive and physiological processes in fear appeals and attitude change: A revised theory of protection motivation (1983) Social psychophysiology: A sourcebook, pp. 153-176. , Cacioppo BL, Petty LL, (eds), Guilford, London; 
+Rogers, R.W., Prentice-Dunn, S., Protection motivation theory (1997) Handbook of health behavior research I: Personal and social determinants, pp. 113-132. , Gochman DS, (ed), Plenum, New York; 
+Ronan, K.R., Haynes, K., Towers, B., Alisic, E., Ireland, N., Amri, A., Davie, S., Petal, M., Child-centred disaster risk reduction: Can disaster resilience programs reduce risk and increase the resilience of children and households? (2016) Aust J Emerg Manag, 31 (3), pp. 49-58; 
+Siegrist, M., Cvetkovich, G., Perception of Hazards: The Role of Social Trust and Knowledge (2000) Risk Anal, 20 (5), pp. 713-720; 
+Sims, J.H., Baumann, D.D., Educational programs and human response to natural hazards (1983) Environ Behav, 15 (2), pp. 165-189; 
+http://www.skagitcounty.net/Departments/GIS/Digital/main.htm, Skagit County Digital Data Warehouse (2014). Accessed 1 May 2014; Slepski, L.A., Emergency preparedness and professional competency among health care providers during Hurricanes Katrina and Rita: Pilot study results (2007) Disaster Manag Response, 5 (4), pp. 99-110; 
+Slimak, M.W., Dietz, T., Personal Values, Beliefs, and Ecological Risk Perception (2006) Risk Anal, 26 (6), pp. 1689-1705; 
+Stern, P.C., Toward a coherent theory of environmentally significant behavior (2000) J Soc Issues, 56 (3), pp. 407-424; 
+Stern, P.C., Dietz, T., Abel, T., Guagnano, G.A., Kalof, L., A value-belief-norm theory of support for social movements: The case of environmentalism (1999) Hum Ecol Rev, 6 (2), pp. 81-97; 
+Terpstra, T., Lindell, M.K., Citizens’ perceptions of flood hazard adjustments: An application of the Protective Action Decision Model (2012) Environ Behav, 45 (8), pp. 993-1018; 
+Census Bureau (2015) 2010–2014 American Community Survey 5-Year Estimates, , http://www.census.gov/programs-surveys/acs/; 
+Geological Survey (2014) Cascade volcanoes simplified hazard maps, , https://volcanoes.usgs.gov/vsc/multimedia/cvo_hazards_maps_gallery.html; 
+Vallance, J.W., Lahars. In Sigurdssson H, Houghton B, McNutt S, Rymer H, Stix (2000) J (eds), Encyclopedia of volcanoes. San Diego: Academic Press, pp. 601-616; 
+(2016) Hazards: Lahars, , http://volcanoes.usgs.gov/vhp/lahars.html; 
+Wachinger, G., Renn, O., Begg, C., Kuhlicke, C., The risk perception paradox-implications for governance and communication of natural hazards (2013) Risk Anal, 33 (6), pp. 1049-1065; 
+Waitt, R.B., Mastin, L.G., Beget, J.E., (1995) Volcanic-Hazard Zonation for Glacier Peak Volcano, Washington. U.S. Geological Survey Open File Report, pp. 95-499; 
+(2008) Emergency resource guide: Information to help you plan and prepare, , http://www.skagitcounty.net/EmergencyManagement/Documents/2008Emergency_Resource_Guide.pdf, DOH Pub #821-001. Accessed 2 Jan 2016
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011376174&doi=10.1186%2fs13617-017-0055-8&partnerID=40&md5=93d4ab2a5bf03484c18478d383f540a3
+ER  - 
+
+TY  - JOUR
+TI  - Evidence of erosional self-channelization of pyroclastic density currents revealed by ground-penetrating radar imaging at Mount St. Helens, Washington (USA)
+T2  - Geophysical Research Letters
+J2  - Geophys. Res. Lett.
+VL  - 44
+IS  - 5
+SP  - 2220
+EP  - 2228
+PY  - 2017
+DO  - 10.1002/2016GL072178
+SN  - 00948276 (ISSN) 
+AU  - Gase, A.C.
+AU  - Brand, B.D.
+AU  - Bradford, J.H.
+AD  - Department of Geosciences, Boise State University, Boise, ID, United States
+AB  - The causes and effects of erosion are among the least understood aspects of pyroclastic density current (PDC) dynamics. Evidence is especially limited for erosional self-channelization, a process whereby PDCs erode a channel that confines the body of the eroding flow or subsequent flows. We use ground-penetrating radar imaging to trace a large PDC scour and fill from outcrop to its point of inception and discover a second, larger PDC scour and fill. The scours are among the largest PDC erosional features on record, at &gt;200 m wide and at least 500 m long; estimated eroded volumes are on the order of 106 m3. The scours are morphologically similar to incipient channels carved by turbidity currents. Erosion may be promoted by a moderate slope (5–15°), substrate pore pressure retention, and pulses of increased flow energy. These findings are the first direct evidence of erosional self-channelization by PDCs, a phenomenon that may increase flow velocity and runout distance through confinement and substrate erosion. ©2017. American Geophysical Union. All Rights Reserved.
+KW  - channel
+KW  - erosion
+KW  - ground-penetrating radar
+KW  - Mount St. Helens
+KW  - pyroclastic density current
+KW  - self-channelization
+KW  - Erosion
+KW  - Flow velocity
+KW  - Geological surveys
+KW  - Ground penetrating radar systems
+KW  - Ocean currents
+KW  - Radar
+KW  - Sediment transport
+KW  - Channel
+KW  - Ground Penetrating Radar
+KW  - Mount St. Helens
+KW  - Pyroclastic density currents
+KW  - Self-channelization
+KW  - Radar imaging
+KW  - coastal erosion
+KW  - density current
+KW  - flow velocity
+KW  - ground penetrating radar
+KW  - outcrop
+KW  - pore pressure
+KW  - pyroclastic flow
+KW  - turbidity current
+KW  - United States
+KW  - Washington [United States]
+PB  - Blackwell Publishing Ltd
+N1  - Cited By :3
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+N1  - CODEN: GPRLA
+LA  - English
+N1  - Correspondence Address: Gase, A.C.; Department of Geosciences, Boise State UniversityUnited States; email: andrewgase@u.boisestate.edu
+N1  - Funding details: National Science Foundation, NSF, NSF-EAR 0948588
+N1  - Funding text 1: We thank Nicholas Pollock, Tate Meehan, Travis Nielson, Darin Schwartz, and Alexander Miller for their generous assistance with data acquisition. This study was improved through peer review by Sarah Kruse and Olivier Roche, as well as informal review by Nicholas Pollock and Lee Liberty. The Boise State Center for Geophysical Investigation of the Shallow Subsurface (CGISS) provided all geophysical equipment. This work was partially supported by a National Science Foundation grant (NSF-EAR 0948588) and a Geological Society of America graduate student research grant. Radargrams without interpretations are available in the supporting information. Raw and processed data are archived at http://cgiss.boisestate.edu/data-downloads/.
+N1  - References: Bernard, J., Kelfoun, K., Le Pennec, J.L., Vargas, S.V., Pyroclastic flow erosion and bulking processes: Comparing field-based vs. modeling results at Tungurahua volcano, Ecuador (2014) Bull. Volcanol., 76 (9), p. 858; 
+Brand, B.D., Clarke, A.B., The architecture, eruptive history, and evolution of the Table Rock Complex, Oregon: From a Surtseyan to an energetic maar eruption (2009) J. Volcanol. Geotherm. Res., 180 (2), pp. 203-224; 
+Brand, B.D., Mackaman-Lofland, C., Pollock, N.M., Bendaña, S., Dawson, B., Wichgers, P., Dynamics of pyroclastic density currents: Conditions that promote substrate erosion and self-channelization—Mount St Helens, Washington (USA) (2014) J. Volcanol. Geotherm. Res., 276, pp. 189-214; 
+Brand, B.D., Bendaña, S., Self, S., Pollock, N., Topographic controls on pyroclastic density current dynamics: Insight from 18 May 1980 deposits at Mount St. Helens, Washington (USA) (2016) J. Volcanol. Geotherm. Res., 321, pp. 1-17; 
+Branney, M.J., Kokelaar, B.P., (2002) Pyroclastic Density Currents and the Sedimentation of Ignimbrites, Geol. Soc. of London Mem., 27. , Geol. Soc. of London, U. K; 
+Brown, R.J., Branney, M.J., Bypassing and diachronous deposition from density currents: Evidence from a giant regressive bed form in the Poris ignimbrite, Tenerife, Canary Islands (2004) Geology, 32 (5), pp. 445-448; 
+Buesch, D.C., Incorporation and redistribution of locally derived lithic fragments within a pyroclastic flow (1992) Geol. Soc. Am. Bull., 104 (9), pp. 1193-1207; 
+Calder, E.S., Sparks, R.S.J., Gardeweg, M.C., Erosion, transport and segregation of pumice and lithic clasts in pyroclastic flows inferred from ignimbrite at Lascar Volcano, Chile (2000) J. Volcanol. Geotherm. Res., 104 (1-4), pp. 201-235; 
+Clark, J.D., Pickering, K.T., (1996) Submarine Channels: Processes and Architecture, 231 pp.. , Vallis Press, London; 
+Cole, P.D., Calder, E.S., Druitt, T.H., Hoblitt, R., Robertson, R., Sparks, R.S.J., Young, S.R., Pyroclastic flows generated by gravitational instability of the 1996–97 lava dome of Soufriere Hills volcano, Monserrat (1998) Geophys. Res. Lett., 25 (18), pp. 3425-3428; 
+de Leeuw, J., Eggenhuisen, J.T., Cartigny, M.J., Morphodynamics of submarine channel inception revealed by new experimental approach (2016) Nat. Commun., 7, p. 10886; 
+Dufek, J., The fluid mechanics of pyroclastic density currents (2016) Annu. Rev. Fluid Mech., 48 (1), pp. 459-485; 
+Elliott, T., Megaflute erosion surfaces and the initiation of turbidite channels (2000) Geology, 28 (2), pp. 119-122; 
+Félix, G., Thomas, N., Relation between dry granular flow regimes and morphology of deposits: Formation of leves in pyroclastic deposits (2004) Earth Planet. Sci. Lett., 221 (1), pp. 197-213; 
+Fildani, A., Hubbard, S.M., Covault, J.A., Maier, K.L., Romans, B.W., Traer, M., Rowland, J.C., Erosion at inception of deep-sea channels (2013) Mar. Pet. Geol., 41, pp. 48-61; 
+Fisher, R.V., Erosion by volcanic base-surge density currents: U-shaped channels (1977) Geol. Soc. Am. Bull., 88 (9), pp. 1287-1297; 
+Gase, A., Bradford, J.H., Brand, B.D., (2015) Ground penetrating radar and active seismic investigation of stratigraphically verified pyroclastic deposits, , presented at 2015 Fall Meeting, AGU, San Francisco, Calif., 14–18 Dec; 
+Jessop, D.E., Kelfoun, K., Labazuy, P., Mangeney, A., Roche, O., Tillier, J.L., Thibault, G., LiDAR derived morphology of the 1993 Lascar pyroclastic flow deposits, and implication for flow dynamics and rheology (2012) J. Volcanol. Geotherm. Res., 245, pp. 81-97; 
+Kieffer, S.W., Sturtevant, B., Erosional furrows formed during the lateral blast at Mount St. Helens, May 18, 1980 (1988) J. Geophys. Res., 93 (B12), pp. 14,793-14,816; 
+Kokelaar, B.P., Graham, R.L., Gray, J.M.N.T., Vallance, J.W., Fine-grained linings of leveed channels facilitate runout of granular flows (2014) Earth Planet. Sci. Lett., 385, pp. 172-180; 
+Kuntz, M.A., Rowley, P.D., MacLeod, N.S., (1990) Geologic map of pyroclastic-flow and related deposits of the 1980 eruptions of Mount St. Helens, Washington, , U.S. Geol. Surv. Misc. Geol. Invest. Map I-1950, U.S. Geol. Surv.,, Reston, Va; 
+Mohrig, D., Buttles, J., Deep turbidity currents in shallow channels (2007) Geology, 35 (2), pp. 155-158; 
+Pollock, N.M., Brand, B.D., Roche, O., The controls and consequences of substrate entrainment by pyroclastic density currents at Mount St Helens, Washington (USA) (2016) J. Volcanol. Geotherm. Res., 325, pp. 135-147; 
+Pouliquen, O., Delour, J., Savage, S.B., Fingering in granular flows (1997) Nature, 386, pp. 816-817; 
+Roche, O., Depositional processes and gas pore pressure in pyroclastic flows: An experimental perspective (2012) Bull. Volcanol., 74 (8), pp. 1807-1820; 
+Roche, O., Niño, Y., Mangeney, A., Brand, B., Pollock, N., Valentine, G.A., Dynamic pore-pressure variations induce substrate erosion by pyroclastic flows (2013) Geology, 41 (10), pp. 1107-1110; 
+Roche, O., Buesch, D.C., Valentine, G.A., Slow-moving and far-travelled dense pyroclastic flows during the Peach Spring super-eruption (2016) Nat. Commun., 7, p. 10890; 
+Rowley, P.D., Kuntz, M.A., MacLeod, N.S., Pyroclastic-flow deposits (1981) U.S. Geol. Surv. Prof. Pap., 1250, pp. 489-512; 
+Rowley, P.J., Kokelaar, P., Menzies, M., Waltham, D., Shear-derived mixing in dense granular flows (2011) J. Sediment. Res., 81, pp. 874-884; 
+Scarpati, C., Perrotta, A., Erosional characteristics and behavior of large pyroclastic density currents (2012) Geology, 40 (11), pp. 1035-1038; 
+Sparks, R.S.J., Gardeweg, M.C., Calder, E.S., Matthews, S.J., Erosion by pyroclastic flows on Lascar Volcano, Chile (1997) Bull. Volcanol., 58 (7), pp. 557-565; 
+Wilson, L., Head, J.W., Morphology and rheology of pyroclastic flows and their deposits, and guidelines for future observations (1981) U.S. Geol. Surv. Bull., 1250, pp. 513-524
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015158611&doi=10.1002%2f2016GL072178&partnerID=40&md5=52d58848943bd34d598c0bdd5515fb1f
+ER  - 
+
+TY  - JOUR
+TI  - The controls and consequences of substrate entrainment by pyroclastic density currents at Mount St Helens, Washington (USA)
+T2  - Journal of Volcanology and Geothermal Research
+J2  - J. Volcanol. Geotherm. Res.
+VL  - 325
+SP  - 135
+EP  - 147
+PY  - 2016
+DO  - 10.1016/j.jvolgeores.2016.06.012
+SN  - 03770273 (ISSN) 
+AU  - Pollock, N.M.
+AU  - Brand, B.D.
+AU  - Roche, O.
+AD  - Boise State University, Boise, ID, United States
+AD  - Laboratoire Magmas et Volcans, Université Blaise Pascal-CNRS-IRD, OPGC, Clermont-Ferrand, France
+AB  - Evidence in the deposits from the May 18, 1980 eruption at Mount St Helens demonstrates that pyroclastic density currents (PDCs) produced during the afternoon of the eruption became intermittently erosive. Using detailed componentry and granulometry we constrain the sources for lithic blocks in the deposits and identify deposits from PDCs that became locally erosive. The componentry of the lithics in the fall deposits is used as a proxy for vent erosion and assumed to represent the starting componentry for PDCs prior to entrainment from any other source. We find little evidence in the PDC deposits nearest to the base of the volcano for entrainment from the steep flanks; however, significant evidence indicates that PDCs eroded into the debris avalanche hummocks, suggesting that entrainment is favored as PDCs interact with highly irregular topography. Evidence for locally entrained material downstream from debris avalanche hummocks decreases with height in the outcrop, suggesting that less entrainment occurs as local relief decreases and upstream topography is buried. The prevalence of lithofacies containing locally entrained material at the base of unit contacts and only 10s of meters downstream from debris avalanche hummocks suggests that the majority of entrainment occurs at or near the head of the current. Occasionally, entrained material is located high above unit contacts and deposited well after the initial head of the current is inferred to have passed, indicating that entrainment can occur during periods of non-deposition either from the semi-sustained body of the current or from a pulsating current. Additionally, self-channelization of PDCs, either by levee deposition or scouring into earlier PDC deposits, occurs independently of interaction with topographic obstacles and can affect carrying capacity and runout distance. While we begin to explore the mechanisms and effects of erosion on current dynamics, additional laboratory and numerical studies are necessary to fully understand these processes. © 2016
+KW  - Bulking
+KW  - Erosion
+KW  - Mount St Helens
+KW  - Pyroclastic density current
+KW  - Self-channelization
+KW  - Topography
+KW  - Debris
+KW  - Deposition
+KW  - Erosion
+KW  - Landslides
+KW  - Topography
+KW  - Bulking
+KW  - Debris avalanches
+KW  - Irregular topography
+KW  - Mount St Helens
+KW  - Pulsating currents
+KW  - Pyroclastic density currents
+KW  - Runout distances
+KW  - Self-channelization
+KW  - Deposits
+KW  - carrying capacity
+KW  - density current
+KW  - erosion
+KW  - lithic fragment
+KW  - lithofacies
+KW  - substrate
+KW  - topography
+KW  - volcanic eruption
+KW  - Cascade Range
+KW  - Mount Saint Helens
+KW  - United States
+KW  - Washington [United States]
+PB  - Elsevier B.V.
+N1  - Cited By :6
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Pollock, N.M.1910 University Drive, United States; email: nickpollock@boisestate.edu
+N1  - Funding details: National Science Foundation, NSF, 1347385
+N1  - Funding text 1: This work was funded by a grant from the National Science Foundation (Award Number: 1347385). The authors thank Ben Ellis and one anonymous reviewer for their thorough and constructive reviews of our work. The authors also thank Sylvana Bendaña and Chelsea Mackaman-Lofland for their assistance in the field.
+N1  - References: Beeson, D.L., Proximal Flank Facies of the May 18, 1980 Ignimbrite: Mount St. Helens, Washington (1988), pp. 1-206. , (MS Thesis) The University of Texas at Arlington; Bernard, J., Kelfoun, K., Le Pennec, J.L., Vargas, S.V., Pyroclastic flow erosion and bulking processes: comparing field-based vs. modeling results at Tungurahua volcano, Ecuador (2014) Bull. Volcanol., 76 (9), pp. 1-16; 
+Brand, B.D., Mackaman-Lofland, C., Pollock, N.M., Bendaña, S., Dawson, B., Wichgers, P., Dynamics of pyroclastic density currents: Conditions that promote substrate erosion and self-channelization—Mount St Helens, Washington (USA) (2014) J. Volcanol. Geotherm. Res., 276, pp. 189-214; 
+Brand, B.D., Bendaña, S., Self, S., Pollock, N.M., Topographic controls on pyroclastic density current dynamics: Insight from 18 may 1980 deposits at Mount St. Helens, Washington (USA) (2016) J. Volcanol. Geotherm. Res., 321, pp. 1-17; 
+Branney, M.J., Kokelaar, P., Pyroclastic density currents and the sedimentation of ignimbrites (2002) Geol. Soc. Lond. Mem., 27; 
+Buesch, D.C., Incorporation and redistribution of locally derived lithic fragments within a pyroclastic flow (1992) GSA Bull., 104, pp. 193-1207; 
+Bursik, M.I., Woods, A.W., The dynamics and thermodynamics of large ash flows (1996) Bull. Volcanol., 58, pp. 175-193; 
+Calder, E.S., Sparks, R.S.J., Gardeweg, M.C., Erosion, transport and segregation of pumice and lithic clasts in pyroclastic flows inferred from ignimbrite at Lascar Volcano, Chile (2000) J. Volcanol. Geotherm. Res., 104, pp. 201-235; 
+Cole, P.D., Calder, E.S., Druitt, T.H., Hoblitt, R., Robertson, R., Sparks, R.S.J., Young, S.R., Pyroclastic flows generated by gravitational instability of the 1996-97 lava dome of Soufriere Hills volcano, Monserrat (1998) Geophys. Res. Lett., 25, pp. 3425-3428; 
+Criswell, C.W., Chronology and pyroclastic stratigraphy of the May 18, 1980, eruption of Mount St. Helens, Washington (1987) J. Geophys. Res., 92, pp. 237-266; 
+Daniels, K.E., Behringer, R.P., Hysteresis and competition between disorder and crystallization in sheared and vibrated granular flow (2005) Phys. Rev. Lett., 94 (16), p. 168001; 
+Denlinger, R.P., Iverson, R.M., Granular avalanches across irregular three-dimensional terrain: 1. Theory and computation (2004) J. Geophys. Res. Earth Surf., 109 (F1). , (2003–2012); 
+Doyle, E.E., Hogg, A.J., Mader, H.M., Sparks, R.S.J., A two-layer model for the evolution and propagation of dense and dilute regions of pyroclastic currents (2010) J. Volcanol. Geotherm. Res., 190, pp. 365-378; 
+Doyle, E.E., Cronin, S.J., Thouret, J.C., Defining conditions for bulking and debulking in lahars (2011) Geol. Soc. Am. Bull., 123 (7/8), pp. 1234-1246. , (doi:1210.1130/b30227); 
+Dufek, J., The fluid mechanics of pyroclastic density currents (2016) Annu. Rev. Fluid Mech., 48, pp. 459-485; 
+Eisenhart, C., A test for the significance of lithological variations (1935) J. Sediment. Petrol., 5, pp. 137-145; 
+Estep, J., Dufek, J., Substrate effects from force chain dynamics in dense granular flows (2012) J. Geophys. Res. Earth Surf., 117; 
+Estep, J., Dufek, J., Discrete element simulations of bed force anomalies due to force chains in dense granular flows (2013) J. Volcanol. Geotherm. Res., 254, pp. 108-117; 
+Farin, M., Mangeney, A., Roche, O., Fundamental changes of granular flow dynamics, deposition and erosion processes at high slope angles: insights from laboratory experiments (2014) J. Geophys. Res. Earth Surf., 119, pp. 504-532; 
+Fisher, R.A., Statistical Methods for Research Workers (1932), Oliver and Boyd Edinburgh and London; Girolami, L., Roche, O., Druitt, T.H., Corpetti, T., Velocity fields and depositional processes in laboratory ash flows (2010) Bull. Volcanol., 72, pp. 747-759; 
+Glicken, H., Rockslide-Debris Avalanche of May 18, 1980, Mount St. Helens Volcano, Washington (No. 96-677) (1996), US Geological Survey; Hartley, R.R., Behringer, R.P., Logarithmic rate dependence of force networks in sheared granular material (2003) Nature, 421, pp. 928-931; 
+Hausback, B.P., Geologic Map of the Sasquatch Steps Area, North Flank of Mount St. Helens, Washington (2000) U.S. Geological Survey, Geologic Investigations Series I-2463; 
+Houghton, B.F., Latter, J.H., Hackett, W.R., Volcanic hazard assessment for Ruapehu Composite Volcano, Taupo Volcanic Zone, New Zealand." (1987) Bull. Volcanol., 49, pp. 737-751; 
+Hsu, H.C., Torres-Freyermuth, A., Hsu, T.J., Hwung, H.H., Kuo, P.C., On dam-break wave propagation and its implication to sediment erosion (2014) J. Hydraul. Res., 52 (2), pp. 205-218; 
+Imran, J., Parker, G., Katopodes, N., A numerical model of channel inception on submarine fans (1998) J. Geophys. Res., 103, pp. 1219-1238; 
+Iverson, R.M., Denlinger, R.P., Flow of variably fluidized granular masses across three dimensional terrain 1. Coulomb mixture theory (2001) J. Geophys. Res., 106 (B1), pp. 537-552; 
+Kieffer, S.W., Sturtevant, B., Erosional furrows formed during the lateral blast at Mount St. Helens, May 18, 1980 (1988) J. Geophys. Res., 93, pp. 14793-14816; 
+Kokelaar, B.P., Graham, R.L., Gray, J.M.N.T., Vallance, J.W., Fine-grained linings of leveed channels facilitate runout of granular flows (2014) Earth Planet. Sci. Lett., 385, pp. 172-180. , (doi 110.1016/j.epsl.2013.1010.1043); 
+Lube, G., Huppert, H.E., Sparks, R.S.J., Freundt, A., Static and flowing regions in granular collapses down channels (2007) Phys. Fluids, 19, p. 043301; 
+Lube, G., Huppert, H.E., Sparks, R.S.J., Freundt, A., Granular column collapses down rough, inclined channels (2011) J. Fluid Mech., 675, pp. 347-368; 
+Lube, G., Cronin, S.J., Manville, V., Procter, J.N., Cole, S.E., Freundt, A., Energy growth in laharic mass flows (2012) Geology, 40 (5), pp. 475-478. , (410.1130/G32818.32811); 
+Mangeney, A., Bouchut, F., Thomas, N., Vilotte, J.P., Bristeau, M.O., Numerical modeling of self-channeling granular flows and of their levee-channel deposits (2007) J. Geophys. Res. Earth Surf., 112, p. F2; 
+Mangeney, A., Roche, O., Hungr, O., Mangold, N., Faccanoni, G., Lucas, A., Erosion and mobility in granular collapse over sloping beds (2010) J. Geophys. Res., 115. , F03040; 
+Miller, B.A., Schaetzl, R.J., Precision of soil particle size analysis using laser diffractometry (2012) Soil Sci. Soc. Am. J., 76 (5), pp. 1719-1727; 
+Orsi, G., Di Vito, M.A., Isaia, R., Volcanic hazard assessment at the restless Campi Flegrei caldera (2004) Bull. Volcanol., 66, pp. 514-530; 
+Pittari, A., Cas, R.A.F., Sole marks at the base of the late Pleistocene Abrigo Ignimbrite, Tenerife: implications for transport and depositional processes at the base of pyroclastic flows (2004) Bull. Volcanol., 66, pp. 356-363; 
+Pittari, A., Cas, R.A.F., Monaghan, J.J., Martí, J., Instantaneous dynamic pressure effects of the behavior of lithic boulders in pyroclastic flows: the Abrigo Ignimbrite, Tenerife, Canary Islands (2007) Bull. Volcanol., 69, pp. 265-279; 
+Roche, O., Depositional processes and gas pore pressure in pyroclastic flows: an experimental perspective (2012) Bull. Volcanol., 74, pp. 1807-1820. , (1810.1007/s00445-00012-00639-00444); 
+Roche, O., Niño, Y., Mangeney, A., Brand, B., Pollock, N., Valentine, G.A., Dynamic pore-pressure variations induce substrate erosion by pyroclastic flow (2013) Geology, 41, pp. 1107-1110; 
+Roche, O., Buesch, D.C., Valentine, G.A., Slow-moving and far-travelled pyroclastic flows during the Peach Spring super-eruption (2016) Nat. Commun., 7, p. 10890; 
+Rosenfeld, C.L., Observations on the Mount St. Helens eruption (1980) Am. Sci., 68, pp. 494-509; 
+Rowley, P.D., Proximal bedded deposits related to pyroclastic flows of May 18, 1980, Mount St. Helens, Washington (1985) Geol. Soc. Am. Bull., 96 (11), p. 1373. , (0016-7606); 
+Rowley, P.D., Kuntz, M.A., Macleod, N.S., Pyroclastic flow deposits (1981) The 1980 Eruptions of Mount St Helens, Washington, US Geological Survey, Professional Papers, 1250, pp. 489-512. , P.W. Lipman D.R. Mullineaux; 
+Rowley, P.J., Kokelaar, P., Menzies, M., Waltham, D., Shear-derived mixing in dense granular flows (2011) J. Sediment. Res., 81 (11-12), pp. 874-884; 
+Sparks, R.S.J., Grain size variations in ignimbrites and implications for the transport of pyroclastic flows (1976) Sedimentology, 23, pp. 147-188; 
+Sparks, R.S.J., Gardeweg, M.C., Calder, E.S., Matthews, S.J., Erosion by pyroclastic flows on Lascar Volcano, Chile (1997) Bull. Volcanol., 58, pp. 557-565; 
+Staron, L., Phillips, J.C., Segregation time-scale in bi-disperse granular flows (2014) Phys. Fluids, 26 (3), p. 033302; 
+Valentine, G.A., Damage to structures by pyroclastic flows and surges, inferred from nuclear weapons effects (1998) J. Volcanol. Geotherm. Res., 87, pp. 117-140; 
+Waitt, R.B., Dzurisin, D., Proximal air-fall depsoits from the May 18 eruption—stratigraphy and field sedimentology (1981) The 1980 Eruptions of Mount St Helens, Washington, US Geological Survey, Professional Papers, 1250, pp. 489-512. , P.W. Lipman D.R. Mullineaux; 
+Walker, P.L., Grain-size characteristics of pyroclastic deposits (1971) J. Geol., 79 (6), pp. 696-714
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84977648617&doi=10.1016%2fj.jvolgeores.2016.06.012&partnerID=40&md5=5d704c672f8a7a36d67de950dbe6796c
+ER  - 
+
+TY  - JOUR
+TI  - Topographic controls on pyroclastic density current dynamics: Insight from 18 May 1980 deposits at Mount St. Helens, Washington (USA)
+T2  - Journal of Volcanology and Geothermal Research
+J2  - J. Volcanol. Geotherm. Res.
+VL  - 321
+SP  - 1
+EP  - 17
+PY  - 2016
+DO  - 10.1016/j.jvolgeores.2016.04.018
+SN  - 03770273 (ISSN) 
+AU  - Brand, B.D.
+AU  - Bendaña, S.
+AU  - Self, S.
+AU  - Pollock, N.
+AD  - Boise State University, Boise, ID, United States
+AD  - Central Washington University, Ellensburg, WA, United States
+AD  - The Open University, Milton Keynes, United Kingdom
+AD  - Earth and Planetary Science Dept., University of California, Berkeley, United States
+AB  - Our ability to interpret the deposits of pyroclastic density currents (PDCs) is critical for understanding the transport and depositional processes that control PDC dynamics. This paper focuses on the influence of slope on flow dynamics and criticality as recorded in PDC deposits from the 18 May 1980 eruption of Mt. St. Helens (USA). PDC deposits are found along the steep flanks (10°-30°) and across the pumice plain (~5°) up to 8 km north of the volcano. Granulometry, componentry and descriptions of depositional characteristics (e.g., bedform morphology) are recorded with distance from source. The pumice plain deposits are primarily thick (3-12 m), massive and poorly-sorted, and represent deposition from a series of concentrated PDCs. By contrast, the steep flank deposits are stratified to cross-stratified, suggesting deposition from PDCs where turbulence strongly influenced transport and depositional processes. We propose that acceleration of the concentrated PDCs along the steep flanks resulted in thinning of the concentrated, basal region of the current(s). Enhanced entrainment of ambient air, and autofluidization from upward fluxes of air from substrate interstices and plunging breakers across rugged, irregular topography further inflated the currents to the point that the overriding turbulent region strongly influenced transport and depositional mechanisms. Acceleration in combination with partial confinement in slot canyons and high surface roughness would also increase basal shear stress, further promoting shear and traction transport in the basal region of the current. Conditions along the steep flank resulted in supercritical flow, as recorded by regressive bedforms, which gradually transitioned to subcritical flow downstream as the concentrated basal region thickness increased as a function of decreasing slope and flow energy. We also find that (1) PDCs were erosive into the underlying granular substrate along high slopes (> 25°) where currents were partially confined in steep slot canyons, suggesting that basal shear stress is an important control on erosive capacity, and (2) bedform amplitude, wavelength and the presence of regressive bedforms increase with increasing slope and proximity to source along the steep flank, suggesting a link between bedform morphology, flow velocity, and flow criticality. While our results indicate that slope and irregular topography strongly influence PDC dynamics, criticality and erosive capacity, the influence of these conditions on ultimate flow runout distance is unclear. The work here also highlights the issue that relationships between the controls on bedform size and morphology in density stratified flows remain poorly constrained, limiting our ability to extract important information about the currents that produced them. These final two points warrant further exploration through the combination of field, experimental and numerical approaches. © 2016 Elsevier B.V.
+KW  - Bulking
+KW  - Mechanical behavior
+KW  - Pyroclastic density current
+KW  - Substrate erosion
+KW  - Topography
+KW  - Air
+KW  - Air entrainment
+KW  - Concentration (process)
+KW  - Criticality (nuclear fission)
+KW  - Deposition
+KW  - Deposits
+KW  - Dynamics
+KW  - Flow velocity
+KW  - Morphology
+KW  - Process control
+KW  - Shear stress
+KW  - Surface roughness
+KW  - Topography
+KW  - Bulking
+KW  - Depositional characteristics
+KW  - Depositional process
+KW  - Irregular topography
+KW  - Mechanical behavior
+KW  - Numerical approaches
+KW  - Partial confinement
+KW  - Pyroclastic density currents
+KW  - Shear flow
+KW  - deposition
+KW  - erosion rate
+KW  - geomorphological response
+KW  - pyroclastic deposit
+KW  - pyroclastic flow
+KW  - slope dynamics
+KW  - substrate
+KW  - topographic effect
+KW  - transport process
+KW  - volcanic eruption
+KW  - volcanic landform
+KW  - Cascade Range
+KW  - Mount Saint Helens
+KW  - United States
+KW  - Washington [United States]
+PB  - Elsevier B.V.
+N1  - Cited By :10
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Funding details: National Science Foundation, NSF
+N1  - Funding details: 0948588, 1347385
+N1  - Funding text 1: Funding for this work was provided through two National Science Foundation grants to BDB ( NSF-EAR 0948588 and NSF-EAR 1347385 ). SS thanks the USGS for access to the MSH flanks in the early 1980s. The authors thank Olivier Roche and Julian Bernard for their thoughtful reviews, which helped us improve this work. The authors also want to acknowledge the earlier work of David L. Beeson and the use of his unpublished MS thesis work, without which the efforts of our paper would not be possible.
+N1  - References: Andrews, B.J., Gardner, J.E., Turbulent dynamics of the 18 May 1980 Mount St. Helens eruption column (2009) Geology, 37 (10), pp. 895-898; 
+Auker, M.R., Sparks, R.S.J., Siebert, L., Crosweller, H.S., Ewert, J., A statistical analysis of the global historical volcanic fatalities record (2013) J. Appl. Volcanol., 2 (1), pp. 1-24; 
+Bagnold, R.A., Experiments on a gravity-free dispersion of large solid spheres in a Newtonian fluid under shear (1954) Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences, 225 (1160), pp. 49-63; 
+Bareschino, P., Lirer, L., Marzocchella, A., Petrosino, P., Salatino, P., Self-fluidization of subaerial rapid granular flows (2008) Powder Technol., 182 (3), pp. 323-333; 
+Beeson, D.L., (1988) Proximal Flank Facies of the May 18, 1980 Ignimbrite: Mount St. Helens, Washington, pp. 1-206. , The University of Texas at Arlington, (MS Thesis); 
+Belousov, A., Belousova, M., Eruptive process, effects and deposits of the 1996 and the ancient basaltic phreatomagmatic eruptions in Karymskoye Lake, Kamchatka. Russia (2001) Spec. Pub. Intern. Assoc. Sediment., 30, pp. 35-60; 
+Bernard, J., Kelfoun, K., Le Pennec, J.L., Vargas, S.V., Pyroclastic flow erosion and bulking processes: comparing field-based vs. modeling results at Tungurahua volcano, Ecuador (2014) Bull. Volcanol., 76 (9), pp. 1-16; 
+Blatt, H., Middleton, G., Murray, R., (1980) Origin of Sedimentary Rocks, p. 782. , Prince-Hall. Inc., New Jersey; 
+Brand, B.D., Clarke, A.B., The architecture, eruptive history, and evolution of the Table Rock Complex, Oregon (USA): from a Surtseyan to an energetic maar eruption (2009) J. Volcanol. Geotherm. Res., 180, pp. 203-224; 
+Brand, B.D., Clarke, A.B., An unusually energetic basaltic phreatomagmatic eruption: using deposit characteristics to constrain dilute pyroclastic density current dynamics (2012) J. Volcanol. Geotherm. Res., pp. 81-90; 
+Brand, B.D., White, C.M., Origin and stratigraphy of phreatomagmatic deposits at the Pleistocene Sinker Butte Volcano, Western Snake River Plain, Idaho (2007) J. Volcanol. Geotherm. Res., 160, pp. 319-339; 
+Brand, B.D., Semken, S., Clarke, A.B., Eruptive conditions and depositional processes of Narbona Pass Maar Volcano, Navajo Volcanic Field, Navajo Nation, New Mexico (USA) (2009) Bull. Volcanol., 71, pp. 49-77; 
+Brand, B.D., Mackaman-Lofland, C., Pollock, N.M., Bendaña, S., Dawson, B., Wichgers, P., Dynamics of pyroclastic density currents: conditions that promote substrate erosion and self-channelization-Mount St Helens, Washington (USA) (2014) J. Volcanol. Geotherm. Res., 276, pp. 189-214; 
+Brand, B.D., Gravely, D., Clarke, A.B., Nemeth, K., A combined field and numerical approach to understanding dilute pyroclastic density current dynamics and hazard potential: Auckland Volcanic Field, New Zealand (2014) J. Volcanol. Geotherm. Res., 276, pp. 215-232; 
+Branney, M.J., Kokelaar, B.P., A reappraisal of ignimbrite emplacement: progressive aggradation and changes from particulate to non-particulate flow during emplacement of high-grade ignimbrite (1992) Bull. Volcanol., 54, pp. 504-520; 
+Branney, M.J., Kokelaar, P., Giant bed from a sustained catastrophic density current flowing over topography: Acatlan ignimbrite, Mexico (1997) Geology, 25 (2), pp. 115-118; 
+Branney, M., Kokelaar, B.P., Sedimentation of ignimbrites from pyroclastic density currents (2002) Memoir Geol. Soc. Lond., 27, p. 150; 
+Bursik, M.I., Woods, A.W., The dynamics and thermodynamics of large ash flows (1996) Bull. Volcanol., 58, pp. 175-193; 
+Calder, E.S., Sparks, R.S.J., Gardeweg, M.C., Erosion, transport and segregation of pumice and lithic clasts in pyroclastic flows inferred from ignimbrite at Lascar Volcano, Chile (2000) J. Volcanol. Geotherm. Res., 104 (1), pp. 201-235; 
+Carey, S., Sigurdsson, H., Gardner, J.E., Criswell, W., Variations in column height and magma discharge during the May 18, 1980 eruption of Mount St. Helens (1990) J. Volcanol. Geotherm. Res., 43, pp. 99-112; 
+Chédeville, C., Roche, O., Autofluidization of pyroclastic flows propagating on rough substrates as shown by laboratory experiments (2014) J. Geophys. Res. Solid Earth, 119 (3), pp. 1764-1776; 
+Chédeville, C., Roche, O., Influence of slope angle on pore pressure generation and kinematics of pyroclastic flows: insights from laboratory experiments (2015) Bull. Volcanol., 77 (11), pp. 1-13; 
+Christiansen, R.L., Peterson, D.W., Chronology of the 1980 eruptive activity (1981) US Geol. Surv. Prof. Pap., 1250, pp. 17-30; 
+Cole, P.D., Scarpati, C., A facies interpretation of the eruption and emplacement mechanisms of the upper part of the Neapolitan Yellow Tuff, Campi Flegrei, southern Italy (1993) Bull. Volcanol., 55 (5), pp. 311-326; 
+Cole, P.D., Fernandez, E., Duarte, E., Duncan, A.M., Explosive activity and generation mechanisms of pyroclastic flows at Arenal volcano, Costa Rica between 1987 and 2001 (2005) Bull. Volcanol., 67 (8), pp. 695-716; 
+Criswell, C.W., Chronology and pyroclastic stratigraphy of the May 18, 1980, eruption of Mount St. Helens, Washington (1987) J. Geophys. Res. Solid Earth (1978-2012), 92 (B10), pp. 10237-10266; 
+Crowe, B.M., Fisher, R.V., Sedimentary structures in base-surge deposits with special reference to cross-bedding, Ubehebe craters, Death Valley, California (1973) Geol. Soc. Am. Bull., 84, pp. 663-682; 
+Douillet, G.A., Pacheco, D.A., Kueppers, U., Letort, J., Tsang-Hin-Sun, È., Bustillos, J., Hall, M., Dingwell, D.B., Dune bedforms produced by dilute pyroclastic density currents from the August 2006 eruption of Tungurahua volcano, Ecuador (2013) Bull. Volcanol., 75 (11), pp. 1-20; 
+Douillet, G.A., Rasmussen, K.R., Kueppers, U., Castro, D.L., Merrison, J.P., Iversen, J.J., Dingwell, D.B., Saltation threshold for pyroclasts at various bedslopes: wind tunnel measurements (2014) J. Volcanol. Geotherm. Res., 278, pp. 14-24; 
+Druitt, T.H., Emplacement of the 18 May, 1980 lateral blast deposit east-northeast of Mount St. Helens, Washington (1992) Bull. Volcanol., 54, pp. 554-572; 
+Druitt, T.H., Settling behaviour of concentrated, poorly sorted dispersions and some volcanological applications (1995) J. Volcanol. Geotherm. Res., 65, pp. 27-39; 
+Druitt, T.H., Avard, G., Bruni, G., Lettieri, P., Maez, F., Gas retention in fine-grained pyroclastic flow materials at high temperatures (2007) Bull. Volcanol.; 
+Dufek, J., Manga, M., In situ production of ash in pyroclastic flows (2008) J. Geophys. Res. Solid Earth (1978-2012), 113 (B9); 
+Eisenhart, C., A test for the significance of lithological variations (1935) J. Sediment. Petrol., 5, pp. 137-145; 
+Farin, M., Mangeney, A., Roche, O., Fundamental changes of granular flow dynamics, deposition, and erosion processes at high slope angles: insights from laboratory experiments (2014) J. Geophys. Res. Earth Surf., 119 (3), pp. 504-532; 
+Fedele, J.J., Hoyal, D.C.J.D., Sheets, B.A., Experiments on bedforms created by density currents (2007) Eos Trans. AGU, 88. , (p. Fall meeting supplement, abstract H41F-0839); 
+Fisher, R.V., Transport and deposition of a pyroclastic surge across an area of high relief: the 18 May 1980 eruption of Mount St. Helens, Washington (1990) Geol. Soc. Am. Bull., 102 (8), pp. 1038-1054; 
+Fisher, R.V., Schmincke, H.-U., (1984) Pyroclastic Rocks, , Springer-Verlag, Berlin; 
+Fujii, T., Nakada, S., The 15 September 1991 pyroclastic flows at Unzen Volcano (Japan): a flow model for associated ash-cloud surges (1999) J. Volcanol. Geotherm. Res., 89 (1), pp. 159-172; 
+Gray, T.E., Alexander, J., Leeder, M.R., Quantifying velocity and turbulence structure in depositing sustained turbidity currents across breaks in slope (2005) Sedimentology, 52 (3), pp. 467-488; 
+Gurioli, L., Cioni, R., Sbrana, A., Zanella, E., Transport and deposition of pyroclastic density currents over an inhabited area: the deposits of the AD 79 eruption of Vesuvius at Herculaneum, Italy (2002) Sedimentology, 49 (5), pp. 929-953; 
+Hand, B.M., Supercritical flow in density currents (1974) J. Sediment. Petrol., 44, pp. 637-648; 
+Hausback, B.P., Geologic Map of the Sasquatch Steps Area, North Flank of Mount St. Helens, Washington (2000) U.S. Geological Survey, Geologic Investigations Series, , I-2463; 
+Iverson, R.M., Denlinger, R.P., Flow of variably fluidized granular masses across three-dimensional terrain: 1. Coulomb mixture theory (2001) J. Geophys. Res., 106 (B1), pp. 537-552; 
+Jopling, A.V., Richardson, E.V., Backset Bedding Developed in Shooting Flow in Laboratory Experiments: NOTES (1966) SEPM J. Sediment. Res., 36; 
+Kidd, R.B., Lucchi, R.G., Gee, M., Woodside, J.M., Sedimentary processes in the Stromboli Canyon and Marsili Basin, SE Tyrrhenian Sea: results from sidescan sonar surveys (1998) Geo-Mar. Lett., 18, pp. 146-154; 
+Kieffer, S.W., Fluid dynamics of the May 18 blast at Mount St. Helens (1981) US Geol. Surv. Prof. Pap., 1250, pp. 379-400; 
+Kneller, B., Buckee, C., The structure and fluid mechanics of turbidity currents; a review of some recent studies and their geological implications (2000) Sedimentology, 47, pp. 62-94; 
+Lowe, D.R., Sediment gravity flows: II. Depositional models with special reference to the deposits of high-density turbidity currents (1982) J. Sediment. Res., 52 (1), pp. 279-298; 
+Macias, J.L., Espindola, J.M., Bursik, M., Sheridan, M.F., Development of lithic-breccias in the 1982 pyroclastic flow deposits of El Chichon volcano, Mexico (1998) J. Volcanol. Geotherm. Res., 83 (3), pp. 173-196; 
+Mackaman-Lofland, C., Brand, B.D., Taddeucci, J., Wohletz, K., Sequential fragmentation/transport theory, pyroclast size-density relationships, and the emplacement dynamics of pyroclastic density currents-a case study on the Mt. St. Helens (USA) 1980 eruption (2014) J. Volcanol. Geotherm. Res., 275, pp. 1-13; 
+Manga, M., Patel, A., Dufek, J., Rounding of pumice clasts during transport: field measurements and laboratory studies (2011) Bull. Volcanol., 73 (3), pp. 321-333; 
+Mangeney, A., Roche, O., Hungr, O., Mangold, N., Faccanoni, G., Lucas, A., Erosion and mobility in granular collapse over sloping beds (2010) J. Geophys. Res. Earth Surface (2003-2012), 115 (F3); 
+Middleton, G.V., Experimental studies related to the problems of flysche sedimentation (1970) Geol. Assoc. Can. Spec. Pap., 7, pp. 253-272; 
+Moore, J.G., Base surge in recent volcanic eruptions (1967) Bull. Volcanol., 30, pp. 337-363; 
+Morris, S.A., Kenyon, N.H., Limonov, A.F., Alexander, J., Downstream changes of large-scale bedforms in turbidites around the Valencia channel mouth, Northwest Mediterranean: implications for palaeoflow reconstruction (1998) Sedimentology, 45 (2), pp. 365-378; 
+Mulder, T., Alexander, J., The physical character of subaqueous sedimentary density flows and their deposits (2001) Sedimentology, 48 (2), pp. 269-299; 
+Ongaro, T.E., Neri, A., Menconi, G., Vitturi, M.D.M., Marianelli, P., Cavazzoni, C., Erbacci, G., Baxter, P.J., Transient 3D numerical simulations of column collapse and pyroclastic density current scenarios at Vesuvius (2008) J. Volcanol. Geotherm. Res., 178 (3), pp. 378-396; 
+Pittari, A., Cas, R.A.F., Edgar, C.J., Nichols, H.J., Wolff, J.A., Marti, J., The influence of palaeotopography on facies architecture and pyroclastic flow processes of a lithic-rich ignimbrite in a high gradient setting: the Abrigo ignimbrite, Tenerife, Canary Islands (2006) J. Volcanol. Geotherm. Res., 152 (3), pp. 273-315; 
+Pollock, N., (2013) Field Evidence for Substrate Entrainment by Pyroclastic Density Currents and its Effect on Downstream Dynamics at Mount St Helens, Washington (USA), , University of Washington, (Master's Thesis); 
+Pollock, N., Brand, B.D., Field evidence for substrate entrainment by pyroclastic density currents and its effect on downstream dynamics at Mount St Helens (USA) (2016) International Union for Geoldesy and Geophysics; Abstract VS06p-384 in Section VS06 - Benchmarking Pyroclastic Density Current Models: Code Inter-Comparison and Field Validation, , IUGG Publications, Prague, Czech Republic, (June 28, 2015, in review); 
+Postma, G., Classification for sediment gravity-flow deposits based on flow conditions during sedimentation (1986) Geology, 14 (4), pp. 291-294; 
+Roche, R., Nature and velocity of pyroclastic density currents inferred from models of entrainment of substrate lithic clasts (2015) Earth Planet. Sci. Lett., 418, pp. 115-125; 
+Roche, O., Gilbertson, M.A., Phillips, J.C., Sparks, R.S.J., Experimental study of gas-fluidized granular flows with implications for pyroclastic flow emplacement (2004) J. Geophys. Res., 109; 
+Roche, O., Montserrat, S., Niño, Y., Tamburrino, A., Experimental observations of water-like behavior of initially fluidized, dam break granular flows and their relevance for the propagation of ash-rich pyroclastic flows (2008) J. Geophys. Res., 113; 
+Roche, O., Montserrat, S., Niño, Y., Tamburrino, A., Pore fluid pressure and internal kinematics of gravitational laboratory air-particle flows: insights into the emplacement dynamics of pyroclastic flows (2010) J. Geophys. Res., 115; 
+Roche, O., Niño, Y., Mangeney, A., Brand, B., Pollock, N., Valentine, G.A., Dynamic pore-pressure variations induce substrate erosion by pyroclastic flows (2013) Geology, 41 (10), pp. 1107-1110; 
+Rowley, P.D., MacLeod, N.S., Kuntz, M.A., Kaplan, A.M., Proximal bedded deposits related to pyroclastic flows of May 18, 1980, Mount St. Helens, Washington (1985) Geol. Soc. Am. Bull. (0016-7606), 96 (11), p. 1373; 
+Schmincke, H., Fisher, R.V., Waters, A.C., Antidune and chute and pool structures in the base surge deposits of the Laacher See area, Germany (1973) Sedimentology, 20, pp. 553-574; 
+Sigurdsson, H., Carey, S.N., Fisher, R.V., The 1982 eruptions of El Chichon volcano, Mexico (3): physical properties of pyroclastic surges (1987) Bull. Volcanol., 49 (2), pp. 467-488; 
+Sohn, Y.K., On traction-carpet sedimentation (1997) J. Sediment. Res., 67 (3); 
+Sparks, R.S.J., Moore, J.G., Rice, C.J., The initial giant umbrella cloud of the May 18th, 1980, explosive eruption of Mount St. Helens (1986) J. Volcanol. Geotherm. Res., 28 (3), pp. 257-274; 
+Spinewine, B., Sequeiros, O.E., Garcia, M.H., Beaubouef, R.T., Sun, T., Savoye, B., Parker, G., Experiments on wedge-shaped deep sea sedimentary deposits in minibasins and/or on channel levees emplaced by turbidity currents. Part II. Morphodynamic evolution of the wedge and of the associated bedforms (2009) J. Sediment. Res., 79 (8), pp. 608-628; 
+Sulpizio, R., Dellino, P., Sedimentology, depositional mechanisms and pulsating behaviour of pyroclastic density currents (2008) Dev. Volcanol., 10, pp. 57-96; 
+Sulpizio, R., De Rosa, R., Donato, P., The influence of variable topography on the depositional behaviour of pyroclastic density currents: the examples of the Upper Pollara eruption (Salina Island, Southern Italy) (2008) J. Volcanol. Geotherm. Res., 175 (3), pp. 367-385; 
+Valentine, G.A., Stratified flow in pyroclastic surges (1987) Bull. Volcanol., 49, pp. 616-630; 
+Walker, G.P.L., Grain-size characteristics of pyroclastic deposits (1971) J. Geol., 79, pp. 696-714; 
+Walker, G.P., Characteristics of dune-bedded pyroclastic surge bedsets (1984) J. Volcanol. Geotherm. Res., 20 (3), pp. 281-296; 
+Wilson, C.J.N., Walker, G.P.L., Ignimbrite depositional facies: the anatomy of a pyroclastic flow (1982) J. Geol. Soc., 139 (5), pp. 581-592; 
+Wohletz, K.H., Pyroclastic surges and compressible two-phase flow (1998) From Magma to Tephra, pp. 25-51. , Elsevier, Amsterdam, A. Freundt, M. Rosi (Eds.); 
+Wohletz, K.H., Sheridan, M.F., (1979) Model of Pyroclastic Surge, 180. , Geological Society of America Paper; 
+Wynn, R.B., Masson, D.G., Stow, D.A.V., Weaver, P.P.E., Turbidity current sediment waves on the submarine slopes of the western Canary Islands (2000) Mar. Geol., 163, pp. 185-198; 
+Wynn, R.B., Piper, D.J.W., Gee, M.J.R., Generation and migration of coarse-grained sediment waves in turbidity current channels and channel-lobe transition zones (2002) Mar. Geol., 192, pp. 59-78; 
+Yih, C.-S., (1980) Stratified Flows, pp. 103-141. , Academic Press, New York
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84967309072&doi=10.1016%2fj.jvolgeores.2016.04.018&partnerID=40&md5=5b759173e928d280ac66870521dd4094
+ER  - 
+
+TY  - JOUR
+TI  - Dynamics of pyroclastic density currents: Conditions that promote substrate erosion and self-channelization - Mount St Helens, Washington (USA)
+T2  - Journal of Volcanology and Geothermal Research
+J2  - J. Volcanol. Geotherm. Res.
+VL  - 276
+SP  - 189
+EP  - 214
+PY  - 2014
+DO  - 10.1016/j.jvolgeores.2014.01.007
+SN  - 03770273 (ISSN) 
+AU  - Brand, B.D.
+AU  - Mackaman-Lofland, C.
+AU  - Pollock, N.M.
+AU  - Bendaña, S.
+AU  - Dawson, B.
+AU  - Wichgers, P.
+AD  - Department of Geosciences, Boise State University, Boise, ID 83725-1535, United States
+AD  - Department of Earth and Space Sciences, University of Washington, Seattle, WA 98195-1310, United States
+AB  - The May 18th, 1980 eruption of Mount St. Helens (MSH) produced multiple pyroclastic density currents (PDCs), burying the area north of the volcano under 10s of meters of deposits. Detailed measurements of recently exposed strata from these PDCs provide substantial insight into the dynamics of concentrated currents including inferences on particle-particle interactions, current mobility due to sedimentation fluidization and internal pore pressure, particle support mechanisms, the influence of surface roughness and the conditions that promote substrate erosion and self-channelization. Four primary flow units are identified along the extensive drainage system north of the volcano. Each flow unit has intricate vertical and lateral facies changes and complex cross-cutting relationships away from source. Each flow unit is an accumulation from an unsteady but locally sustained PDC or an amalgamation of several PDC pulses. The PDCs associated with Units I and II likely occurred during the pre-climactic, waxing phase of the eruption. These currents flowed around and filled in the hummocky topography, leaving the massive to diffusely-stratified deposits of Units I and II. The deposits of both Units I and II are generally more massive in low lying areas and more stratified in areas of high surface roughness, suggesting that surface roughness enhanced basal shear stress within the flow boundary. Units III and IV are associated with the climactic phase of the eruption, which produced the most voluminous and wide-spread PDCs. Both flow units are characteristically massive and enriched in vent-derived lithic blocks. These currents flowed over and around the debris avalanche deposits, as evidenced by the erosion of blocks from the hummocks. Unit III is massive, poorly sorted, and shows little to no evidence of elutriation or segregation of lithics and pumice, suggesting a highly concentrated current where size-density segregation was suppressed. Unit IV shows similar depositional features but typically has a basal lithic-rich region, is variably fines-depleted and contains pumice lobes, suggesting density segregation in a less concentrated current relative to Unit III. Deep, erosive channels cut by the Unit III current and thick lithic levee deposits within Unit IV occur in an area where debris avalanche relief is limited, suggesting self-channelization developed as a function of internal flow dynamics. An increase in the proportion and size of lithic blocks is found (1) downstream of debris avalanche hummocks, suggesting the PDCs were energetic enough to locally entrain accidental lithics from the hummocks and transport them tens of meters downstream, and (2) within large channels cut by later PDCs into earlier PDC deposits, suggesting self-channelization of the flows increased the carrying capacity of the subsequent channelized currents. Finally, the combination of thick, massive deposits with a high percentage of fine ash within Unit III and in the medial-distal depositional regions of Units II-IV suggests that the PDCs developed and maintained a high internal pore pressure during transport and deposition. The most important results include our ability to understand the role of internal pore pressure on current mobility, the influence of self-channelization on carrying capacity of the currents and the influence of surface roughness on substrate erosion. These observations have critical consequences for understanding the flow dynamics and hazard potential of PDCs. © 2014 Elsevier B.V.
+KW  - Fluidization
+KW  - Mount St Helens
+KW  - Pyroclastic density current
+KW  - Self-channelization
+KW  - Surface roughness
+KW  - Accidents
+KW  - Deposits
+KW  - Erosion
+KW  - Fluidization
+KW  - Landslides
+KW  - Metals
+KW  - Plastic flow
+KW  - Pore pressure
+KW  - Segregation (metallography)
+KW  - Surface roughness
+KW  - Volcanoes
+KW  - Basal shear stress
+KW  - Debris avalanche deposits
+KW  - Density segregation
+KW  - Mount St Helens
+KW  - Particle-particle interactions
+KW  - Pyroclastic density currents
+KW  - Self-channelization
+KW  - Support mechanism
+KW  - Filter banks
+KW  - erosion
+KW  - fluidization
+KW  - pyroclastic flow
+KW  - shear stress
+KW  - surface roughness
+KW  - volcanic eruption
+KW  - Cascade Range
+KW  - Mount Saint Helens
+KW  - United States
+KW  - Washington [United States]
+PB  - Elsevier
+N1  - Cited By :26
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Brand, B.D.; Department of Geosciences, Boise State University, Boise, ID 83725-1535, United States; email: brittanybrand@boisestate.edu
+N1  - Funding details: National Science Foundation, NSF, NSF-EAR 0948588
+N1  - Funding text 1: Funding for this work was provided through a National Science Foundation grant ( NSF-EAR 0948588 ). The authors would like to thank Dr. Sharon Allen and Dr. Benjamin Andrews for their thorough and thoughtful reviews of our manuscript.
+N1  - References: Allen, S.R., Cas, R.A.F., Lateral variations within coarse coignimbrite lithic breccias of the Kos Plateau Tuff, Greece (1998) Bull. Volcanol., 59, pp. 356-377; 
+Andrews, B.J., Gardner, J.E., Turbulent dynamics of the 18 May 1980 Mount St. Helens eruption column (2009) Geology, 37, pp. 895-898; 
+Beeson, D.L., (1988) Proximal Flank Facies of the May 18, 1980 Ignimbrite: Mount St Helens. Washington, , (M.S. Thesis), University of Texas at Arlington; 
+Branney, M.J., Kokelaar, B.P., A reappraisal of ignimbrite emplacement: progressive aggradation and changes from particulate to non-particulate flow during emplacement of high-grade ignimbrite (1992) Bull. Volcanol., 54, pp. 504-520; 
+Branney, M.J., Kokelaar, P., Pyroclastic density currents and the sedimentation of ignimbrites (2002) Geol. Soc. London Mem., 27, p. 143; 
+Brown, R.J., Branney, M.J., Bypassing and diachronous deposition from density currents: evidence from a giant regressive bed form in the Poris ignimbrite, Tenerife, Canary Islands (2004) Geology, 32, pp. 445-448; 
+Buesch, D.C., Incorporation and redistribution of locally derived lithic fragments within a pyroclastic flow (1992) Geol. Soc. Am. Bull., 104, pp. 1193-1207; 
+Bursik, M.I., Woods, A.W., The dynamics and thermodynamics of large ash flows (1996) Bull. Volcanol., 58, pp. 175-193; 
+Cagnoli, B., Manga, M., Vertical segregation in granular mass flows: A shear cell study (2005) Geophys. Res. Letters., 32. , L10402; 
+Calder, E.S., Sparks, R.S.J., Gardeweg, M.C., Erosion, transport and segregation of pumice and lithic clasts in pyroclastic flows inferred from ignimbrite at Lascar Volcano, Chile (2000) J. Volcanol. Geotherm. Res., 104, pp. 201-235; 
+Carey, S., Sigurdsson, H., Gardner, J.E., Criswell, W., Variations in column height and magma discharge during the May 18, 1980 eruption of Mount St. Helens (1990) J. Volcanol. Geotherm. Res., 43, pp. 99-112; 
+Cas, R.A.F., Wright, H.M.N., Folkes, C.B., Lesti, C., Porreca, M., Giordano, G., Viramonte, J.G., The flow dynamics of an extremely large volume pyroclastic flow, the 2.08-Ma Cerro Galán Ignimbrite, NW Argentina, and comparison with other flow types (2011) Bull Volcanol, 73, pp. 1583-1609; 
+Criswell, C.W., Chronology and pyroclastic stratigraphy of the May 18, 1980 Eruption of Mount St. Helens, Washington (1987) J. Geophys. Res., 92, pp. 10237-10266; 
+Dawson, B., Brand, B.D., Dufek, J., Clast comminution during pyroclastic density current transport: Mt St Helens (2011) Abstract: V51F-2575 presented at 2011 Fall Meeting, AGU, San Francisco, Calif., 5-9 Dec; 
+Druitt, T.H., Emplacement of the 18 May 1980 lateral blast deposit ENE of Mount St. Helens, Washington (1992) Bull. Volcanol., 54, pp. 554-572; 
+Druitt, T.H., Settling behavior of concentrated dispersions and some volcanological applications (1995) J. Volcanol. Geotherm. Res., 65, pp. 27-39; 
+Druitt, T.H., Avard, G., Bruni, G., Lettieri, P., Maez, F., Gas retention in fine-grained pyroclastic flow materials at high temperatures (2007) Bull. Volcanol., 69, pp. 881-901; 
+Dufek, J., Manga, M., The in-situ production of ash in pyroclastic flows (2008) J. Geophys. Res., 113, pp. B09207; 
+Dufek, J., Manga, M., Patel, A., Granular disruption during explosive volcanic eruptions (2012) Nat. Geosci., 5, pp. 561-564; 
+Félix, G., Thomas, N., Relation between dry granular flow regimes and morphology of deposits: formation of levees in pyroclastic deposits, Earth Planet (2004) Sci. Lett., 221, pp. 197-213; 
+Fisher, R.V., Transport and deposition of a pyroclastic surge across an area of high relief: the 18 May 1980 eruption of Mount St. Helens, Washington (1990) Geol. Soc. Am. Bull., 102, pp. 1038-1054; 
+Francis, P., (1993) Volcanoes - A Planetary Perspective, , Oxford University Press Inc., New York, (Freundt and Schmincke, 1985); 
+Freundt, A., Schmincke, H.-U., Lithic-enriched segregation bodies in pyroclastic flow deposits of Laacher See Volcano East Eifel (1985) Germany. J. Volcanol. Geotherm. Res., 25, pp. 193-224; 
+Garcia, M.H., Parker, G., Experiments on hydraulic jumps in turbidity currents near a canyon-fan transition (1989) Science, 245, pp. 393-396; 
+Giordano, G., Facies characteristics and magma-water interaction of the White Trachytic Tuffs (Roccamonfina Volcano, southern Italy) (1998) Bull. Volcanol., 60, pp. 10-26; 
+Giordano, G., Dobran, F., Computer simulation of the Tuscolano Artemisio's second pyroclastic flow unit Alban Hills Latium, Italy (1994) J. Volcanol. Geotherm. Res., 61, pp. 69-94; 
+Hausback, B.P., (2000) Geologic Map of the Sasquatch Steps area, north flank of Mount St. Helens, 1250. , Miscellaneous Field Investigations, Washington: U.S. Geological Survey, I-2463; 
+Hoblitt, R.P., Miller, D., Vallance, J.W., Origin and stratigraphy of the deposit produced by the May 18 directed blast (1981) U.S. Geol. Surv. Prof. Paper, 1250, pp. 401-419. , P.W. Lipman, D.R. Mullineaux (Eds.) The 1980 Eruptions of Mount St. Helens, Washington; 
+Imran, J., Parker, G., Katopodes, N., A numerical model of channel inception on submarine fans (1998) J. Geophys. Res., 103, pp. 1219-1238; 
+Jessop, D.E., Kelfoun, K., Labazuy, P., Mangeney, A., Roche, O., Tilliere, J.-L., Trouillete, M., Thibaulte, G., LiDAR derived morphology of the 1993 Lascar pyroclastic flow deposits, and implication for flow dynamics and rheology (2012) J. Volcanol. Geotherm. Res., pp. 81-97; 
+Kneller, B.C., Branney, M.J., Sustained high-density turbidity currents and the deposition of thick massive sands (1995) Sedimentology, 42, pp. 607-616; 
+Krumbein, W.C., Size frequency distributions of sediments and the normal phi curve (1934) J. Sediment. Res., 8, pp. 84-90; 
+Kuntz, M.A., Rowley, P.D., MacLeod, N.S., Reynolds, R.L., McBroome, L.A., Kaplan, A.M., Lidke, D.J., Petrography and particle size distribution of pyroclastic flow, ash-cloud and surge deposits (1981) U.S. Geological Survey Professional Paper, 1250, pp. 525-539. , P.W. Lipman, D.R. Mullineaux (Eds.) The 1980 Eruption of Mount St. Helens; 
+Kuntz, M.A., Rowley, P.D., MacLeod, N.S., Geologic map of pyroclastic flow and related deposits of the 1980 eruptions of Mount St. Helens, Washington: U.S. Geological Survey Miscellaneous Investigations Map I-1950 (1990), 1. , 12,000; Lipman, P.W., Moore, J.G., Swanson, D.A., Bulging of the north flank before the May 18 eruption - geodetic data (1981) U.S. Geol. Surv. Prof. Paper, 1250, pp. 143-155. , P.W. Lipman, D.R. Mullineaux (Eds.) The 1980 Eruptions of Mount St. Helens, Washington; 
+Macias, J.L., Espindola, J.M., Bursik, M., Sheridan, M.F., Development of lithic-breccias in the 1982 pyroclastic flow deposits of El Chichon Volcano, Mexico (1998) J. Volcanol. Geotherm. Res., 83, pp. 173-196; 
+Mackaman-Lofland, C., Sequential fragmentation/transport theory, pyroclast size-density relationships, and the emplacement dynamics of pyroclastic density currents - a case study on the Mt. St. Helens (USA) 1980 eruption (2014) J. Volcanol. Geotherm. Res., 275, pp. 1-13; 
+Manga, M., Patel, A., Dufek, J., Rounding of pumice clasts during transport: field measurements and laboratory studies (2011) Bull. Volcanol., 73, pp. 321-333; 
+Mangeney, A., Bouchut, F., Thomas, N., Vilotte, J.P., Bristeau, M.O., Numerical modeling of self-channeling granular flows and of their levee-channel deposits (2007) J. Geophys. Res., 112, pp. F02017; 
+Moore, J.G., Sisson, T.W., Deposits and Effects of the May 18 pyroclastic surge (1981) U.S. Geol. Surv. Prof. Paper, 1250, pp. 421-438. , P.W. Lipman, D.R. Mullineaux (Eds.) The 1980 eruptions of Mount St. Helens, Washington; 
+Palladino, D.M., Simei, S., Eruptive dynamics and caldera collapse during the Onano eruption, Vulsini, Italy (2005) Bull. Volcanol., 67, pp. 426-440; 
+Palladino, D.M., Valentine, G.A., Coarse-tail vertical and lateral grading in pyroclastic flow deposits of the Latera Volcanic Complex (Vulsini, Central Italy): origin and implications for flow dynamics (1995) J. Volcanol. Geotherm. Res., 69, pp. 343-364; 
+Pittari, A., Cas, R.A.F., Martí, J., The occurrence and origin of prominent massive, pumice-rich ignimbrite lobes within the Late Pleistocene Abrigo Ignimbrite, Tenerife, Canary Islands (2005) J. Volcanol. Geotherm. Res., 139, pp. 271-293; 
+Pittari, A., Cas, R.A.F., Edgar, C.J., Nichols, H.J., Wolff, J.A., Martí, J., The influence of palaeotopography on facies architecture and pyroclastic flow processes of a lithic-rich ignimbrite in a high gradient setting: the Abrigo Ignimbrite, Tenerife, Canary Islands (2006) J. Volcanol. Geotherm. Res., 152, pp. 273-315; 
+Pollock, N., (2013) Field evidence for substrate entrainment by pyroclastic density currents and its effect on downstream dynamics at Mount St Helens, Washington (USA), , (M.S. Thesis), University of Washington; 
+Pollock, N., Brand, B.D., Investigation into the erosive capacity of pyroclastic density currents at Mount Saint Helens, Washington (USA) (2012) Abstract: V54C-01 presented at 2010 Fall Meeting, AGU, San Francisco, Calif., 3-7 Dec; 
+Roche, O., Depositional processes and gas pore pressure in pyroclastic flows: an experimental perspective (2012) Bull. Volcanol., 74, pp. 1807-1820; 
+Roche, O., Gilbertson, M.A., Phillips, J.C., Sparks, R.S.J., Experimental study of gas-fluidized granular flows with implications for pyroclastic flows emplacement (2004) J. Geophys. Res., 109, pp. B10201; 
+Roche, O., Montserrat, S., Niño, Y., Tamburrino, A., Experimental observations of water-like behavior of initially fluidized, dam break granular flows and their relevance for the propagation of ash-rich pyroclastic flows (2008) J. Geophys. Res., 113, pp. B12203; 
+Roche, O., Montserrat, S., Niño, Y., Tamburrino, A., Pore fluid pressure and internal kinematics of gravitational laboratory air-particle flows: Insights into the emplacement dynamics of pyroclastic flows (2010) J. Geophys. Res., 115, pp. B09206; 
+Roche, O., Niño, Y., Mangeney, A., Brand, B., Pollock, N., Valentine, G.A., Dynamic pore pressure variations induce substrate erosion by pyroclastic flows (2013) Geology, 41, pp. 1107-1110; 
+Rowley, P.D., Kuntz, M.A., Macleod, N.S., Pyroclastic flow deposits (1981) US Geological Survey, Professional Papers, 1250, pp. 489-512. , P.W. Lipman, D.R. Mullineaux (Eds.) The 1980 Eruptions of Mount St Helens, Washington; 
+Rowley, P.D., Macleod, N.S., Kuntz, M.A., Kaplan, A.M., Proximal bedded deposits related to pyroclastic flows of May 18, 1980, Mount St Helens, Washington (1985) Geol. Soc. Am. Bull., 96, pp. 1373-1383; 
+Rowley, P., Kokelaar, P., Menzies, M., Waltham, D., Shear-derived mixing in dense granular flow (2011) J. Sediment. Res., 811, pp. 874-884; 
+Selim, M.S., Kothari, A.C., Turian, R.M., Sedimentation of multisized particles in concentrated suspensions (1983) Am. Inst. Chem. Eng. J., 29, pp. 1029-1038; 
+Sparks, R.S.J., Grain size variations in ignimbrites and implications for the transport of pyroclastic flows (1976) Sedimentology, 23, pp. 147-188; 
+Sparks, R.S.J., Gardeweg, M.C., Calder, E.S., Matthews, S.J., Erosion by pyroclastic flows on Lascar volcano, Chile (1997) Bull. Volcanol., 58, pp. 557-565; 
+Sulpizio, R., Dellino, P., Sedimentology, depositional mechanisms and pulsating behaviour of pyroclastic density currents (2008) Developments in Volcanology, 10, pp. 58-96. , J. Gottsman, J. Marti (Eds.) Caldera Volcanism: Analysis, Modelling and Response; 
+Sulpizio, R., De Rosa, R., Donato, P., The influence of variable topography on the depositional behaviour of pyroclastic density currents: the examples of the Upper Pollara eruption (Salina Island, southern Italy) (2008) J. Volcanol. Geotherm. Res., 175, pp. 367-385; 
+Valentine, G.A., Stratified flow in pyroclastic surges (1987) Bull. Volcanol., 49, pp. 616-630; 
+Walker, G.P.L., Ignimbrite types and ignimbrite problems (1983) J. Volcanol. Geotherm. Res., 17, pp. 65-88; 
+Wilson, C.J.N., The role of fluidisation in the emplacement of pyroclastic flows: an experimental approach (1980) J. Volcanol. Geotherm. Res., 8, pp. 231-249
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84898786167&doi=10.1016%2fj.jvolgeores.2014.01.007&partnerID=40&md5=f37917d9c01e7f38f6d59b6e475a73e3
+ER  - 
+
+TY  - JOUR
+TI  - A combined field and numerical approach to understanding dilute pyroclastic density current dynamics and hazard potential: Auckland Volcanic Field, New Zealand
+T2  - Journal of Volcanology and Geothermal Research
+J2  - J. Volcanol. Geotherm. Res.
+VL  - 276
+SP  - 215
+EP  - 232
+PY  - 2014
+DO  - 10.1016/j.jvolgeores.2014.01.008
+SN  - 03770273 (ISSN) 
+AU  - Brand, B.D.
+AU  - Gravley, D.M.
+AU  - Clarke, A.B.
+AU  - Lindsay, J.M.
+AU  - Bloomberg, S.H.
+AU  - Agustin-Flores, J.
+AU  - Németh, K.
+AD  - Department of Geosciences, Boise State University, Boise, ID 83725-1535, United States
+AD  - Geological Sciences, University of Canterbury, Christchurch, New Zealand
+AD  - School of Earth and Space Exploration, Arizona State University, Tempe, AZ, United States
+AD  - School of Environment, The University of Auckland, New Zealand
+AD  - Volcanic Risk Solutions, Massey University, Palmerston North, New Zealand
+AB  - The most dangerous and deadly hazards associated with phreatomagmatic eruptions in the Auckland Volcanic Field (AVF; Auckland, New Zealand) are those related to volcanic base surges - dilute, ground-hugging, particle laden currents with dynamic pressures capable of severe to complete structural damage. We use the well-exposed base surge deposits of the Maungataketake tuff ring (Manukau coast, Auckland), to reconstruct flow dynamics and destructive potential of base surges produced during the eruption. The initial base surge(s) snapped trees up to 0.5m in diameter near their base as far as 0.7-0.9km from the vent. Beyond this distance the trees were encapsulated and buried by the surge in growth position. Using the tree diameter and yield strength of the wood we calculate that dynamic pressures (Pdyn) in excess of 12-35kPa are necessary to cause the observed damage. Next we develop a quantitative model for flow of and sedimentation from a radially-spreading, dilute pyroclastic density currents (PDCs) to determine the damage potential of the base surges produced during the early phases of the eruption and explore the implications of this potential on future eruptions in the region. We find that initial conditions with velocities on the order of 65ms-1, bulk density of 38kgm-3 and initial, near-vent current thicknesses of 60m reproduce the field-based Pdyn estimates and runout distances. A sensitivity analysis revealed that lower initial bulk densities result in shorter run-out distances, more rapid deceleration of the current and lower dynamic pressures. Initial velocity does not have a strong influence on run-out distance, although higher initial velocity and slope slightly decrease runout distance due to higher rates of atmospheric entrainment. Using this model we determine that for base surges with runout distances of up to 4km, complete destruction can be expected within 0.5km from the vent, moderate destruction can be expected up to 2km, but much less damage is expected up to the final runout distance of 4km. For larger eruptions (base surge runout distance 4-6km), Pdyn of &gt;35kPa can be expected up to 2.5km from source, ensuring complete destruction within this area. Moderate damage to reinforced structures and damage to weaker structures can be expected up to 6km from source. In both cases hot ash may still cause damage due to igniting flammable materials in the distal-most regions of a base surge. This work illustrates our ability to combine field observations and numerical models to explore the depositional mechanisms, macroscale current dynamics, and potential impact of dilute PDCs. Thus, this approach may serve as a tool to understand the damage potential and extent of previous and potential future eruptions in the AVF. © 2014 Elsevier B.V.
+KW  - Auckland volcanic field
+KW  - Base surge
+KW  - Maar
+KW  - Phreatomagmatic
+KW  - Volcanic hazard assessment
+KW  - Flammable materials
+KW  - Forestry
+KW  - Hazards
+KW  - Base surge
+KW  - Maar
+KW  - Phreatomagmatic
+KW  - Volcanic field
+KW  - Volcanic hazards
+KW  - Volcanoes
+KW  - hazard assessment
+KW  - maar
+KW  - numerical model
+KW  - phreatomagmatism
+KW  - pyroclastic flow
+KW  - sensitivity analysis
+KW  - volcanic eruption
+KW  - Forestry
+KW  - Hazards
+KW  - Auckland
+KW  - Auckland Volcanic Field
+KW  - New Zealand
+KW  - North Island
+PB  - Elsevier
+N1  - Cited By :19
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Brand, B.D.; Department of Geosciences, Boise State University, Boise, ID 83725-1535, United States; email: brittanybrand@boisestate.edu
+N1  - Funding details: Auckland Council
+N1  - Funding text 1: The project was supported through the Determining volcanic risk in Auckland (DEVORA) project. The authors would like to thank Dr. Piero Dellino and an anonymous reviewer for their critical feedback on our manuscript. Appendix A
+N1  - References: Agustín-Flores, J., Németh, K., Cronin, S.J., Lindsay, J.M., Kereszturi, G., Brand, B., Smith, I.E.M., Phreatomagmatic eruptions through unconsolidated coastal plain sequences, Maungataketake, Auckland Volcanic Field (New Zealand) (2014) J. Volcanol. Geotherm. Res., 276, pp. 46-63. , [submitted for publication]; 
+Allen, S.R., Smith, I.E.M., Eruption styles and volcanic hazard in the Auckland Volcanic Field, New Zealand (1994) Geosci. Rep. Shizuoka Univ., 20, pp. 5-14; 
+Anderson, J.D., (1991) Fundamentals of Aerodynamics, p. 772. , McGraw-Hill, New York; 
+Baxter, P.J., Neri, A., Todesco, M., Physical modelling and human survival in pyroclastic flows (1998) Nat. Hazards, 17, pp. 163-176; 
+Baxter, P.J., Boyle, R., Cole, P., Neri, A., Spence, R., Zuccaro, G.L., The impacts of pyroclastic surges on buildings at the eruption of the Soufriere Hills volcano, Montserrat (2005) Bull. Volcanol., 67 (4), pp. 292-313; 
+Bebbington, M.S., Cronin, S.J., Spatio-temporal hazard estimation in the Auckland Volcanic Field, New Zealand, with a new event-order model (2011) Bull. Volcanol., 73, pp. 55-72; 
+Belousov, A., Belousova, M., Eruptive process, effects and deposits of the 1996 and the ancient basaltic phreatomagmatic eruptions in Karymskoye Lake, Kamchatka, Russia (2001) Spec. Publ. Int. Assoc. Sediment., 30, pp. 35-60; 
+Best, J.L., Sedimentology and event timing of a catastrophic volcaniclastic mass flow. Volcan Hudson, Chile (1992) Bull. Volcanol., 54, pp. 299-318; 
+Bonnecaze, R.T., Huppert, H.E., Lister, J.R., Particle-driven gravity currents (1993) J. Fluid Mech., 250, pp. 339-369; 
+Bonnecaze, R.T., Hallworth, M.A., Huppert, H.E., Lister, J.R., Axisymmetric particle-driven gravity currents (1995) J. Fluid Mech., 294, pp. 99-121; 
+Brand, B.D., Clarke, A.B., The architecture, eruptive history, and evolution of the Table Rock Complex, Oregon: from a Surtseyan to an energetic maar eruption (2009) J. Volcanol. Geotherm. Res., 180, pp. 203-224; 
+Brand, B.D., Clarke, A.B., An energetic basaltic phreatomagmatic eruption at the Table Rock Complex in south-central Oregon (USA): using deposit characteristics to constrain surge dynamics (2012) J. Volcanol. Geotherm. Res., pp. 81-90; 
+Brand, B.D., Heiken, G., Tuff cones, tuff rings, and maars of the Fort Rock-Christmas Valley Basin, Oregon: exploring the vast array of pyroclastic features that record violent hydrovolcanism at Fort Rock and the Table Rock Complex (2009) Geological Society of America Field Guide, 15, pp. 1-18. , J.E. O'Connor, R.J. Dorsey, I.P. Madin (Eds.) Volcanoes to Vineyards: Geologic Field Trips Through the Dynamic Landscape of the Pacific Northwest; 
+Brand, B.D., White, C.M., Origin and stratigraphy of phreatomagmatic deposits at the Pleistocene Sinker Butte Volcano, Western Snake River Plain, Idaho (2007) J. Volcanol. Geotherm. Res., 160, pp. 319-339; 
+Brand, B.D., Semken, S., Clarke, A.B., Eruptive conditions and depositional processes of Narbona Pass Maar Volcano, Navajo Volcanic Field, Navajo Nation, New Mexico (USA) (2008) Bull. Volcanol., 71, pp. 49-77; 
+Branney, M.J., Kokelaar, P., Pyroclastic density currents and the sedimentation of ignimbrites (2002) Mem. Geol. Soc. Lond., 27, p. 143; 
+Brothers, R.N., Golson, J., Geological and archaeological interpretation of a section in Rangitoto ash on Motutapu island, Auckland (1959) N. Z. J. Geol. Geophys., 2, pp. 569-577; 
+Browne, F.L., Theories of the combustion of wood and its control: a survey of the literature (1958) Forest Products Laboratory - U.S. Forest Service Research Legacy. Rept. No 2136; 
+Bursik, M.I., Woods, A.W., The dynamics and thermodynamics of large ash flows (1996) Bull. Volcanol., 58, pp. 175-193; 
+Büttner, R., Zimanowski, B., Physics of thermohydraulic explosions (1998) Phys. Rev. Lett., 57, pp. 5726-5792; 
+Capaccioni, B., Nappi, G., Valentini, L., Directional fabric measurements: an investigative approach to transport and depositional mechanisms in pyroclastic flows (2001) J. Volcanol. Geotherm. Res., 107, pp. 275-292; 
+Clarke, A.B., Voight, B., Pyroclastic current dynamic pressure from aerodynamics of tree or pole blow-down (2000) J. Volcanol. Geotherm. Res., 100, pp. 395-412; 
+Clifton, N.C., (1991) New Zealand Timbers - The Complete Guide to Exotic and Indigenous Woods, , Wellington, GP Publications; 
+Cole, P.D., Migration direction of sand-wave structures in pyroclastic-surge deposits; implications for depositional processes (1991) Geol. (Boulder), 19 (11), pp. 1108-1111; 
+Cole, P.D., Guest, J.E., Duncan, A.M., Pacheco, J.M., Capelinhos 1957-1958, Faial, Azores: deposits formed by an emergent surtseyan eruption (2001) Bull. Volcanol., 63 (2-3), pp. 204-220; 
+Crowe, B.M., Fisher, R.V., Sedimentary structures in base-surge deposits with special reference to cross-bedding, Ubehebe Craters, Death Valley, California (1973) Geol. Soc. Am. Bull., 84, pp. 663-682; 
+Dellino, P., Mele, D., Sulpizio, R., La Volpe, L., Braia, G., A method for the calculation of the impact parameters of dilute pyroclastic density currents based on deposit particle characteristics (2008) J. Geophys. Res., 113 (B07206), pp. 1-21; 
+Edbrooke, S.W., Mazengarb, C., Stephenson, W., Geology and geological hazards of the Auckland urban area, New Zealand (2003) Quat. Int., 103. , 3-2; 
+Fisher, R.V., Schmincke, H.-U., (1984) Pyroclastic Rocks, , Springer-Verlag, Berlin; 
+Hayward, J.J., Hayward, B.W., Fossil forests preserved in volcanic ash and lava at Ihumatao and Takapuna, Auckland (1996) Tane, 35, pp. 127-142; 
+Hazen, A., On sedimentation (1904) Trans. Am. Soc. Civ. Engl., 3, pp. 45-88; 
+Heiken, G.H., Wohletz, K., (1985) Volcanic Ash, , Univ. Calif. Press, Berkeley, CA, United States (USA); 
+Houghton, B.F., Wilson, C.J.N., Rosenberg, M.D., Smith, I.E.M., Parker, R.J., Mixed deposits of complex magmatic and phreatomagmatic volcanism: an example from Crater Hill, Auckland, New Zealand (1996) Bull. Volcanol., 58, pp. 59-66; 
+Kereszturi, G., Németh, K., Cronin, S.J., Agustín-Flores, J., Smith, I.E.M., Lindsay, J., A model for calculating eruptive volumes for monogenetic volcanoes - implication for the Quaternary Auckland Volcanic Field, New Zealand (2013) J. Volcanol. Geotherm. Res., 266, pp. 16-33; 
+Kermode, L.O., Geology of the Auckland Urban Area. Scale 1:50000. Institute of Geological and Nuclear Sciences geological map 2. 1 sheet+63p (1992), GNS Science, Lower Hutt; Le Corvec, N., Bebbington, M.S., Lindsay, J.M., McGee, L.E., Age, distance and geochemical evolution within a monogenetic volcanic field: analyzing patterns in the Auckland volcanic field eruption sequence (2013) Geochem. Geophys. Geosyst, , (n/a); 
+Le Corvec, N., Spörli, K.B., Rowland, J., Lindsay, J., Spatial distribution and alignments of volcanic centers: clues to the formation of monogenetic volcanic fields (2013) Earth Sci. Rev., 124, pp. 96-114; 
+Lindsay, J., Marzocchi, W., Jolly, G., Constantinescu, R., Selva, J., Sandri, L., Towards real-time eruption forecasting in the Auckland Volcanic Field: application of BET_EF during the New Zealand National Disaster Exercise Ru-aumoko (2010) Bull. Volcanol., 72, pp. 185-204; 
+Magill, C., Blong, R., Volcanic risk ranking for Auckland, New Zealand. I: Methodology and hazard investigation (2005) Bull. Volcanol., 67 (4), pp. 331-339; 
+Magill, C., Blong, R., Volcanic risk ranking for Auckland, New Zealand. II: Hazard consequences and risk calculation (2005) Bull. Volcanol., 67 (4), pp. 340-349; 
+Marra, M.J., Alloway, B.V., Newnham, R.M., Paleoenvironmental reconstruction of a well-preserved Stage 7 forest sequence catastrophically buried by basaltic eruptive deposits, northern New Zealand (2006) Quat. Sci. Rev., 25, pp. 2143-2161; 
+Mastin, L.G., Witter, J.B., The hazards of eruptions through lakes and seawater (2000) J. Volcanol. Geotherm. Res., 97, pp. 195-214; 
+Moore, J.G., Base surge in recent volcanic eruptions (1967) Bull. Volcanol., 30, pp. 337-363; 
+Morrissey, M., Zimanowski, B., Wohletz, K., Buettner, R., Phreatomagmatic fragmentation (2000) Encyclopedia of Volcanoes, pp. 431-445. , Academic Press, London, H. Sigurdsson, B. Houghton, S.R. McNutt, H. Rymer, J. Stix (Eds.); 
+Nemeth, K., Cronin, S.J., Syn- and post-eruptive erosion, gully formation, and morphological evolution of a tephra ring in tropical climate erupted in 1913 in West Ambrym, Vanuatu (2007) Geomorphology, 86, pp. 115-130; 
+Nemeth, K., Cronin, S.J., Charley, D., Harrison, M., Garae, E., Exploding lakes in Vanuatu; "Surtseyan-style" eruptions witnessed on Ambae Island (2006) Episodes, 29, pp. 87-92; 
+Panton, R.L., (1996) Incompressible Flow, p. 837. , Wiley, New York; 
+Parker, G., Fukushima, Y., Yu, W., Experiments on turbidity currents over an erodible bed (1987) J. Hydraul. Res., 25, pp. 123-147; 
+Rae, W.H., Pope, A., (1984) Low-speed Wind Tunnel Testing, p. 534. , Wiley, New York; 
+Sandri, L., Jolly, G., Lindsay, J., Combining long- and short-term probabilistic volcanic. hazard assessment with cost-benefit analysis to support decision making in a volcanic crisis from the Auckland Volcanic Field, New Zealand (2012) Bull. Volcanol., 74, pp. 705-723; 
+Schmincke, H.-U., Fisher, R.V., Waters, A., Antidune and chute and pool structures in the base surge deposits of the Laacher See area, Germany (1973) Sedimentology, 20, pp. 553-574; 
+Searle, E.J., (1964) City of Volcanoes. A Geology of Auckland, p. 112. , Longman Paul, Auckland; 
+Shane, P., Sandiford, A., Paleovegetation of marine isotope stages 4 and 3 in northern New Zealand and the age of the widespread Rotoehu Tephra (2003) Quat. Res., 59, pp. 420-429; 
+Smith, I.E.M., Allen, S.R., Volcanic hazards at the Auckland Volcanic Field (1993) Ministry of Civil Defense, Volcanic Hazards Information Booklet No. 5, p. 34; 
+Sohn, Y.K., Chough, S.K., Depositional processes of the Suwolbong tuff ring, Cheju Island (Korea) (1989) Sedimentology, 36, pp. 837-855; 
+Sparks, R.S.J., Wilson, L., Hulme, G., Theoretical modeling of the generation, movement, and emplacement of pyroclastic flows by column collapse (1978) J. Geophys. Res., 83, pp. 1727-1739; 
+Takahashi, T., Mechanics and simulation of snow avalanches, pyroclastic flows and debris flows (2001) Spec. Publs. Int. Assoc. Sediment, No. 31, , Blackwell Science, Oxford, W.D. McCaffrey, B.D. Kneller, J.J. Peakall (Eds.) Particulate Gravity Currents; 
+Valentine, G.A., Stratified flow in pyroclastic surges (1987) Bull. Volcanol., 49, pp. 616-630; 
+Valentine, G.A., Damage to structures by pyroclastic flows and surges, inferred from nuclear weapons effects (1998) J. Volcanol. Geotherm. Res., 87 (1-4), pp. 117-140; 
+Waters, A.C., Fisher, R.V., Base surges and its deposits: Capelinhos and Taal volcanoes (1971) J. Geophys. Res., 76, pp. 5596-5614; 
+Wohletz, K.H., Pyroclastic surges and compressible two-phase flow (1998) From Magma to Tephra, pp. 25-51. , Elsevier, Amsterdam, A. Freundt, M. Rosi (Eds.); 
+Wohletz, K.H., McQueen, R.G., (1984) Experimental Studies of Hydromagmatic Volcanism. Studies of Geophysics, pp. 158-169. , Natl. Acad. Press, Washington, DC; 
+Wohletz, K.H., Sheridan, M.F., Model of pyroclastic surge (1979) Geol. Soc. Am. Pap., 180, pp. 177-194; 
+Woods, A.W., The fluid-dynamics and thermodynamics of eruption columns (1988) Bull. Volcanol., 50 (3), pp. 169-193; 
+Woods, A.W., Bursik, M.I., A laboratory study of ash flows (1994) J. Geophys. Res., 99, pp. 4375-4394
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84898819823&doi=10.1016%2fj.jvolgeores.2014.01.008&partnerID=40&md5=a8feeb7cd72149e1a16e77e17c7ac89f
+ER  - 
+
+TY  - JOUR
+TI  - Sequential fragmentation/transport theory, pyroclast size-density relationships, and the emplacement dynamics of pyroclastic density currents - A case study on the Mt. St. Helens (USA) 1980 eruption
+T2  - Journal of Volcanology and Geothermal Research
+J2  - J. Volcanol. Geotherm. Res.
+VL  - 275
+SP  - 1
+EP  - 13
+PY  - 2014
+DO  - 10.1016/j.jvolgeores.2014.01.016
+SN  - 03770273 (ISSN) 
+AU  - Mackaman-Lofland, C.
+AU  - Brand, B.D.
+AU  - Taddeucci, J.
+AU  - Wohletz, K.
+AD  - Department of Earth and Space Sciences, University of Washington, Seattle, WA 98195, United States
+AD  - Department of Geosciences, Boise State University, Boise, ID 83725, United States
+AD  - Instituto Nazionale di Geofisica e Vulcanologia, Rome, Italy
+AD  - Los Alamos National Laboratory, Los Alamos, NM 87545, United States
+AB  - Pyroclastic density currents (PDCs) are the most dangerous hazard associated with explosive volcanic eruptions. Despite recent advancements in the general understanding of PDC dynamics, limited direct observation and/or outcrop scarcity often hinder the interpretation of specific transport and depositional processes at many volcanoes. This study explores the potential of sequential fragmentation/transport theory (SFT; cf. Wohletz et al., 1989), a modeling method capable of predicting particle mass distributions based on the physical principles of fragmentation and transport, to retrieve the transport and depositional dynamics of well-characterized PDCs from the size and density distributions of individual components within the deposits. The extensive vertical and lateral exposures through the May 18th, 1980 PDC deposits at Mt. St. Helens (MSH) provide constraints on PDC regimes and flow boundary conditions at specific locations across the depositional area. Application to MSH deposits suggests that SFT parameter distributions can be effectively used to characterize flow boundary conditions and emplacement processes for a variety of PDC lithofacies and deposit locations. Results demonstrate that (1) the SFT approach reflects particle fragmentation and transport mechanisms regardless of variations in initial component distributions, consistent with results from previous studies; (2) SFT analysis reveals changes in particle characteristics that are not directly observable in grain size and fabric data; and (3) SFT parameters are more sensitive to regional transport conditions than local (outcrop-scale) depositional processes. The particle processing trends produced using SFT analysis are consistent with the degree of particle processing inferred from lithofacies architectures: for all lithofacies examined in this study, suspension sedimentation products exhibit much better processing than concentrated current deposits. Integrated field observations and SFT results provide evidence for increasing density segregation within the depositional region of the currents away from source, as well as for comparable density-segregation processes acting on lithic concentrations and pumice lenses within the current. These findings further define and reinforce the capability of SFT analysis to complement more conventional PDC study methods, significantly expanding the information gained regarding flow dynamics. Finally, this case study demonstrates that the SFT methodology has the potential to constrain regional flow conditions at volcanoes where outcrop exposures are limited. © 2014 Elsevier B.V.
+KW  - Mt. St. Helens
+KW  - Particle size-density relationships
+KW  - Pyroclastic density currents
+KW  - Pyroclastic deposits
+KW  - Sequential fragmentation/transport theory
+KW  - Deposits
+KW  - Dynamics
+KW  - Segregation (metallography)
+KW  - Volcanoes
+KW  - Flow boundary conditions
+KW  - Mt. St. Helens
+KW  - Particle characteristics
+KW  - Particle mass distribution
+KW  - Pyroclastic density currents
+KW  - Pyroclastic deposits
+KW  - Sequential fragmentation
+KW  - Suspension sedimentations
+KW  - Suspensions (fluids)
+KW  - emplacement
+KW  - explosive volcanism
+KW  - fragmentation
+KW  - pyroclastic deposit
+KW  - pyroclastic flow
+KW  - transport process
+KW  - volcanic eruption
+KW  - Cascade Range
+KW  - Mount Saint Helens
+KW  - United States
+KW  - Washington [United States]
+PB  - Elsevier
+N1  - Cited By :7
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Mackaman-Lofland, C.; Department of Earth and Space Sciences, University of Washington, Seattle, WA 98195, United States; email: chelsm42@outlook.com
+N1  - Funding details: National Science Foundation, NSF, NSF-EAR 0948588
+N1  - Funding text 1: Funding for this work was provided through a National Science Foundation grant ( NSF-EAR 0948588 ). The authors would like to thank Dr. Ulrich Kueppers and Dr. Pablo Davila Harris for their thorough and constructive reviews, and JVGR Editor Joan Marti for additional guidance that helped us improve the manuscript.
+N1  - References: Allen, S.R., Reconstruction of a major caldera-forming eruption from pyroclastic deposit characteristics: Kos Plateau Tuff, eastern Aegean Sea (2001) J. Volcanol. Geotherm. Res., 105, pp. 141-162; 
+Andrews, B.J., Gardner, J.E., Turbulent dynamics of the 18 May 1980 Mount St. Helens eruption column (2009) Geology, 37, pp. 895-898; 
+Beeson, D.L., (1987) Proximal Flank Facies of the May 18, 1980 Ignimbrite: Mount St Helens, Washington, , University of Texas at Arlington, (MS Thesis); 
+Bendana, S., Brand, B.D., Self, S., Dufek, J., Effects of slope on the dynamics of dilute pyroclastic density currents from May 18th, 1980 Mt. St. Helens eruption (2012) American Geophysical Union Annual Meeting, , (Abstract V41B-2778); 
+Bourdier, J.L., Abdurachman, E.K., Decoupling of small-volume pyroclastic flows and related hazards at Merapi volcano, Indonesia (2001) Bull. Volcanol., 63, pp. 309-325; 
+Brand, B.D., Mackaman-Lofland, C., Pollock, N., Bendana, S., Dawson, B., Wichgers, P., Dynamics of pyroclastic density currents: conditions that promote substrate erosion and self-channelization-Mount St Helens, Washington (USA) (2014) J. Volcanol. Geotherm. Res., , (in press); 
+Branney, M.J., Kokelaar, B.P., Pyroclastic density currents and the sedimentation of ignimbrites (2002) Geol. Soc. London Mem., 27 (143); 
+Brown, W.K., Wohletz, K.H., Derivation of the Weibull distribution based on physical principles and its connection to the Rosin-Rammler and lognormal distributions (1995) J. Appl. Phys., 78, pp. 2758-2763; 
+Burgisser, A., Bergantz, G.W., Reconciling pyroclastic flow and surge: the multiphase physics of pyroclastic density currents (2002) Earth Planet. Sci. Lett., 202, pp. 405-418; 
+Calder, E.S., Sparks, R.S.J., Gardeweg, M.C., Erosion, transport and segregation of pumice in pyroclastic flows inferred from ignimbrite at Lascar Volcano, Chile (2000) J. Volcanol. Geotherm. Res., 104, pp. 201-235; 
+Christiansen, R.L., Peterson, D.W., Chronology of the 1980 eruptive activity (1981) US Geological Survey Professional Paper 1250, pp. 17-30. , P.O. Lipman, D.R. Mullineaux (Eds.) The 1980 Eruptions of Mount St. Helens, Washington; 
+Criswell, C.W., Chronology and pyroclastic stratigraphy of the May 18, 1980 eruption of Mount St. Helens, Washington (1987) J. Geophys. Res., 92, pp. 10237-10266; 
+Dellino, P., De Astis, G., La Volpe, L., Mele, D., Sulpizio, R., Quantitative hazard assessment of phreatomagmatic eruptions at Vulcano (Aeolian Islands, Southern Italy) as obtained by combining stratigraphy, event statistics and physical modeling (2011) J. Volcanol. Geotherm. Res., 201, pp. 364-384; 
+Druitt, T.H., Settling behavior of concentrated dispersions and some volcanological applications (1995) J. Volcanol. Geotherm. Res., 65, pp. 27-39; 
+Druitt, T.H., Avard, G., Bruni, G., Lettieri, P., Maez, F., Gas retention in fine-grained pyroclastic flow materials at high temperatures (2007) Bull. Volcanol., 69, pp. 881-901; 
+Durant, A.J., Rose, W.I., Sarna-Sojcicki, A.M., Carey, S., Volentik, A.C.M., Hydrometeor-enhanced tephra sedimentation: constraints from the 18 May 1980 eruption of Mt. St. Helens (2009) Journal of Geophysical Research 114, , (B03204); 
+Fisher, R.V., Transport and deposition of a pyroclastic surge across an area of high relief: the 18 May 1980 eruption of Mount St. Helens, Washington (1990) Geological Society of America, Bulletin 102, pp. 1038-1054; 
+Francis, P., (1993) Volcanoes - a planetary perspective, , Oxford University Press Inc., New York; 
+Giordano, G., The effects of paleotopography on lithic distribution and facies associations of small volume ignimbrites: the WTT Cupa (Roccamonfina volcano, Italy) (1998) J. Volcanol. Geotherm. Res., 87, pp. 255-273; 
+Kieffer, S.W., Fluid dynamics of the May 18 blast at Mount St. Helens (1981) The 1980 Eruptions of Mount St. Helens, Washington - US Geological Survey Professional Paper 1250, pp. 379-400. , P.O. Lipman, D.R. Mullineaux (Eds.); 
+Kuntz, M.A., Rowley, P.D., MacLeod, N.S., Reynolds, R.L., McBroome, L.A., Kaplan, A.M., Lidke, D.J., Petrography and particle-size distribution of pyroclastic-flow, ash-cloud, and surge deposits (1981) US Geological Survey Professional Paper 1250, pp. 525-539. , P.O. Lipman, D.R. Mullineaux (Eds.) The 1980 Eruptions of Mount St. Helens, Washington; 
+Manga, M., Patel, A., Dufek, J., Rounding of pumice clasts during transport: field measurements and laboratory studies (2011) Bull. Volcanol., 73, pp. 321-333; 
+Orsi, G., Gallo, G., Heiken, G., Wohletz, K., Yu, E., Bonani, G., A comprehensive study of pumice formation and dispersal: the Cretaio Tephra of Ischia (Italy) (1992) J. Volcanol. Geotherm. Res., 53, pp. 329-354; 
+Pollock, N., Brand, B., Investigation into the erosive capacity of pyroclastic density currents at Mount Saint Helens, Washington (USA) (2012) American Geophysical Union Annual Meeting, , (Abstract V54C-01); 
+Pollock, N., (2013) Field Evidence for Substrate Entrainment by Pyroclastic Density Currents and its Effect on Downstream Dynamics at Mount St. Helens, Washington (USA), , University of Washington, (M.S. Thesis); 
+Roche, O., Depositional processes and gas pore pressure in pyroclastic flows: an experimental perspective (2012) Bull. Volcanol., 74, pp. 1807-1820; 
+Rowley, P., Kokelaar, P., Menzies, M., Waltham, D., Shear-derived mixing in dense granular flow (2012) J. Sediment. Res., 81, pp. 874-884; 
+Rowley, P.D., Kuntz, M.A., MacLeod, N.S., Pyroclastic-flow deposits (1981) US Geological Survey Professional Paper 250, pp. 489-512; 
+Rowley, P.D., Macleod, N.S., Kuntz, M.A., Kaplan, A.M., Proximal bedded deposits related to pyroclastic flows of May 18, 1980, Mount St Helens, Washington (1985) Geol. Soc. Am. Bull., 96, pp. 1373-1383; 
+Sheridan, M.F., Wohletz, K.H., Dehn, J., Discrimination of grain-size subpopulations in pyroclastic deposits (1987) Geology, 15, pp. 367-370; 
+Sparks, R.S.J., Grain size variations in ignimbrites and implications for the transport of pyroclastic flows (1976) Sedimentology, 23, pp. 147-188; 
+Sparks, R.S.J., Bursik, M.I., Carey, S.N., Gilbert, J.S., Glaze, L.S., Sigurdsson, H., Woods, A.W., (1997) Volcanic Plumes, , John Wiley, Chichester; 
+Sparks, R.S.J., Self, S., Walker, G.P.L., Products of ignimbrite eruptions (1973) Geology, 1, pp. 115-118; 
+Sulpizio, R., De Rosa, R., Donato, P., The influence of variable topography on the depositional behavior of pyroclastic density currents: the examples of the Upper Pollara eruption (Salina Island, southern Italy) (2008) J. Volcanol. Geotherm. Res., 175, pp. 3367-3385; 
+Taddeucci, J., Palladino, D.M., Particle size-density relationships in pyroclastic deposits: inferences for emplacement processes (2002) Bull. Volcanol., 64, pp. 273-284; 
+Taddeucci, J., Wohletz, K.H., Temporal evolution of the Minoan eruption (Santorini, Greece), as recorded by its Plinian fall and interlayered ash flow deposits (2001) J. Volcanol. Geotherm. Res., 109, pp. 301-319; 
+Valentine, G.A., Damage to structures by pyroclastic flows and surges, inferred from nuclear weapons effects (1998) J. Volcanol. Geotherm. Res., 87, pp. 117-140; 
+Valentine, G.A., Wohletz, K.H., Kieffer, S.W., Effects of topography on facies and compositional zonation in caldera-related ignimbrites (1992) Geol. Soc. Am. Bull., 104, pp. 154-165; 
+Walker, G.P.L., Ignimbrite types and ignimbrite problems (1983) J. Volcanol. Geotherm. Res., 17, pp. 65-88; 
+Walker, G.P.L., Grain-size characteristics of pyroclastic deposits (1971) Geology, 79, pp. 696-714; 
+Wohletz, K.H., Pyroclastic surges and compressible two-phase flow (1998) Developments in Volcanology, pp. 247-312. , Elsevier, A. Freundt, M. Rosi (Eds.) From Magma to Tephra - Modelling Physical Processes of Explosive Volcanic Eruptions; 
+Wohletz, K., Brown, W., Particulate size distributions and sequential fragmentation/transport theory (1995) Intense Multiphase Interactions. Proceedings of US (NSF) Japan (JSPS) Joint Seminar, Santa Barbara CA. June 8-13 1995, pp. 235-241. , A. Theofanous, M. Akiyama (Eds.); 
+Wohletz, K., Orsi, G., de Vita, S., Eruptive mechanisms of the Neapolitan Yellow Tuff interpreted from stratigraphic, chemical, and granulometric data (1995) J. Volcanol. Geotherm. Res., 67, pp. 263-290; 
+Wohletz, K.H., Sheridan, M.F., Brown, W.K., Particle-size distributions and the sequential fragmentation/transport theory applied to volcanic ash (1989) J. Geophys. Res., 94, pp. 15703-15721; 
+Wohletz, K.H., Raymond, R., Atmospheric dust dispersal analyzed by granulometry of the Misers Gold event (1993) J. Geophys. Res., 98, pp. 557-566
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84895736590&doi=10.1016%2fj.jvolgeores.2014.01.016&partnerID=40&md5=28e23f6a292db9ee086e4ce7fa9922fe
+ER  - 
+
+TY  - JOUR
+TI  - Lunar cold spots: Granular flow features and extensive insulating materials surrounding young craters
+T2  - Icarus
+J2  - Icarus
+VL  - 231
+SP  - 221
+EP  - 231
+PY  - 2014
+DO  - 10.1016/j.icarus.2013.12.017
+SN  - 00191035 (ISSN) 
+AU  - Bandfield, J.L.
+AU  - Song, E.
+AU  - Hayne, P.O.
+AU  - Brand, B.D.
+AU  - Ghent, R.R.
+AU  - Vasavada, A.R.
+AU  - Paige, D.A.
+AD  - Space Science Institute, United States
+AD  - Hawai'i Institute of Geophysics and Planetology, University of Hawai'i, United States
+AD  - Jet Propulsion Laboratory, California Institute of Technology, United States
+AD  - Department of Geosciences, Boise State University, United States
+AD  - Department of Geology, University of Toronto, Canada
+AD  - Earth and Space Sciences, UCLA, United States
+AB  - Systematic temperature mapping and high resolution images reveal a previously unrecognized class of small, fresh lunar craters. These craters are distinguished by near-crater deposits with evidence for lateral, ground-hugging transport. More distal, highly insulating surfaces surround these craters and do not show evidence of either significant deposition of new material or erosion of the substrate. The near-crater deposits can be explained by a laterally propagating granular flow created by impact in the lunar vacuum environment. Further from the source crater, at distances of ~10-100 crater radii, the upper few to 10s of centimeters of regolith appear to have been "fluffed-up" without the accumulation of significant ejecta material. These properties appear to be common to all impacts, but quickly degrade in the lunar space weathering environment. Cratering in the vacuum environment involves a previously unrecognized set of processes that leave prominent, but ephemeral, features on the lunar surface. © 2013 Elsevier Inc.
+KW  - Impact processes
+KW  - Infrared observations
+KW  - Moon, surface
+KW  - Regoliths
+N1  - Cited By :24
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+N1  - CODEN: ICRSA
+LA  - English
+N1  - Correspondence Address: Bandfield, J.L.; Space Science Institute, 4750 Walnut Street, Suite 205, Boulder, CO 80301, United States; email: jbandfield@spacescience.org
+N1  - References: Bandfield, J.L., Lunar surface rock abundance and regolith fines temperatures derived from LRO Diviner Radiometer data (2011) J. Geophys. Res., p. 116; 
+Boyd, A.K., Robinson, M.S., Sato, H., Lunar Reconnaissance Orbiter wide angle camera photometry: An empirical solution (2012) Lunar Planet. Sci., 43. , Abstract 2795; 
+Branney, M.J., Kokelaar, P., (2002) Pyroclastic Density Currents and the Sedimentation of Ignimbrites, , Geological Society, London. Memoirs, 27; 
+Braslau, D., Partitioning of energy in hypervelocity impact against loose sand targets (1970) J. Geophys. Res., 75, pp. 3987-3999; 
+Félix, G., Thomas, N., Relation between dry granular flow regimes and morphology of deposits: Formation of levees in pyroclastic deposits (2004) Earth Planet. Sci. Lett., 221, pp. 197-213; 
+Ghent, R.R., Leverington, D.W., Campbell, B.A., Hawke, B.R., Campbell, D.B., Earth-based observations of radar-dark crater haloes on the Moon: Implications for regolith properties (2005) J. Geophys. Res., p. 110; 
+Ghent, R.R., Generation and emplacement of fine-grained ejecta in planetary impacts (2010) Icarus, 209, pp. 818-835; 
+Ghent, R.R., (2012) Constraints on the recent rate of lunar regolith accumulation from Diviner observations, , American Geophysical Union (Fall). Abstract 2012AGUFM.P42A07H; 
+Glasstone, S., Dolan, P.J., (1977) The Effects of Nuclear Weapons, , U.S. Government Printing Office, Washington, DC; 
+Hayne, P.O., (2011) The Moon's extremely insulating near-surface: Diviner infrared observations of a total lunar eclipse, , American Geophysical Union (Fall). Abstract 2011AGUFM.P13D1712H; 
+Heiken, G.H., Vaniman, D.T., French, B.M., (1991) Lunar Sourcebook - A User's Guide to the Moon, p. 753. , Cambridge University Press, Cambridge, England; 
+Horai, K.-I., Simmons, G., Thermal property measurements on lunar material returned by Apollo 11 and 12 missions (1972) Prog. Astronaut. Aeronaut., 28, pp. 243-267; 
+Housen, K.R., Holsapple, K.A., Ejecta from impact craters (2011) Icarus, p. 211; 
+Keihm, S.J., Langseth Jr, M.G., Surface brightness temperatures at the Apollo 17 heat flow site: Thermal conductivity of the upper 15 cm of regolith (1973) Lunar Planet. Sci., 4. , Abstract 2503; 
+Le Feuvre, M., Wieczorek, M.A., Nonuniform cratering of the Moon and a revised crater chronology of the inner Solar System (2011) Icarus, p. 214; 
+Lucey, P.G., Blewett, D.T., Taylor, G.J., Hawke, B.R., Imaging of lunar surface maturity (2000) J. Geophys. Res., 105, pp. 20377-20386; 
+Lucey, P.G., Blewett, D.T., Taylor, G.J., Hawke, B.R., Imaging of lunar surface maturity (2000) J. Geophys. Res., p. 105; 
+McGetchin, T.R., Settle, M., Head, J.W., Radial thickness variation in impact crater ejecta: Implications for lunar basin deposits (1973) Earth Planet. Sci. Lett., 20, pp. 226-236; 
+Melosh, H.J., (1989) Impact Cratering: A Geologic Process, p. 253. , Oxford University Press, New York; 
+Mendell, W.W., Low, F.J., Preliminary results of the apollo 17 infrared scanning radiometer (1974) Moon, 9, pp. 97-103; 
+Oberbeck, V.R., The role of ballistic erosion and sedimentation in lunar stratigraphy (1975) Rev. Geophys. Space Phys., 13, pp. 337-362; 
+Oberbeck, V.R., Morrison, R.H., Laboratory simulation of the herringbone pattern associated with lunar secondary crater chains (1974) Moon, 9, pp. 415-2455; 
+Oberbeck, V.R., Morrison, R.H., Hoerz, F., Transport and emplacement of crater and basin deposits (1975) Moon, 13, pp. 9-26; 
+Osinski, G.O., Tornabene, L.L., Grieve, R.A.F., Impact ejecta emplacement on terrestrial planets (2011) Earth Planet. Sci. Lett., p. 310; 
+Paige, D.A., The Lunar Reconnaissance Orbiter Diviner Lunar Radiometer Experiment (2010) Space Sci. Rev., 150, pp. 125-160; 
+Paige, D.A., Williams, J.P., Sullivan, M.T., Greenhagen, B.T., LRO Diviner Lunar Radiometer global mapping results and gridded data product (2011) Lunar Planet. Sci., 42. , Abstract 2544; 
+Robinson, M.S., Lunar reconnaissance orbiter camera (LROC) instrument overview (2010) Space Sci. Rev., 150, pp. 81-124; 
+Roche, O., Nino, Y., Mangeney, A., Brand, B.D., Valentine, G.A., (2012) Entrainment of granular substrate by pyroclastic flows: An experimental study and its implications for flow dynamics, , American Geophysical Union (Fall). Abstract 2012AGUFM.V52C07; 
+Sadigh, K., Chang, C.-Y., Egan, J.A., Makdisi, F., Youngs, R.R., Attenuation relationships for shallow crustal earthquakes based on California strong motion data (1997) Seis. Res. Lett., 68, pp. 180-189; 
+Schultz, P.H., Atmospheric effects on ejecta emplacement and crater formation on Venus from Magellan (1992) J. Geophys. Res., 97, pp. 16183-16248; 
+Shorthill, R.W., Infrared moon: A review (1970) J. Spacecraft Rockets, 7. , http://dx.doi.org/38510.2514/3.29952; 
+Smith, D.E., The Lunar Orbiter Laser Altimeter investigation on the Lunar Reconnaissance Orbiter mission (2010) Space Sci. Rev., 150, pp. 209-241; 
+Stopar, J.D., Robinson, M., Barnouin, O.S., Tran, T., (2010), Depths, diameters, and profiles of small lunar craters from LROC NAC stereo images. American Geophysical Union (Fall). Abstract 1543; Valentine, G.A., Damage to structures by pyroclastic flows and surges, inferred from nuclear weapons tests (1998) J. Volcan. Geotherm. Res., 87, pp. 117-140; 
+Vasavada, A.R., Paige, D.A., Wood, S.E., Near-surface temperatures on Mercury and the Moon and the stability of polar ice deposits (1999) Icarus, 141, pp. 179-193; 
+Vasavada, A.R., Lunar equatorial surface temperatures and regolith properties from the Diviner Lunar Radiometer Experiment (2012) J. Geophys. Res., p. 117
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84891905791&doi=10.1016%2fj.icarus.2013.12.017&partnerID=40&md5=07d5f61896a31132f57a8329770a2ac1
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic pore-pressure variations induce substrate erosion by pyroclastic flows
+T2  - Geology
+J2  - Geology
+VL  - 41
+IS  - 10
+SP  - 1107
+EP  - 1110
+PY  - 2013
+DO  - 10.1130/G34668.1
+SN  - 00917613 (ISSN) 
+AU  - Roche, O.
+AU  - Niño, Y.
+AU  - Mangeney, A.
+AU  - Brand, B.
+AU  - Pollock, N.
+AU  - Valentine, G.A.
+AD  - Laboratoire Magmas et Volcans, Université Blaise Pascal, CNRS UMR6524, IRD R163, 5 rue Kessler, F-63038 Clermont-Ferrand, France
+AD  - Department of Civil Engineering and Advanced Mining Technology Center, University of Chile, Av. Blanco Encalada 2002, Casilla 228-3, Santiago, Chile
+AD  - Institut de Physique du Globe de Paris, Sorbonne Paris Cité, Université Paris Diderot, UMR 7154, 1 rue Jussieu, 75238 Paris cedex 05, France
+AD  - Department of Geosciences, Boise State University, 1910 University Drive, Boise, ID 83725-1535, United States
+AD  - Department of Earth and Space Sciences, University of Washington, 4000 15th Avenue NE, Seattle, WA 98195-1310, United States
+AD  - Department of Geology and Center for Geohazards Studies, University at Buffalo, 411 Cooke Hall, Buffalo, NY 14260-1350, United States
+AB  - Field evidence shows that pyroclastic fl ows can entrain blocks from underlying substrates formed by earlier geological events, yet, counterintuitively, they are less likely to erode unconsolidated layers of fine particles. Here we report laboratory experiments that reproduce these seemingly contradictory observations and also offer a means to infer pyroclastic fl ow velocity. Experiments demonstrate that the sliding head of a granular fl ow generates a dynamic upward pore-pressure gradient at the fl ow-substrate interface. Associated upward air fl ux is enough to fl uidize a substrate of fines, so that particles are not entrained individually but the substrate instead is subject to small shear instabilities. In contrast, coarse particles forming a non-fl uidized substrate are lifted at a critical upward force due to the pore-pressure gradient, according to their individual masses, which provides a basis for a model to calculate the fl ow velocity. Application to the 18 May 1980 pyroclastic fl ow deposits at Mount St. Helens (Washington State, USA) gives velocities of ~9-13 m s-1 at ~6-7 km from the vent on gentle slopes (<4°-6°), in agreement with field observations at this volcano and at others. © 2013 Geological Society of America.
+KW  - Coarse particles
+KW  - Field observations
+KW  - Geological events
+KW  - Laboratory experiments
+KW  - Mount St. Helens
+KW  - Pyroclastic flows
+KW  - Shear instability
+KW  - Unconsolidated layers
+KW  - Experiments
+KW  - Interfaces (materials)
+KW  - Pressure gradient
+KW  - Substrates
+KW  - erosion
+KW  - flow velocity
+KW  - granular medium
+KW  - pore pressure
+KW  - pressure gradient
+KW  - pyroclastic flow
+KW  - substrate
+N1  - Cited By :29
+N1  - Export Date: 28 May 2020
+M3  - Article
+DB  - Scopus
+N1  - CODEN: GLGYB
+LA  - English
+N1  - Correspondence Address: Roche, O.; Laboratoire Magmas et Volcans, Université Blaise Pascal, CNRS UMR6524, IRD R163, 5 rue Kessler, F-63038 Clermont-Ferrand, France; email: o.roche@opgc.univ-bpclermont.fr
+N1  - References: Buesch, D.C., Incorporation and redistribution of locally derived lithic fragments within a pyroclastic flow (1992) Geological Society of America Bulletin, 104, pp. 1193-1207. , doi:10.1130/0016 -7606(1992)104<1193:IAROLD>2.3.CO;2; 
+Cas, R.A.F., Wright, H.M.N., Folkes, C.B., Lesti, C., Porreca, M., Giordano, G., Viramonte, J.G., The flow dynamics of an extremely large volume pyroclastic flow, the 2.08-Ma Cerro Galán Ignimbrite, NW Argentina, and comparison with other flow types (2011) Bulletin of Volcanology, 73, pp. 1583-1609. , doi:10.1007/s00445-011 -0564-y; 
+Cole, P.D., Calder, E.S., Sparks, R.S.J., Clarke, A.B., Druitt, T.H., Young, S.R., Herd, R.A., Norton, G.E., (2002) Deposits from dome-collapse and fountain-collapse pyroclastic flows at Soufrière Hills Volcano, Montserrat, in Druitt, T.H., and Kokelaar, B.P., eds., The Eruption of Soufrière Hills Volcano, Montserrat, from 1995 to 1999, pp. 231-262. , Geological Society of London Memoir 21; 
+Druitt, T.H., (1998) Pyroclastic density currents, in Gilbert, J.S., and Sparks, R.S.J., eds., The Physics of Explosive Volcanic Eruptions, pp. 145-182. , Geological Society of London Special Publication 145; 
+Druitt, T.H., Avard, G., Bruni, G., Lettieri, P., Maez, F., Gas retention in fine-grained pyroclastic flow materials at high temperatures (2007) Bulletin of Volcanology, 69, pp. 881-901. , doi:10.1007/s00445-007-0116-7; 
+Farin, M., Mangeney, A., Roche, O., (2013) Erosion processes in granular flows, , Insights from laboratory experiments: European Geophysical Union Meeting, 2013, Abstract EGU2013-610; 
+Freundt, A., Carey, S., Wilson, C.J.N., (2000) Ignimbrites and block-and-ash flow deposits, in Sigurdsson, H., et al., eds., Encyclopedia of Volcanoes, pp. 581-600. , New York, London, Academic Press; 
+Frey, P., Church, M., Bedload (2011) A granular phenomenon: Earth Surface Processes and Landforms, 36, pp. 58-69. , doi:10.1002/esp .2103; 
+Girolami, L., Roche, O., Druitt, T.H., Corpetti, T., Velocity fields and depositional processes in laboratory ash flows (2010) Bulletin of Volcanology, 72, pp. 747-759. , doi:10.1007 /s00445-010-0356-9; 
+Hoblitt, R.P., (1986) Observations of the eruptions of July 22 and August 7, 1980, at Mount St. Helens, Washington, p. 42. , U.S Geological Survey Professional Paper 1335; 
+Iverson, R.M., Reid, M.E., Logan, M., Lahusen, R.G., Godt, J.W., Griswold, J.G., Positive feedback and momentum growth during debris-flow entrainment of wet bed sediment (2011) Nature Geoscience, 4, pp. 116-121. , doi:10.1038/ngeo1040; 
+Le Pennec, J.-L., Bourdier, J.-L., Froger, J.-L., Temel, A., Camus, G., Gourgaud, A., Neogene ignimbrites of the Nevsehir plateau (central Turkey) (1994) Stratigraphy, distribution and source constraints: Journal of Volcanology and Geothermal Research, 63, pp. 59-87. , doi:10.1016/0377-0273(94)90018-3; 
+Louge, M., Carroll, C.S., Turnbull, B., Role of pore pressure gradients in sustaining frontal particle entrainment in eruption currents-The case of powder snow avalanches (2011) Journal of Geophysical Research, 116, pp. F04030. , doi:10.1029/2011JF002065; 
+Loughlin, S.C., Calder, E.S., Clarke, A., Cole, P.D., Luckett, R., Mangan, M.T., Pyle, D.M., Watts, R.B., (2002) Pyroclastic flows and surges generated by the 25 June 1997 dome collapse, Sonfière Hills Volcano, Montserrat, in Druitt, T.H., and Kokelaar, B.P., eds., The Eruption of Soufrière Hills Volcano, Montserrat, from 1995 to 1999, pp. 191-209. , Geological Society of London Memoir 21; 
+Mangeney, A., Roche, O., Hungr, O., Mangold, N., Faccanoni, G., Lucas, A., Erosion and mobility in granular collapse over sloping beds (2010) Journal of Geophysical Research, 115, pp. F03040. , doi:10.1029/2009JF001462; 
+Mccoy, S.W., Kean, J.W., Coe, J.A., Tucker, G.E., Staley, D.M., Sediment entrainment by debris flows (2012) In situ measurements from the headwaters of a steep catchment: Journal of Geophysical Research, 117, pp. F03016. , doi:10.1029 /2011JF002278; 
+Mcelwaine, J.N., Turnbull, B., Air pressure data from the Vallée de la Sionne avalanches of 2004 (2005) Journal of Geophysical Research, 110, pp. F03010. , doi:10.1029/2004JF000237; 
+Niño, Y., Lopez, F., Garcia, M., Threshold for particle entrainment into suspension (2003) Sedimentology, 50, pp. 247-263. , doi:10.1046/j.1365 -3091.2003.00551.x; 
+Parker, G., Conditions for the ignition of catastrophically erosive turbidity currents (1982) Marine Geology, 46, pp. 307-327. , doi:10.1016/0025 -3227(82)90086-X; 
+Pittari, A., Cas, R.A.F., Monaghan, J.J., Martí, J., Instantaneous dynamic pressure effects on the behaviour of lithic boulders in pyroclastic flows (2007) The Abrigo Ignimbrite, Tenerife, Canary Islands: Bulletin of Volcanology, 69, pp. 265- 279. , doi:10.1007/s00445-006-0072-7; 
+Pollock, N.M., Brand, B.D., (2012) Investigation into the erosive capacity of pyroclastic density currents at Mount Saint Helens, Washington (USA), , American Geophysical Union fall meeting, San Francisco, California, Abstract V54C-01; 
+Roche, O., Depositional processes and gas pore pressure in pyroclastic flows (2012) An experimental perspective: Bulletin of Volcanology, 74, pp. 1807-1820. , doi:10.1007/s00445-012-0639-4; 
+Roche, O., Montserrat, S., Niño, Y., Tamburrino, A., Experimental observations of waterlike behavior of initially fl uidized, unsteady dense granular flows and their relevance for the propagation of pyroclastic flows (2008) Journal of Geophysical Research, 113, pp. B12203. , doi:10.1029 /2008JB005664; 
+Roche, O., Montserrat, S., Niño, Y., Tamburrino, A., Pore fl uid pressure and internal kinematics of gravitational laboratory air-particle flows (2010) Insights into the emplacement dynamics of pyroclastic flows: Journal of Geophysical Research, 115, pp. B09206. , doi:10.1029 /2009JB007133; 
+Rowley, P.J., Kokelaar, P., Menzies, M., Waltham, D., Shear-derived mixing in dense granular flows (2011) Journal of Sedimentary Research, 81, pp. 874-884. , doi:10.2110/jsr.2011.72; 
+Sovilla, B., Burlando, P., Bartelt, P., Field experiments and numerical modeling of mass entrainment in snow avalanches (2006) Journal of Geophysical Research, 111, pp. F03007. , doi:10.1029 /2005JF000391; 
+Sparks, R.S.J., Grain size variations in ignimbrites and implications for the transport of pyroclastic flows (1976) Sedimentology, 23, pp. 147-188. , doi:10.1111/j.1365-3091.1976.tb00045.x; 
+Sparks, R.S.J., Gardeweg, M.C., Calder, E.S., Matthews, S.J., Erosion by pyroclastic flows on Lascar Volcano, Chile (1997) Bulletin of Volcanology, 58, pp. 557-565. , doi:10.1007/s004450050162; 
+Suzuki-Kamata, K., The ground layer of Ata pyroclastic flow deposit, southwestern Japan-Evidence for the capture of lithic fragments (1988) Bulletin of Volcanology, 50, pp. 119-129. , doi:10.1007 /BF01275173; 
+Valentine, G.A., Buesch, D.C., Fisher, R.V., Basal layered deposits of the Peach Springs Tuff, northwestern Arizona, USA (1989) Bulletin of Volcanology, 51, pp. 395-414. , doi:10.1007 /BF01078808
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884518095&doi=10.1130%2fG34668.1&partnerID=40&md5=89f5c37effbd3f2007b7741166759c34
+ER  - 
+
